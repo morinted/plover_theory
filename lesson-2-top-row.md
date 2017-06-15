@@ -76,7 +76,7 @@ f. `U STPH-FPLT PUL -T PUP TP-PL`
 
 g. `-T HUT H HAF -T SALT TP-PL`
 
-e. `U H STAF H-F` 
+e. `U H STAF H-F`
 
 _Notice how some examples contains two consonants after each other. Just like in spelling, this is used in steno._
 
@@ -92,5 +92,5 @@ c. Halt: pull it.
 
 d. Is it half sap?
 
-e. It is.
+e. It is the shaft.
 
