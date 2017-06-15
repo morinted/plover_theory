@@ -1,20 +1,29 @@
 # Lesson 2:  Top Row
 
-We will start by learning about half the keyboard, by focusing on the top row of the keyboard and half the vowels.
+This lesson introduces about **half the keyboard**: the** top row** of the keyboard and **two vowels**.
 
-The keys we are learning today, one for each finger on both your hands from left to right, are `STPH A U FPLT`
+The keys used in this lesson are:
+
+* `STPH A U FPLT`
+* `1234 5 5 4321`
+
+The numbers show the fingers for each key, where 1's are the pinkies and 5 are the thumbs.
 
 ### Chord Syntax
 
-To denote a chord, note that any of these keys can appear once. If center keys are not present, we add a hyphen to clarify which side with mean. Lack of a hyphen means the left side. For example, `T` or `T-` is the left-hand T, and `-T` is the right-hand T. Even when there is no uncertainty, we still denote right-hand keys with a hyphen in front of them unless there's a vowel.
+To denote a chord, note that any of these keys **can appear once**. If center keys are not present, we **add a hyphen to clarify which side the key is on**. Lack of a hyphen means the left side.
 
-E.g. `-F` or `AF`, but not `F`. Some conventions always include the hyphen, e.g. `A-F` but this is not Plover style.
+`T` or `T-` is the left-hand T.
+
+`-T` is the right-hand T.
+
+Even when there is no uncertainty, we still denote right-hand keys with a hyphen in front of them unless there's a vowel: `-F` or `AF`, but not `F`. Some conventions always include the hyphen, e.g. `A-F`, but this is not Plover style.
 
 ### Briefs
 
-Briefs are shortcuts in stenography, and an essential component in gaining speed. While steno's base theory is syllabic, you will learn and use many briefs to get out long words and phrases very quickly.
+**Briefs are shortcuts** in stenography, and an essential component in gaining speed. While steno's base theory is syllabic, you will learn and use many briefs to get out **long words and phrases very quickly**.
 
-The more common a word, the more likely it has a brief. In fact, the first bit of steno theory you are about to learn is all about briefs that you can make with just `STPHAUFPLT`.
+The more common a word, the more likely it has a brief. In fact, the first bit of steno theory you are about to learn is about briefs that you can make with just `STPHAUFPLT`.
 
 | Chord | Translation | Notes |
 | :--- | :--- | :--- |
@@ -47,23 +56,29 @@ This book does not require you to use your steno machine, but smart students wil
 
 ### Lesson 2 Practice
 
+Remember, `T-` and `T` are "it" while `-T` is "the". The hyphen denotes the center of the board.
+
 #### 2.1 Translate
 
 Write the English sentence represented by these outlines, including punctuation.
 
-a. `-T HUL S- TUF TP-PL`
+a. `-T HUL S TUF TP-PL`
 
 b. `TAP -T SAP TP-PL`
 
 c. `PUL -T HUL TP-PL`
 
-d. `-T PAL H- H- T- TP-PL` 
+d. `-T PAL H H T TP-PL`
 
-e. `S- -T PUP TUF H-F`
+e. `S -T PUP TUF H-F`
 
-f. `U STPH-FPLT PUL -T PUP`
+f. `U STPH-FPLT PUL -T PUP TP-PL`
 
-g. `-T HUT H- HAF -T SALT`
+g. `-T HUT H HAF -T SALT TP-PL`
+
+e. `U H STAF H-F` 
+
+_Notice how some examples contains two consonants after each other. Just like in spelling, this is used in steno._
 
 #### 2.2 Find Outlines
 
@@ -78,6 +93,4 @@ c. Halt: pull it.
 d. Is it half sap?
 
 e. It is.
-
-
 
