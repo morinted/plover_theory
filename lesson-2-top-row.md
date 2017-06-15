@@ -72,7 +72,7 @@ d. `-T PAL H H T TP-PL`
 
 e. `S -T PUP TUF H-F`
 
-f. `U STPH-FPLT PUL -T PUP TP-PL`
+f. `U STPH-FPLT PUL -T TUF PUP TP-PL`
 
 g. `-T HUT H HAF -T SALT TP-PL`
 
@@ -86,7 +86,7 @@ Find steno outlines that will write these English sentences, including punctuati
 
 a. The hull is tough.
 
-b. You sat the pup.
+b. You sat.
 
 c. Halt: pull it.
 
