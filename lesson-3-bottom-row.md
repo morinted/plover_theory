@@ -37,7 +37,9 @@ Finally, often building muscle memory is crucial for writing fast. Try drilling 
 
 ### Lesson 3 Practice
 
-Hint hint?
+Do your best to not refer to the charts all the time. Eventually you will need to go without them. Sometimes you can figure out the meaning of an outline based on the context of a sentence.
+
+The skill of recognizing words based on context is helpful for advanced stenographers who may need to dissect a word that they wrote incorrectly and find what they meant.
 
 #### 3.1 Translate
 
