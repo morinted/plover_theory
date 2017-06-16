@@ -46,15 +46,14 @@ The skill of recognizing words based on context is helpful for advanced stenogra
 Write the English sentence represented by these outlines, including punctuation.
 
 1. `-T KAT SKP -T PUG R UP TP-PL`
-1. `ROL TO -T TOP TP-PL`
-1. `RUB -T SOFT PUG SKP -T KAT TP-PL`
-1. `WE H TO STOP -T KAR AT -T KURB TP-PL`
-1. `AEU KRAB K KUT US H-F`
-1. `U STPH-FPLT PUL -T TUF PUP TP-PL`
-1. `U K -B AEU STAR TP-PL`
-1. `W AEU TOP HAT U K -B HOT TP-PL`
-1. `HUF KW-BG PUF KW-BG SKP STOP TP-PL`
-1. `T S AEU KUT -F -T RUG TP-PL`
+2. `ROL TO -T TOP TP-PL`
+3. `RUB -T SOFT PUG SKP -T KAT TP-PL`
+4. `WE H TO STOP -T KAR AT -T KURB TP-PL`
+5. `AEU KRAB K KUT US H-F`
+6. `U K -B AEU STAR TP-PL`
+7. `W AEU TOP HAT U K -B HOT TP-PL`
+8. `HUF KW-BG PUF KW-BG SKP STOP TP-PL`
+9. `T S AEU KUT -F -T RUG TP-PL`
 
 If you ever can't read an outline, you can try writing it into your steno machine with Plover running to see what it translates to.
 
@@ -63,9 +62,12 @@ If you ever can't read an outline, you can try writing it into your steno machin
 Find steno outlines that will write these English sentences, including punctuation.
 
 1. Huff, puff, and start.
-1. Cut up the rug.
-1. Hug a wet rat.
-1. Tug at the straps.
-1. You had a skull.
-1. You are a star of sorts.
-1. Is it a worse cut?
+2. Cut up the rug.
+3. Hug a wet rat.
+4. Tug at the straps.
+5. You had a skull.
+6. You are a star of sorts.
+7. Is it a worse cut?
+
+
+
