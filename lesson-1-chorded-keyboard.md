@@ -41,15 +41,16 @@ Instead of backspacing letter-by-letter, stenography backspaces one chord at a t
 For each raw steno chord, identify whether or not it is in steno order.
 
 1. `SKTA`
-1. `SPA`
-1. `TSUN`
-1. `PAP`
-1. `AH`
-1. `TKPBAODZ`
-1. `KAT`
-1. `TAC`
-1. `ZAOPL`
-1. `SOS`
-1. `HROF`
+2. `SPA`
+3. `TSUN`
+4. `PAP`
+5. `AH`
+6. `TKPBAODZ`
+7. `KAT`
+8. `TAC`
+9. `ZAOPL`
+10. `SOS`
+11. `HROF`
 
-Remember, steno order is firm and is never written out of order.
+Remember, steno order is firm and is never broken. Without a consistent order stenography would be much more ambiguous and confusing.
+
