@@ -21,7 +21,7 @@ Even when there is no uncertainty, we still denote right-hand keys with a hyphen
 
 ### Briefs
 
-**Briefs are shortcuts** in stenography, and an essential component in gaining speed. While steno's base theory is syllabic, you will learn and use many briefs to get out **long words and phrases very quickly**.
+**Briefs are shortcuts** in stenography, and an essential component in gaining speed. The word comes from "abbreviation". While steno's base theory is syllabic, you will learn and use many briefs to get out **long words and phrases very quickly**.
 
 The more common a word, the more likely it has a brief. In fact, the first bit of steno theory you are about to learn is about briefs that you can make with just `STPHAUFPLT`.
 
@@ -31,6 +31,7 @@ The more common a word, the more likely it has a brief. In fact, the first bit o
 | T- | it |  |
 | H- | had |  |
 | U | you | The letter "U" is a homophone to "you" |
+| -F | of |  |
 | -T | the |  |
 | TP-PL | {.} | Period. Next word is capitalized |
 | H-F | {?} | Question mark. Next word is capitalized. |
@@ -74,9 +75,11 @@ e. `S -T PUP TUF H-F`
 
 f. `U STPH-FPLT PUL -T TUF PUP TP-PL`
 
-g. `-T HUT H HAF -T SALT TP-PL`
+g. `-T HUT H HAF - -T SALT TP-PL`
 
 e. `U H STAF H-F`
+
+f. `-T STAF -F PAUL SAT TP-PL`
 
 _Notice how some examples contains two consonants after each other. Just like in spelling, this is used in steno._
 

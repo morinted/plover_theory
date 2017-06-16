@@ -30,7 +30,13 @@ Each finger is responsible for just two keys, except:
 
 Of note, some users use the left index finger to hit `*`. It is a matter of personal preference. It is okay to use either or both hands.
 
+#### Backspacing
+
+Instead of backspacing letter-by-letter, stenography backspaces one chord at a time. To "undo" the last stroke, simply press the `*` key \(the asterisk key\).
+
 ### Lesson 1 Practice
+
+#### 1.1 Pattern Recognition
 
 For each raw steno chord, identify whether or not it is in steno order.
 

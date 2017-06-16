@@ -1,0 +1,83 @@
+# Lesson 3:  Bottom Row
+
+This lesson introduces about most of the remainder of the keyboard: the** bottom row** of the keyboard and the **two other vowels**.
+
+The keys used in this lesson include those used in lesson 2, as well as:
+
+* `SKWR O E RBGS`
+* `1234 5 5 4321`
+
+The numbers show the fingers for each key, where 1's are the pinkies and 5 are the thumbs.
+
+The `S` key on the left hand is the same `S` key as on the top row. `S` is so common in English at the start of words that it's useful to have it twice.
+
+### Briefs
+
+Now that we most of the keyboard available, there are many possible briefs to form. The briefs chosen here are used in the lesson and extend what you learned in lesson 2.
+
+| Chord | Translation | Notes |
+| :--- | :--- | :--- |
+| R- or -R | are | Either side works. |
+| SKP- | and | This stroke is arbitrary, remember it by hand shape. |
+| AEU | a | This is the word "a |
+| K- | can |  |
+| W- | with | Many people use "w" as an abbreviation for "with". |
+| -B | be | The letter "B" is a homophone to "be" |
+| KW-BG | {,} | Comma. |
+
+_\*Notice that _`{}`_ are used to denote a special character in Plover's translation format._
+
+### How to Practice
+
+It might be valuable for you to write down or print briefs that you have trouble remembering. Some stenographers find it helpful to say the raw in their head as a mnemonic. For example, you might see `SKP` for "and", and think "skuhpah" as you stroke it to help remember the keys.
+
+Others like to imagine the shapes of the chords, thinking of `SKP` as a ramp heading up on the left-hand side of the keyboard.
+
+Finally, often building muscle memory is crucial for writing fast. Try drilling the brief in the middle of a sentence, get used to moving your hands in and out of that brief's shape. `SKP/HA/SKP/PAP/SKP/SAT/SKP/HAT`.
+
+### Lesson 3 Practice
+
+Hint hint?
+
+#### 3.1 Translate
+
+Write the English sentence represented by these outlines, including punctuation.
+
+a. `-T KAT SKP -T PUG R UP TP-PL`
+
+b. `ROL TO -T TOP TP-PL`
+
+c. `RUB -T SOFT PUG SKP -T KAT TP-PL`
+
+d. `WE H TO STOP -T KAR AT -T KURB TP-PL`
+
+e. `AEU KRAB K KUT US H-F`
+
+f. `U STPH-FPLT PUL -T TUF PUP TP-PL`
+
+g. `U K -B AEU STAR TP-PL`
+
+h. `W AEU TOP HAT U K -B HOT TP-PL`
+
+i. `HUF KW-BG PUF KW-BG SKP STOP TP-PL`
+
+j. `T S AEU KUT -F -T RUG TP-PL`
+
+If you ever can't read an outline, you can try writing it into your steno machine with Plover running to see what it translates to.
+
+#### 2.2 Find Outlines
+
+Find steno outlines that will write these English sentences, including punctuation.
+
+a. Huff, puff, and start.
+
+b. Cut up the rug.
+
+c. Hug a wet rat.
+
+d. Tug at the straps.
+
+e. You are a star.
+
+f. Is it a worse cut?
+
