@@ -45,25 +45,16 @@ The skill of recognizing words based on context is helpful for advanced stenogra
 
 Write the English sentence represented by these outlines, including punctuation.
 
-a. `-T KAT SKP -T PUG R UP TP-PL`
-
-b. `ROL TO -T TOP TP-PL`
-
-c. `RUB -T SOFT PUG SKP -T KAT TP-PL`
-
-d. `WE H TO STOP -T KAR AT -T KURB TP-PL`
-
-e. `AEU KRAB K KUT US H-F`
-
-f. `U STPH-FPLT PUL -T TUF PUP TP-PL`
-
-g. `U K -B AEU STAR TP-PL`
-
-h. `W AEU TOP HAT U K -B HOT TP-PL`
-
-i. `HUF KW-BG PUF KW-BG SKP STOP TP-PL`
-
-j. `T S AEU KUT -F -T RUG TP-PL`
+1. `-T KAT SKP -T PUG R UP TP-PL`
+1. `ROL TO -T TOP TP-PL`
+1. `RUB -T SOFT PUG SKP -T KAT TP-PL`
+1. `WE H TO STOP -T KAR AT -T KURB TP-PL`
+1. `AEU KRAB K KUT US H-F`
+1. `U STPH-FPLT PUL -T TUF PUP TP-PL`
+1. `U K -B AEU STAR TP-PL`
+1. `W AEU TOP HAT U K -B HOT TP-PL`
+1. `HUF KW-BG PUF KW-BG SKP STOP TP-PL`
+1. `T S AEU KUT -F -T RUG TP-PL`
 
 If you ever can't read an outline, you can try writing it into your steno machine with Plover running to see what it translates to.
 
@@ -82,4 +73,3 @@ d. Tug at the straps.
 e. You are a star.
 
 f. Is it a worse cut?
-
