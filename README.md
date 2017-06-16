@@ -3,14 +3,15 @@
 Stenography is the fastest way to input text. Court reports have used machine stenography since the early 1900s to take down spoken word in realtime.
 
 Nowadays, stenography is used for:
-- live TV captioning.
-- realtime transcription of conferences and lectures.
-- court reporting, especially in high profile cases where accuracy and turnaround time are important.
-- a fun hobby.
+
+* live TV captioning.
+* realtime transcription of conferences and lectures.
+* court reporting, especially in high profile cases where accuracy and turnaround time are important.
+* a fun hobby.
 
 ### Why Plover?
 
-Thanks to Plover, there are people who have self-taught themselves stenography with free resources online and now use stenography for different purposes at different speeds. You don't need to reach 225WPM (certified court reporter speed in the United States) to get a speed and ergonomics over a conventional keyboard.
+Thanks to Plover, there are people who have self-taught themselves stenography with free resources online and now use stenography for different purposes at different speeds. You don't need to reach 225WPM \(certified court reporter speed in the United States\) to get a speed and ergonomics over a conventional keyboard.
 
 The purpose of this book is to teach you Plover's steno theory. There are many different theories you can use and learn, but Plover comes with a perfectly competent dictionary for free that evolves over time. Plover theory is built on top of the personal dictionary of Mirabai Knight, the inventor of Plover.
 
@@ -29,4 +30,6 @@ My goal is to make a textbook that can be read cover to cover, with or without s
 The book is incomplete as I'm writing it and reworking it all the time. I'm not an author, I'm a software developer, so feedback and corrections are appreciated, though I might not get back to you as I'm reworking the format of the lessons over and over again. You can mail me at morinted@gmail.com
 
 All the best,
+
 Ted
+
