@@ -62,14 +62,10 @@ If you ever can't read an outline, you can try writing it into your steno machin
 
 Find steno outlines that will write these English sentences, including punctuation.
 
-a. Huff, puff, and start.
-
-b. Cut up the rug.
-
-c. Hug a wet rat.
-
-d. Tug at the straps.
-
-e. You are a star.
-
-f. Is it a worse cut?
+1. Huff, puff, and start.
+1. Cut up the rug.
+1. Hug a wet rat.
+1. Tug at the straps.
+1. You had a skull.
+1. You are a star of sorts.
+1. Is it a worse cut?

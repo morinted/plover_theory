@@ -63,23 +63,15 @@ Remember, `T-` and `T` are "it" while `-T` is "the". The hyphen denotes the cent
 
 Write the English sentence represented by these outlines, including punctuation.
 
-a. `-T HUL S TUF TP-PL`
-
-b. `TAP -T SAP TP-PL`
-
-c. `PUL -T HUL TP-PL`
-
-d. `-T PAL H H T TP-PL`
-
-e. `S -T PUP TUF H-F`
-
-f. `U STPH-FPLT PUL -T TUF PUP TP-PL`
-
-g. `-T HUT H HAF - -T SALT TP-PL`
-
-e. `U H STAF H-F`
-
-f. `-T STAF -F PAUL SAT TP-PL`
+1. `-T HUL S TUF TP-PL`
+1. `TAP -T SAP TP-PL`
+1. `PUL -T HUL TP-PL`
+1. `-T PAL H H T TP-PL`
+1. `S -T PUP TUF H-F`
+1. `U STPH-FPLT PUL -T TUF PUP TP-PL`
+1. `-T HUT H HAF - -T SALT TP-PL`
+1. `U H STAF H-F`
+1. `-T STAF -F PAUL SAT TP-PL`
 
 _Notice how some examples contains two consonants after each other. Just like in spelling, this is used in steno._
 
@@ -87,13 +79,8 @@ _Notice how some examples contains two consonants after each other. Just like in
 
 Find steno outlines that will write these English sentences, including punctuation.
 
-a. The hull is tough.
-
-b. You sat.
-
-c. Halt: pull it.
-
-d. Is it half sap?
-
-e. It is the shaft.
-
+1. The hull is tough.
+1. You sat.
+1. Halt: pull it.
+1. Is it half sap?
+1. It is the shaft.
