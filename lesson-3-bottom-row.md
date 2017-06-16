@@ -67,7 +67,7 @@ j. `T S AEU KUT -F -T RUG TP-PL`
 
 If you ever can't read an outline, you can try writing it into your steno machine with Plover running to see what it translates to.
 
-#### 2.2 Find Outlines
+#### 3.2 Find Outlines
 
 Find steno outlines that will write these English sentences, including punctuation.
 
