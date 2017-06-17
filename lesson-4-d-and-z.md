@@ -11,7 +11,7 @@ The numbers show the fingers for each key, where 1's are the pinkies and 5 are t
 
 Your keyboard may have multiple asterisks, up to four, or just one. As long as you can hit the asterisks with either index finger, you should be fine. The asterisk can be hit alone, or in conjunction with its neighboring keys. That is why often the gap between the asterisk key and `-FR` tends to be smaller than the gaps between other columns.
 
-Most stenographers hit the asterisk key exclusively with their right-hand, but you can feel free to only use your left-hand, or use them interchangeably. The left-hand tends to do less in steno \(responsible for only 9 keys instead of the right's typical 13\) so you might consider learning to use a left-side asterisk.
+Most stenographers hit the asterisk key exclusively with their right hand, but you can feel free to only use your left hand, or use them interchangeably. The left hand tends to do less in steno \(responsible for only 9 keys instead of the right's typical 13\) so you might consider learning to use a left-side asterisk.
 
 As for the `D` and `Z` keys, they are hit are the right pinky. They can be used alone, or in combos such as `TD`, `SZ`, or `DZ`. Note that, because the pinky is only one finger, you cannot hit `SD` or `TZ` because they are diagonal from each other. Some theories have you move your hand over and use your ring finger \(called a "Philly shift"\) but Plover doesn't use this trick. The pinky can hit the entire `TSDZ` bank, but it is extremely rare in Plover Theory.
 
