@@ -10,4 +10,9 @@
 * [Top Row](lesson-2-top-row.md)
 * [Bottom Row](lesson-3-bottom-row.md)
 * [\*, D, and Z](lesson-4-d-and-z.md)
+* [Basic Number Bar](basic-number-bar.md)
+
+## Draft Work
+
+* [Brainstorming](draft-work/brainstorming.md)
 
