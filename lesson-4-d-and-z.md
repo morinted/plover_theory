@@ -13,65 +13,57 @@ Your keyboard may have multiple asterisks, up to four, or just one. As long as y
 
 Most stenographers hit the asterisk key exclusively with their right-hand, but you can feel free to only use your left-hand, or use them interchangeably. The left-hand tends to do less in steno \(responsible for only 9 keys instead of the right's typical 13\) so you might consider learning to use a left-side asterisk.
 
-As for the `D` and `Z` keys, they are hit are the right pinky. They can be used alone, or in combos such as `TD`, `SZ`, or `DZ`. Note that, because the pinky is only one finger, you cannot hit `SD` or `TZ` because they are diagonal from each other. Some theories have you move your hand over and use your ring finger \(called a "Philly shift"\) but Plover doesn't use this trick. The pinky can, in rare cases, hit the entire `TSDZ` bank, but it is extremely rare in Plover Theory.
+As for the `D` and `Z` keys, they are hit are the right pinky. They can be used alone, or in combos such as `TD`, `SZ`, or `DZ`. Note that, because the pinky is only one finger, you cannot hit `SD` or `TZ` because they are diagonal from each other. Some theories have you move your hand over and use your ring finger \(called a "Philly shift"\) but Plover doesn't use this trick. The pinky can hit the entire `TSDZ` bank, but it is extremely rare in Plover Theory.
+
+### The Asterisk
+
+In stenography the asterisk is always used to undo the last stroke. In Plover theory, it is used for various purposes. It can be used to make certain sounds, resolve ambiguous strokes, fingerspell, and is often used as a briefing tool.
+
+Each of those topics will be covered. For now, if you ever see a lone asterisk in a text or paper tape, it cancels the chord proceeding it. For example, `KAT S PUG * KAT` will end up with the same output as `KAT S KAT`, and on screen the word "pug" will be shown then removed.
+
+### Past Tense
+
+In English, many words end in -D when they are conjugated in the past tense. In stenography, we can include `-D` in words to make them past tense. For example, `TAP` is "tap" while `TAPD` is "tapped". If a word cannot "fit" the `-D` key, either due to the pinky being occupied with `-S` or `-Z`, or because the word already ends in `-D`, we can strike `-D` alone as a second chord. In this lesson, `-D` will only be used in single chords, either as part of the word or to make a chord past tense.
 
 ### Briefs
 
-Now that we most of the keyboard available, there are many possible briefs to form. The briefs chosen here are used in the lesson and extend what you learned in lesson 2.
+This lesson only introduces a couple briefs, but they are similar so they will require care to remember correctly. The briefs starting with `TH-` below are good examples of very common words that had their ending chopped off to save effort on the stenographer's part. The briefs also make room for more complex strokes as you will learn in later lessons.
 
-| Chord | Translation | Notes |
+|  | Translation | Notes |
 | :--- | :--- | :--- |
-|  | are | Either side works. |
-| SKP- | and | This stroke is arbitrary, remember it by hand shape. |
-| AEU | a | This is the word "a |
-| K- | can |  |
-| W- | with | Many people use "w" as an abbreviation for "with". |
-| -B | be | The letter "B" is a homophone to "be" |
-| KW-BG | {,} | Comma. |
-
-_\*Notice that _`{}`_ are used to denote a special character in Plover's translation format._
+| TH- | this |  |
+| THA- | that |  |
+| THE- | they |  |
+| UD | you'd | This follows the past tense rules introduced above, but may not be immediately obvious as U is a brief. |
 
 ### How to Practice
 
-It might be valuable for you to write down or print briefs that you have trouble remembering. Some stenographers find it helpful to say the raw in their head as a mnemonic. For example, you might see `SKP` for "and", and think "skuhpah" as you stroke it to help remember the keys.
+Play close attention to the meaning of the sentence in order to ensure you have understood it correctly. Because `-D` can be used in multiple ways \(to end a word, like "card", or to make a verb past tense, like "scarred"\), you may interpret an outline wrong the first time. It's okay, just make a mental note and see if you can notice any patterns. Understanding the consistency in how your theory solves certain language-related issues will help you when you develop and personalize your own dictionary as you grow as a stenographer.
 
-Others like to imagine the shapes of the chords, thinking of `SKP` as a ramp heading up on the left-hand side of the keyboard.
+### Practice
 
-Finally, often building muscle memory is crucial for writing fast. Try drilling the brief in the middle of a sentence, get used to moving your hands in and out of that brief's shape. `SKP/HA/SKP/PAP/SKP/SAT/SKP/HAT`.
-
-### Lesson 3 Practice
-
-Do your best to not refer to the charts all the time. Eventually you will need to go without them. Sometimes you can figure out the meaning of an outline based on the context of a sentence.
-
-The skill of recognizing words based on context is helpful for advanced stenographers who may need to dissect a word that they wrote incorrectly and find what they meant.
-
-#### 3.1 Translate
+#### 4.1 Translate
 
 Write the English sentence represented by these outlines, including punctuation.
 
-1. `-T KAT SKP -T PUG R UP TP-PL`
-2. `ROL TO -T TOP TP-PL`
-3. `RUB -T SOFT PUG SKP -T KAT TP-PL`
-4. `WE H TO STOP -T KAR AT -T KURB TP-PL`
-5. `AEU KRAB K KUT US H-F`
-6. `U K -B AEU STAR TP-PL`
-7. `W AEU TOP HAT U K -B HOT TP-PL`
-8. `HUF KW-BG PUF KW-BG SKP STOP TP-PL`
-9. `T S AEU KUT -F -T RUG TP-PL`
+1. T WAZ HARD TO -B HER TP-PL
+2. TH S HAF -T STAF SHE HAZ TP-PL
+3. UD -B WHA THE R H-F
+4. TH S WAR TP-PL
+5. THA RAT S SO WET STPH-FPLT HUG T TP-PL
+6. SHE PATD -T WET RAT TP-PL
+7. HE K HED TO -T KAR W HER TP-PL
 
-If you ever can't read an outline, you can try writing it into your steno machine with Plover running to see what it translates to.
-
-#### 3.2 Find Outlines
+#### 4.2 Find Outlines
 
 Find steno outlines that will write these English sentences, including punctuation.
 
-1. Huff, puff, and start.
-2. Cut up the rug.
-3. Hug a wet rat.
-4. Tug at the straps.
-5. You had a skull.
-6. You are a star of sorts.
-7. Is it a worse cut?
+1. He stopped the soft pug at the top of the steps.
+2. She pulled the cart.
+3. What is this?
+4. She can pet the cat, pug, and rat.
+5. They are roughed up.
+6. That is, well, that is part of it.
 
 
 

@@ -11,6 +11,14 @@ The numbers show the fingers for each key, where 1's are the pinkies and 5 are t
 
 The `S` key on the left hand is the same `S` key as on the top row. `S` is so common in English at the start of words that it's useful to have it twice.
 
+### The Vowels O and E
+
+The `O` key alone represents the sound in "hop" and not "hope".
+
+The `E` key is used the sound in "red" and not "reed".
+
+Sometimes, in Plover theory, we revert to spelling. You will see this in the upcoming brief table. For example, though "he" is pronounced with a tense "ee" sound, it is a common word and can just be stroked with `HE`.
+
 ### Briefs
 
 Now that we most of the keyboard available, there are many possible briefs to form. The briefs chosen here are used in the lesson and extend what you learned in lesson 2.
@@ -23,6 +31,11 @@ Now that we most of the keyboard available, there are many possible briefs to fo
 | K- | can |  |
 | W- | with | Many people use "w" as an abbreviation for "with". |
 | -B | be | The letter "B" is a homophone to "be" |
+| HE | he |  |
+| SHE | she |  |
+| WE | we |  |
+| SO | so |  |
+| TO | to |  |
 | KW-BG | {,} | Comma. |
 
 _\*Notice that _`{}`_ are used to denote a special character in Plover's translation format._

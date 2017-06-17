@@ -19,6 +19,12 @@ To denote a chord, note that any of these keys **can appear once**. If center ke
 
 Even when there is no uncertainty, we still denote right-hand keys with a hyphen in front of them unless there's a vowel: `-F` or `AF`, but not `F`. Some conventions always include the hyphen, e.g. `A-F`, but this is not Plover style.
 
+### The Vowels A and U
+
+The `A` key represents the relaxed "ah" sound found in "had", "mad", "clad", and "half". Of note, it is not the tense "aye" sound found in "day". `PAL` always sounds like "pal", not like "pail" or "pale".
+
+The `U` key tends to sound like "uh" in Plover, or is used sometimes when the word is spelled with "u" \(but maybe sounds like something else\). This is the sound found in "crud", "shut", "mud", and "curl". It is not the tense "you" sound found in "shoe" or the one in "pure". `PUF` always sounds like "puff", not like "poof".
+
 ### Briefs
 
 **Briefs are shortcuts** in stenography, and an essential component in gaining speed. The word comes from "abbreviation". While steno's base theory is syllabic, you will learn and use many briefs to get out **long words and phrases very quickly**.
@@ -64,14 +70,14 @@ Remember, `T-` and `T` are "it" while `-T` is "the". The hyphen denotes the cent
 Write the English sentence represented by these outlines, including punctuation.
 
 1. `-T HUL S TUF TP-PL`
-1. `TAP -T SAP TP-PL`
-1. `PUL -T HUL TP-PL`
-1. `-T PAL H H T TP-PL`
-1. `S -T PUP TUF H-F`
-1. `U STPH-FPLT PUL -T TUF PUP TP-PL`
-1. `-T HUT H HAF - -T SALT TP-PL`
-1. `U H STAF H-F`
-1. `-T STAF -F PAUL SAT TP-PL`
+2. `TAP -T SAP TP-PL`
+3. `PUL -T HUL TP-PL`
+4. `-T PAL H H T TP-PL`
+5. `S -T PUP TUF H-F`
+6. `U STPH-FPLT PUL -T TUF PUP TP-PL`
+7. `-T HUT H HAF - -T SALT TP-PL`
+8. `U H STAF H-F`
+9. `-T STAF -F PAUL SAT TP-PL`
 
 _Notice how some examples contains two consonants after each other. Just like in spelling, this is used in steno._
 
@@ -80,7 +86,10 @@ _Notice how some examples contains two consonants after each other. Just like in
 Find steno outlines that will write these English sentences, including punctuation.
 
 1. The hull is tough.
-1. You sat.
-1. Halt: pull it.
-1. Is it half sap?
-1. It is the shaft.
+2. You sat.
+3. Halt: pull it.
+4. Is it half sap?
+5. It is the shaft.
+
+
+
