@@ -31,11 +31,12 @@ Now that we most of the keyboard available, there are many possible briefs to fo
 | K- | can |  |
 | W- | with | Many people use "w" as an abbreviation for "with". |
 | -B | be | The letter "B" is a homophone to "be" |
-| HE | he |  |
-| SHE | she |  |
-| WE | we |  |
-| SO | so |  |
-| TO | to |  |
+| HE | he | Spelling instead of phonetic. |
+| SHE | she | Spelling instead of phonetic. |
+| WE | we | Spelling instead of phonetic. |
+| SO | so | Spelling instead of phonetic. |
+| TO | to | Spelling instead of phonetic. |
+| OR | or | Spelling instead of phonetic. |
 | KW-BG | {,} | Comma. |
 
 _\*Notice that _`{}`_ are used to denote a special character in Plover's translation format._

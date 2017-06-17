@@ -41,11 +41,20 @@ Now we can write complex numbers like "602208" in just two strokes: `#TOEUF #TOL
 
 Write the English sentence represented by these outlines, including punctuation.
 
-1. 
+1. E H \#TO OR SO TP-PL
+2. -F -T \#SAO E KEPT \#AEUP KW-PL OR HAF TP-PL
+3. WHA R -T \#SO STEPS H-F
+
 #### 2. Find Outlines
 
 Find steno outlines that will write these English sentences, including punctuation.
 
-1. 
+1. She is 40.
+2. He had 500.
+3. Step 1: stop.
+4. 90210.
+
+Can you stroke 90210 in just two strokes?
+
 
 
