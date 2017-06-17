@@ -1,4 +1,4 @@
-# Lesson 1: Chorded Keyboard
+# Chorded Keyboard
 
 Stenography uses a chorded keyboard. **On a chorded keyboard, you hit multiple keys at once**, instead of one at a time. All keys are released simultaneously and the **order that you hit them in doesn't matter**.
 
@@ -34,7 +34,7 @@ Of note, some users use the left index finger to hit `*`. It is a matter of pers
 
 Instead of backspacing letter-by-letter, stenography backspaces one chord at a time. To "undo" the last stroke, simply press the `*` key \(the asterisk key\).
 
-### Lesson 1 Practice
+### Practice
 
 #### 1.1 Pattern Recognition
 
