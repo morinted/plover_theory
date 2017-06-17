@@ -1,4 +1,4 @@
-# Lesson 3:  Bottom Row
+# Bottom Row
 
 This lesson introduces about most of the remainder of the keyboard: the** bottom row** of the keyboard and the **two other vowels**.
 
@@ -48,13 +48,13 @@ Others like to imagine the shapes of the chords, thinking of `SKP` as a ramp hea
 
 Finally, often building muscle memory is crucial for writing fast. Try drilling the brief in the middle of a sentence, get used to moving your hands in and out of that brief's shape. `SKP/HA/SKP/PAP/SKP/SAT/SKP/HAT`.
 
-### Lesson 3 Practice
+### Practice
 
 Do your best to not refer to the charts all the time. Eventually you will need to go without them. Sometimes you can figure out the meaning of an outline based on the context of a sentence.
 
 The skill of recognizing words based on context is helpful for advanced stenographers who may need to dissect a word that they wrote incorrectly and find what they meant.
 
-#### 3.1 Translate
+#### 1. Translate
 
 Write the English sentence represented by these outlines, including punctuation.
 
@@ -70,7 +70,7 @@ Write the English sentence represented by these outlines, including punctuation.
 
 If you ever can't read an outline, you can try writing it into your steno machine with Plover running to see what it translates to.
 
-#### 3.2 Find Outlines
+#### 2. Find Outlines
 
 Find steno outlines that will write these English sentences, including punctuation.
 

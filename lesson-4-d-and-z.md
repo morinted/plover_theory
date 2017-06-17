@@ -1,4 +1,4 @@
-# Lesson 4:  \*, D, and Z
+# \*, D, and Z
 
 The last couple keys on the main part of the board are off the main layout and will require some lateral \(side-to-side\) movement from your fingers to reach them. It's best not to shift your whole hand, as you don't want all your fingers to get out of place.
 
@@ -43,7 +43,7 @@ Play close attention to the meaning of the sentence in order to ensure you have 
 
 ### Practice
 
-#### 4.1 Translate
+#### 1. Translate
 
 Write the English sentence represented by these outlines, including punctuation.
 
@@ -55,7 +55,7 @@ Write the English sentence represented by these outlines, including punctuation.
 6. `SHE PATD -T WET RAT TP-PL`
 7. `HE K HED TO -T KAR W HER TP-PL`
 
-#### 4.2 Find Outlines
+#### 2. Find Outlines
 
 Find steno outlines that will write these English sentences, including punctuation.
 

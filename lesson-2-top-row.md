@@ -1,4 +1,4 @@
-# Lesson 2:  Top Row
+# Top Row
 
 This lesson introduces about **half the keyboard**: the** top row** of the keyboard and **two vowels**.
 
@@ -61,11 +61,11 @@ It's recommended to read through the raw steno, and whenever you encounter a new
 
 This book does not require you to use your steno machine, but smart students will try writing down all the exercises on their own machine to build muscle memory and reenforce their learning.
 
-### Lesson 2 Practice
+### Practice
 
 Remember, `T-` and `T` are "it" while `-T` is "the". The hyphen denotes the center of the board.
 
-#### 2.1 Translate
+#### 1. Translate
 
 Write the English sentence represented by these outlines, including punctuation.
 
@@ -81,7 +81,7 @@ Write the English sentence represented by these outlines, including punctuation.
 
 _Notice how some examples contains two consonants after each other. Just like in spelling, this is used in steno._
 
-#### 2.2 Find Outlines
+#### 2. Find Outlines
 
 Find steno outlines that will write these English sentences, including punctuation.
 
