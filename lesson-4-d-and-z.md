@@ -32,8 +32,9 @@ This lesson only introduces a couple briefs, but they are similar so they will r
 |  | Translation | Notes |
 | :--- | :--- | :--- |
 | TH- | this |  |
-| THA- | that |  |
 | THE- | they |  |
+| THA- | that |  |
+| WHA- | what |  |
 | UD | you'd | This follows the past tense rules introduced above, but may not be immediately obvious as U is a brief. |
 
 ### How to Practice
@@ -46,13 +47,13 @@ Play close attention to the meaning of the sentence in order to ensure you have 
 
 Write the English sentence represented by these outlines, including punctuation.
 
-1. T WAZ HARD TO -B HER TP-PL
-2. TH S HAF -T STAF SHE HAZ TP-PL
-3. UD -B WHA THE R H-F
-4. TH S WAR TP-PL
-5. THA RAT S SO WET STPH-FPLT HUG T TP-PL
-6. SHE PATD -T WET RAT TP-PL
-7. HE K HED TO -T KAR W HER TP-PL
+1. `T WAZ HARD TO -B HER TP-PL`
+2. `TH S HAF -T STAF SHE HAZ TP-PL`
+3. `UD -B WHA THE R H-F`
+4. `TH S WAR TP-PL`
+5. `THA RAT S SO WET STPH-FPLT HUG HER TP-PL`
+6. `SHE PATD -T WET RAT TP-PL`
+7. `HE K HED TO -T KAR W HER TP-PL`
 
 #### 4.2 Find Outlines
 
