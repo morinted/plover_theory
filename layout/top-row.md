@@ -19,6 +19,12 @@ To denote a chord, note that any of these keys **can appear once**. If center ke
 
 Even when there is no uncertainty, we still denote right-hand keys with a hyphen in front of them unless there's a vowel: `-F` or `AF`, but not `F`. Some conventions always include the hyphen, e.g. `A-F`, but this is not Plover style.
 
+### Phonetics
+
+Shorthand, both written and machine, use phonetics as a core principle. English isn't always the best at having things sound how they spell, and so we have a pretty complex system for spelling. However, English is pretty simple when it comes to the number of sounds we have. For that reason, stenography's simplified layout relies on the sounds of words, not their spelling.
+
+For example, there is no "c" on the steno layout. Because its sounds are accomplished by either "s" or "k", depending on pronouncation. To write "cat", in stenography we write `KAT`.
+
 ### The Vowels A and U
 
 The `A` key represents the relaxed "ah" sound found in "had", "mad", "clad", and "half". Of note, it is not the tense "aye" sound found in "day". `PAL` always sounds like "pal", not like "pail" or "pale".

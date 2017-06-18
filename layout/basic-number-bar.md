@@ -29,9 +29,9 @@ Using multiple digits, we can break down large numbers into just a couple stroke
 
 ### Reversal
 
-The last tool we will learn about for the number bar in this introduction is reversal. By adding the chord `EU` to our number stroke, the steno order of the numbers is reversed. So, while `#STPHA` is "12345", `#STPHAEU` is "54321".
+The last tool we will learn about for the number bar in this introduction is reversal. By adding the chord `EU` to our number stroke, the steno order of the numbers is reversed. `#TP` is "23", `#TPEU` is "32".
 
-In Plover's dictionary, only pairs are reversible by default, but you can get the rest of the possible number chords by adding a [supplementary dictionary](https://raw.githubusercontent.com/morinted/plover-inversion/master/inverted.json).
+In Plover's dictionary, only pairs of numbers (10-98) are reversible by default, but you can get the rest of the possible number chords by adding a [supplementary dictionary](https://raw.githubusercontent.com/morinted/plover-inversion/master/inverted.json). This will allow you to go up to `#STPHAOEUFPLT`: "9876054321".
 
 Now we can write complex numbers like "602208" in just two strokes: `#TOEUF #TOL`.
 
@@ -41,9 +41,9 @@ Now we can write complex numbers like "602208" in just two strokes: `#TOEUF #TOL
 
 Write the English sentence represented by these outlines, including punctuation.
 
-1. E H \#TO OR SO TP-PL
-2. -F -T \#SAO E KEPT \#AEUP KW-PL OR HAF TP-PL
-3. WHA R -T \#SO STEPS H-F
+1. `E H \#TO OR SO TP-PL`
+2. `-F -T \#SAO E KEPT \#AEUP KW-PL OR HAF TP-PL`
+3. `WHA R -T \#SO STEPS H-F`
 
 #### 2. Find Outlines
 
@@ -51,8 +51,8 @@ Find steno outlines that will write these English sentences, including punctuati
 
 1. She is 40.
 2. He had 500.
-3. Step 1: stop.
+3. Step 1: start.
 4. 90210.
 
-Can you stroke 90210 in just two strokes?
+Can you write 90210 in just two strokes?
 

@@ -6,11 +6,15 @@
 
 ## The Layout
 
-* [Chorded Keyboard](chorded-keyboard.md)
-* [Top Row](lesson-2-top-row.md)
-* [Bottom Row](lesson-3-bottom-row.md)
-* [\*, D, and Z](lesson-4-d-and-z.md)
-* [Basic Number Bar](basic-number-bar.md)
+* [Chorded Keyboard](layout/chorded-keyboard.md)
+* [Top Row](layout/top-row.md)
+* [Bottom Row](layout/bottom-row.md)
+* [\*, D, and Z](layout/d-and-z.md)
+* [Basic Number Bar](layout/basic-number-bar.md)
+
+## Missing Sounds
+
+* [Aw, Ow, and Final K](sounds/aw-ow-and-final-k.md)
 
 ## Draft Work
 
