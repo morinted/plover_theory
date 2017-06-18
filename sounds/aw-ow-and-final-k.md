@@ -27,10 +27,10 @@ On the left hand we have a `W` key, but there is no such thing on the right. Ins
 | OBG | okay | The letters "O" and "K". |
 | AF | after |  |
 | EZ | easy | The letters "E" and "Z". |
-| WAUR | water |  |
-| KO- | could |  |
-| WO- | would |  |
-| SHO- | should |  |
+| WAUR | water |   |
+| KO- | could |   |
+| WO- | would |   |
+| SHO- | should |   |
 
 ### How to Practice
 
