@@ -15,7 +15,7 @@ The first chorded sound we will learn is the final K sound. It is produced on th
 On the left hand we have a `W` key, but there is no such thing on the right. Instead, we will have our "final W" as a diphthong, or a combination of vowels. There are two:
 
 1. `AU`: the "aw" sound.
-    Using the "aw" sound we open our vocabulary greatly. While obviously it allows us to write words like `SAW `: "saw", it also allows us to use this vowel sound in other words, such as `TAUBG`: "talk" and `AUL`: "all" (contrast with `TABG`: "tack" and `AL`: "Al").
+    Using the "aw" sound we open our vocabulary greatly. While obviously it allows us to write words like `SAW`: "saw", it also allows us to use this vowel sound in other words, such as `TAUBG`: "talk" and `AUL`: "all" \(contrast with `TABG`: "tack" and `AL`: "Al"\).
 2. `OU`: the "ow" sound.
     The "ow" sound is also very useful to have and is quite common. We can use it as a word ending, like in `HOU`: "how", a word part like in `HOUS`: "house", and as a word beginning like in `OUT`: "out".
 
@@ -27,10 +27,10 @@ On the left hand we have a `W` key, but there is no such thing on the right. Ins
 | OBG | okay | The letters "O" and "K". |
 | AF | after |  |
 | EZ | easy | The letters "E" and "Z". |
-| WAUR | water |   |
-| KO- | could |   |
-| WO- | would |   |
-| SHO- | should |   |
+| WAUR | water |  |
+| KO- | could |  |
+| WO- | would |  |
+| SHO- | should |  |
 
 ### How to Practice
 
@@ -66,3 +66,6 @@ Find steno outlines that will write these English sentences, including punctuati
 4. We would be with you.
 5. The rat was with the water.
 6. It is easy to be her after all.
+
+
+

@@ -81,7 +81,7 @@ Write the English sentence represented by these outlines, including punctuation.
 4. `-T PAL H H T TP-PL`
 5. `S -T PUP TUF H-F`
 6. `U STPH-FPLT PUL -T TUF PUP TP-PL`
-7. `-T HUT H HAF - -T SALT TP-PL`
+7. `-T HUT H HAF -F -T SALT TP-PL`
 8. `U H STAF H-F`
 9. `-T STAF -F PAUL SAT TP-PL`
 
