@@ -1,10 +1,10 @@
 # Summary
-* [The Layout](the_layout.md)
+1. [The Layout](the_layout.md)
   * [Chorded Keyboard](layout/chorded-keyboard.md)
   * [Top Row](layout/top-row.md)
   * [Bottom Row](layout/bottom-row.md)
   * [\*, D, and Z](layout/d-and-z.md)
   * [Basic Number Bar](layout/basic-number-bar.md)
-* [Missing Sounds](missing_sounds.md)
+1. [Missing Sounds](missing_sounds.md)
   * [Aw, Ow, and Final K](sounds/aw-ow-and-final-k.md)
-* [Brainstorming](draft-work/brainstorming.md)
+1. [Brainstorming](draft-work/brainstorming.md)
