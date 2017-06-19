@@ -36,6 +36,7 @@ On the left hand we have a `W` key, but there is no such thing on the right. Ins
 | Chord | Translation | Notes |
 | :--- | :--- | :--- |
 | AULS or AULZ | always | This is possible because "alls" isn't a word. |
+| AUFL | awful |  |
 | OBG | okay | The letters "O" and "K". |
 | AF | after |  |
 | EZ | easy | The letters "E" and "Z". |
@@ -62,9 +63,10 @@ Write the English sentence represented by these outlines, including punctuation.
 4. `HOU S -T KAT H-F`
 5. `-T WORBG S EZ SKP HE S AULZ UP TO T TP-PH`
 6. `T S OBG KW-BG WE R OBG AF AUL TP-PL`
-7. `POR HER AEU KUP -F WAUR TP-PL`
-8. `HE HAZ -T POUR -F HART TP-PL`
-9. `SHE SAU HER AT -T WAUR AF AEU WAUBG TP-PL`
+7. `T WAZ AUFL AT -T WAUR TP-PL`
+8. `POR HER AEU KUP -F WAUR TP-PL`
+9. `HE HAZ -T POUR -F HART TP-PL`
+10. `SHE SAU HER AT -T WAUR AF AEU WAUBG TP-PL`
 
 Remember that if you can't figure out an outline, you can look it up in the theory dictionary.
 
