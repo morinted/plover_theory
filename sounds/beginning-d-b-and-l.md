@@ -28,6 +28,10 @@
 * `HRUL`: lull
 * `PWHROB`: blob
 
+### Order of D, B, L
+
+D, B, and L are all made with a single finger's column. If the order sometimes escapes you, just remember that it's the same order as the consonants in "**D**OU**BL**E" as these columns are _double the trouble_ now that you need to use two keys to hit them!
+
 ### Briefs
 
 | Chord | Translation | Notes |
