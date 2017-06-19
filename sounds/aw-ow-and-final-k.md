@@ -1,4 +1,4 @@
-# Aw, Ow, and Final K
+# AW, OW, and Final K
 
 Now that we've covered every key in the steno layout, we need to start addressing the missing sounds. To begin, we will get the two sides of the layout on even ground.
 
