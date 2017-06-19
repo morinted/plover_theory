@@ -83,7 +83,7 @@ Write the English sentence represented by these outlines, including punctuation.
 6. `U STPH-FPLT PUL -T TUF PUP TP-PL`
 7. `-T HUT H HAF -F -T SALT TP-PL`
 8. `U H STAF H-F`
-9. `-T STAF -F PAUL SAT TP-PL`
+9. `-T STAF SAT TP-PL`
 
 _Notice how some examples contains two consonants after each other. Just like in spelling, this is used in steno._
 

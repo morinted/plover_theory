@@ -10,14 +10,26 @@ Because we don't have any more keys to work with, we need to start combining key
 
 The first chorded sound we will learn is the final K sound. It is produced on the right hand with `-BG`. For example, `TABG` is "tack".
 
+* `TABG`: "tack"
+* `WABG`: "wack"
+* `SHABG`: "shack"
+* `ROBG`: "rock"
+* `SOBG`: "sock"
+* `STRUBG`: "struck"
+
 ### Final W
 
 On the left hand we have a `W` key, but there is no such thing on the right. Instead, we will have our "final W" as a diphthong, or a combination of vowels. There are two:
 
 1. `AU`: the "aw" sound.
-    Using the "aw" sound we open our vocabulary greatly. While obviously it allows us to write words like `SAW`: "saw", it also allows us to use this vowel sound in other words, such as `TAUBG`: "talk" and `AUL`: "all" \(contrast with `TABG`: "tack" and `AL`: "Al"\).
+   * `SAW`: "saw"
+   * `TAUBG`: "talk" \(`TABG`: "tack"\)
+   * `AUL`: "all" \(`AL`: "Al"\)
+   * `PAUL`: "Paul"
 2. `OU`: the "ow" sound.
-    The "ow" sound is also very useful to have and is quite common. We can use it as a word ending, like in `HOU`: "how", a word part like in `HOUS`: "house", and as a word beginning like in `OUT`: "out".
+   * `HOU`: "how"
+   * `HOUS`: "house"
+   * `OUT`: "out"
 
 ### Briefs
 
