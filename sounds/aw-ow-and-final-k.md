@@ -40,9 +40,9 @@ On the left hand we have a `W` key, but there is no such thing on the right. Ins
 | AF | after |  |
 | EZ | easy | The letters "E" and "Z". |
 | WAUR | water |  |
-| KO- | could |  |
-| WO- | would |  |
-| SHO- | should |  |
+| KO- | could | Instead of KOULD |
+| WO- | would | Instead of WOULD |
+| SHO- | should | Instead of SHOULD |
 
 ### How to Practice
 
