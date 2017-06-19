@@ -8,28 +8,28 @@ In this lesson, we will fill in the sounds present on the left side of the keybo
 
 Because we don't have any more keys to work with, we need to start combining keys to make those missing sounds. The steno layout is made such that sounds that are created with chords of other letters should have a low chance of collision within the English language. While there are some notable exceptions, you will find that most words are intuitive when you are employing the layout yourself.
 
-The first chorded sound we will learn is the final K sound. It is produced on the right hand with `-BG`. For example, `TABG` is "tack".
+The first chorded sound we will learn is the final K sound. It is produced on the right hand with `-BG`.
 
-* `TABG`: "tack"
-* `WABG`: "wack"
-* `SHABG`: "shack"
-* `ROBG`: "rock"
-* `SOBG`: "sock"
-* `STRUBG`: "struck"
+* `TABG`: tack
+* `WABG`: wack
+* `SHABG`: shack
+* `ROBG`: rock
+* `SOBG`: sock
+* `STRUBG`: struck
 
 ### Final W
 
 On the left hand we have a `W` key, but there is no such thing on the right. Instead, we will have our "final W" as a diphthong, or a combination of vowels. There are two:
 
 1. `AU`: the "aw" sound.
-   * `SAW`: "saw"
-   * `TAUBG`: "talk" \(`TABG`: "tack"\)
-   * `AUL`: "all" \(`AL`: "Al"\)
-   * `PAUL`: "Paul"
+   * `SAW`: saw
+   * `TAUBG`: talk \(`TABG`: tack\)
+   * `AUL`: all \(`AL`: Al\)
+   * `PAUL`: Paul
 2. `OU`: the "ow" sound.
-   * `HOU`: "how"
-   * `HOUS`: "house"
-   * `OUT`: "out"
+   * `HOU`: how
+   * `HOUS`: house
+   * `OUT`: out
 
 ### Briefs
 
