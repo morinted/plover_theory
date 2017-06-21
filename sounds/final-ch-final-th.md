@@ -41,15 +41,15 @@ The first use of the asterisk for us is with final "th". Adding an asterisk to a
 
 Write the English sentence represented by these outlines, including punctuation.
 
-1. U SHO AULS DO THA PW-FR AEU PWA\*T TP-PL
-2. -T KAT K SKP HR SKRAFP U TP-PL
-3. SUFP S HROF TP-PL
-4. T S AEU STREFP PWUT SHE K TKO T TP-PL
-5. WE HR TKO TH AUL TOGT TP-PL
-6. HR-GT WE H HROTS -F STUF TO TKO TP-PL
-7. U PWHREF THA U HROF HER KW-BG U HR PWHR AEU HOUS TOGT TP-PL
-8. S T WO\*RT T TO HREF HR-R H-F 
-9. -T SHRO\*T HAS AEU HROT -F WRA\*T
+1. `U SHO AULS DO THA PW-FR AEU PWA*T TP-PL`
+2. `-T KAT K SKP HR SKRAFP U TP-PL`
+3. `SUFP S HROF TP-PL`
+4. `T S AEU STREFP PWUT SHE K TKO T TP-PL`
+5. `WE HR TKO TH AUL TOGT TP-PL`
+6. `HR-GT WE H HROTS -F STUF TO TKO TP-PL`
+7. `U PWHREF THA U HROF HER KW-BG U HR PWHR AEU HOUS TOGT TP-PL`
+8. `S T WO*RT T TO HREF HR-R H-F `
+9. `-T SHRO*T HAS AEU HROT -F WRA*T`
 
 Remember that if you can't figure out an outline, you can look it up in the theory dictionary.
 
