@@ -10,6 +10,7 @@ Words ending with the "tch" or "ch" sound are made on the right hand with `-FP`.
 * `PWAFP`: batch
 * `KAFP`: catch
 * `HRAFP`: latch
+* `TEFP`: tech \(spelling\). You can also use `TEBG` \(phonetic\)
 
 ### Final TH
 
