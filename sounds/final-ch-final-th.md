@@ -28,11 +28,11 @@ The first use of the asterisk for us is with final "th". Adding an asterisk to a
 
 | Chord | Translation | Notes |
 | :--- | :--- | :--- |
-| TAFP | attach |  |
-| TK-RB | -- | Emdash. Think "d-sh" for dash. Used when a speaker changes a train of thought. E.g. "I am here -- I chose to be here." |
-| HR\*T | although |  |
-
-
+| HROF | love |  |
+| HROFL | lovely |  |
+| HR\*T | although | L-TH |
+| TOGT | together |  |
+| HR-GT | altogether | L-GT |
 
 ### Practice
 
@@ -40,13 +40,27 @@ The first use of the asterisk for us is with final "th". Adding an asterisk to a
 
 Write the English sentence represented by these outlines, including punctuation.
 
-1. 
+1. U SHO AULS DO THA PW-FR AEU PWA\*T TP-PL
+2. -T KAT K SKP HR SKRAFP U TP-PL
+3. SUFP S HROF TP-PL
+4. T S AEU STREFP PWUT SHE K TKO T TP-PL
+5. WE HR TKO TH AUL TOGT TP-PL
+6. HR-GT WE H HROTS -F STUF TO TKO TP-PL
+7. U PWHREF THA U HROF HER KW-BG U HR PWHR AEU HOUS TOGT TP-PL
+8. S T WO\*RT T TO HREF HR-R H-F 
+9. -T SHRO\*T HAS AEU HROT -F WRA\*T
+
 Remember that if you can't figure out an outline, you can look it up in the theory dictionary.
 
 #### 2. Find Outlines
 
 Find steno outlines that will write these English sentences, including punctuation.
 
-1. 
+1. You crawl and crouch before you walk.
+2. This patch will be stretched.
+3. Etch a sketch.
+4. Earth is lovely. We will always love it.
+5. Will you catch the ball before it drops?
+
 
 
