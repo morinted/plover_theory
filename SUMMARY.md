@@ -1,6 +1,4 @@
 # Summary
-
-* [Introduction](README.md)
 * [The Layout](the_layout.md)
   * [Chorded Keyboard](layout/chorded-keyboard.md)
   * [Top Row](layout/top-row.md)
@@ -11,5 +9,5 @@
   * [AW, OW, and Final K](sounds/aw-ow-and-final-k.md)
   * [Beginning D, B, and L](sounds/beginning-d-b-and-l.md)
   * [Final CH, TH](sounds/final-ch-final-th.md)
+  * [The Letter I](sounds/the_letter_i.md)
 * [Brainstorming](draft-work/brainstorming.md)
-
