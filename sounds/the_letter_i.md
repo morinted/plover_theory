@@ -60,3 +60,4 @@ Find steno outlines that will write these English sentences, including punctuati
 7. Little Bart is a big turd.
 8. That cat is sour and will hiss at us.
 9. It is still lovely to live with you after all this tough stuff.
+10. I love you.
