@@ -45,7 +45,7 @@ Write the English sentence represented by these outlines, including punctuation.
 9. `THA SKEFP -F HER SHUR S PREUT TP-PL`
 10. `SHE HR WREU PW WHA HREUL SHE HAZ HREUFD TP-PL`
 
-Note: `HEUSZ` and `H*EUS` translates to "hiss". We can't use the phonetic `HEUS` because it's taken up by "his".
+Note: `HEUSZ` and `H*EUS` translate to "hiss". We can't use the phonetic `HEUS` because it's taken up by "his".
 
 #### 2. Find Outlines
 
