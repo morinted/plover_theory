@@ -44,8 +44,7 @@ Write the English sentence represented by these outlines, including punctuation.
 7. `HREUL PWART PREUT WEL AULS PWUGS US WEU WE HREUF W TP-PL`
 8. `-T KAT HR HEUSZ AT -T TKOGS AZ THE WAUBG PWEU TP-PL`
 9. `-T SHRO*T S PREUT AF HER PWA*T TP-PL SHE HAZ HRES WRA*T TP-PL`
-10. `HEUS SKEFP -F HER SHUR S PREUT TP-PL`
-11. `SHE HR WREU PW WHA HREUL SHE HAZ HREUFD TP-PL`
+10. `SHE HR WREU PW WHA HREUL SHE HAZ HREUFD TP-PL`
 
 Note: `HEUSZ` and `H*EUS` translate to "hiss". We can't use the phonetic `HEUS` because it's taken up by "his".
 
