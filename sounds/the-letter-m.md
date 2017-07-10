@@ -4,7 +4,7 @@ This lesson covers how you write the initial and final M on the steno layout.
 
 ### Initial M
 
-Initial M is made with the combination `PH` on the left side. "Ph" words in steno sound like "F" and are written with the initial F combination, which you will learn in a later lesson.
+Initial M is made with the combination `PH` on the left side.
 
 * `PHA`: ma
 * `PHAD`: mad
@@ -61,8 +61,6 @@ Find steno outlines that will write these English sentences, including punctuati
 
 1. The mechanic is about to help me with my car.
 2. Stop the truck!
-
-
 
 
 
