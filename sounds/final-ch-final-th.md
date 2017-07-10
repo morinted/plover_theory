@@ -1,4 +1,21 @@
-# Final CH, TH
+# CH and TH
+
+### Initial SH
+
+You've already learned initial SH in previous lessons as it's just `SH-`.
+
+* `SHOP`: shop
+* `SHUT`: shut
+* `SHORT`: short
+* `SHEL`: shell
+
+### Initial CH
+
+Since there is no C key on the layout, we substitute `K-` and so use `KH-` for initial CH.
+
+* `KHAT`: chat
+* `KHOP`: chop
+* `KHART`: chart
 
 ### Final CH
 
@@ -47,10 +64,11 @@ Write the English sentence represented by these outlines, including punctuation.
 4. `T S AEU STREFP PWUT SHE K TKO T TP-PL`
 5. `WE HR TKO TH AUL TOGT TP-PL`
 6. `HR-GT WE H HROTS -F STUF TO TKO TP-PL`
-7. `U PWHREF THA U HROF HER KW-BG U HR PWHR AEU HOUS TOGT TP-PL`
-8. `S T WO*RT T TO HREF HR-R H-F `
-9. `-T SHRO*T HAS AEU HROT -F WRA*T TP-PL`
-10. `U R AULZ HR-BG TP-PL`
+7. `KHAT W HER TP-PL`
+8. `U PWHREF THA U HROF HER KW-BG U HR PWHR AEU HOUS TOGT TP-PL`
+9. `S T WO*RT T TO HREF HR-R H-F`
+10. `-T SHRO*T HAS AEU HROT -F WRA*T TP-PL`
+11. `U R AULZ HR-BG TP-PL`
 
 Remember that if you can't figure out an outline, you can look it up in the theory dictionary.
 
@@ -63,3 +81,7 @@ Find steno outlines that will write these English sentences, including punctuati
 3. Etch a sketch.
 4. Earth is lovely. We will always love it.
 5. Will you catch the ball before it drops?
+6. Check the charts, okay?
+
+
+
