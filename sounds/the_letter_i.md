@@ -31,6 +31,8 @@ This is the lax version of I, as found in:
 | PREUT | pretty |  |
 | UR | you're |  |
 
+### Practice
+
 #### 1. Translate
 
 Write the English sentence represented by these outlines, including punctuation.

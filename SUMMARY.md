@@ -12,5 +12,6 @@
   * [Beginning D, B, and L](sounds/beginning-d-b-and-l.md)
   * [CH and TH](sounds/final-ch-final-th.md)
   * [The Letter I](sounds/the_letter_i.md)
+  * [The Letter M](sounds/the-letter-m.md)
 * [Brainstorming](draft-work/brainstorming.md)
 

@@ -2,7 +2,7 @@
 
 ### Initial SH
 
-You've already learned initial SH in previous lessons as it's just `SH-`.
+You've already learned initial SH in previous lessons as it's just `SH`.
 
 * `SHOP`: shop
 * `SHUT`: shut
@@ -11,7 +11,7 @@ You've already learned initial SH in previous lessons as it's just `SH-`.
 
 ### Initial CH
 
-Since there is no C key on the layout, we substitute `K-` and so use `KH-` for initial CH.
+Since there is no C key on the layout, we substitute `K` and so use `KH` for initial CH.
 
 * `KHAT`: chat
 * `KHOP`: chop
