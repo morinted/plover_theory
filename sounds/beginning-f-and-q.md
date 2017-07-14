@@ -8,7 +8,6 @@ Initial F is made with the combination `TP` on the left side.
 
 * `TPEUL`: fill
 * `TPAUL`: fall
-* `TPORT`: fort
 * `TPHROP`: flop
 * `TPHREUP`: flip
 * `TPHREURT`: flirt
@@ -35,7 +34,7 @@ Briefs
 | TPAPL | familiar | Spelling instead of phonetics. |
 | TPAEPL | family | Think "fam ee" |
 | TPOL | follow |  |
-| KW | request | Think "em tee" |
+| KW | request |  |
 | KWE | question |  |
 | SK | ask |  |
 
