@@ -1,6 +1,6 @@
 # AW, OW, and Final K
 
-Now that we've covered every key in the steno layout, we need to start addressing the missing sounds. To begin, we will get the two sides of the layout on even ground.
+Now that we've covered every key in the steno layout, we need to start addressing the missing sounds.
 
 In this lesson, we will fill in the sounds present on the left side of the keyboard that are not on the right side. Notice that `K`, `W`, and `H` are not on the right side of the keyboard.
 

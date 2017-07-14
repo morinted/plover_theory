@@ -61,6 +61,9 @@ Find steno outlines that will write these English sentences, including punctuati
 
 1. The mechanic is about to help me with my car.
 2. Stop the truck!
+3. What did you think would happen, mom?
+4. You're a mechanic, I think you can do it.
+5. Help me out, would you?
 
 
 

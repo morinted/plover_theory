@@ -31,7 +31,7 @@ Now that we most of the keyboard available, there are many possible briefs to fo
 | K- | can |  |
 | W- | with | Many people use "w" as an abbreviation for "with". |
 | -B | be | The letter "B" is a homophone to "be" |
-| HE | he | Spelling instead of phonetic. |
+| HE or just E | he | Spelling instead of phonetic. |
 | SHE | she | Spelling instead of phonetic. |
 | WE | we | Spelling instead of phonetic. |
 | SO | so | Spelling instead of phonetic. |

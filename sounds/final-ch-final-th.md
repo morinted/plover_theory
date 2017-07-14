@@ -82,6 +82,7 @@ Find steno outlines that will write these English sentences, including punctuati
 4. Earth is lovely. We will always love it.
 5. Will you catch the ball before it drops?
 6. Check the charts, okay?
+7. He has chapped lips.
 
 
 

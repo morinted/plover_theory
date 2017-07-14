@@ -1,6 +1,6 @@
-# Beginning D, B, and L
+# Initial D, B, and L
 
-### Beginning D
+### Initial D
 
 "D" is made on the left hand using `TK-`
 
@@ -9,7 +9,7 @@
 * `TKAFT`: daft
 * `TKUL`: dull
 
-### Beginning B
+### Initial B
 
 "B" is made on the left hand using `PW-`
 
@@ -19,7 +19,7 @@
 * `PWAD`: bad
 * `PWART`: Bart
 
-### Beginning L
+### Initial L
 
 "L" is made on the left hand using `HR-`
 
@@ -34,21 +34,21 @@ D, B, and L are all made with a single finger's column. If the order sometimes e
 
 ### Briefs
 
-|     Chord      | Translation |   Notes   |
-|:-------------- |:----------- |:--------- |
-| TK             | did         |           |
-| TKO            | do          | Spelling. |
-| PW             | about       |           |
-| PWAUS or PWAUZ | because     |           |
-| PW-FR          | before      |           |
-| HR             | will        |           |
-| PWHR           | build       |           |
-| HREF           | leave       |           |
-| PWHREF         | believe     |           |
-| HR-R           | already     |           |
-| HR-RT          | all right   |           |
-| HR-S           | also        |           |
-| HR-BG          | welcome     |           |
+| Chord | Translation | Notes |
+| :--- | :--- | :--- |
+| TK | did |  |
+| TKO | do | Spelling. |
+| PW | about |  |
+| PWAUS or PWAUZ | because |  |
+| PW-FR | before |  |
+| HR | will |  |
+| PWHR | build |  |
+| HREF | leave |  |
+| PWHREF | believe |  |
+| HR-R | already |  |
+| HR-RT | all right |  |
+| HR-S | also |  |
+| HR-BG | welcome |  |
 
 ### How to Practice
 
@@ -81,3 +81,6 @@ Find steno outlines that will write these English sentences, including punctuati
 1. Did you believe what she was about to do?
 2. Will you build the raft and the deck?
 3. All right already, leave us out.
+
+
+
