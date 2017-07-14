@@ -50,7 +50,7 @@ Write the English sentence represented by these outlines, including punctuation.
 3. `SK AEU KWE SKP EU HR KHEBG TP EU K HEP TP-PL`
 4. `U SK-D TP-R WHA H-F SKHRAPL`
 5. `-T RAT S PWABG TPR HER PWA*T TP-PL`
-6. `TPOL OUR PHAEPL KAR TO OUR HOUS TP-PL`
+6. `TPOL OUR TPAEPL KAR TO OUR HOUS TP-PL`
 7. `WHA TK U TKO THA TP-R H-F`
 8. `-T PHRAEUR WAS SKWARBD PWEU -T ROBG TP-PL`
 9. `A KWEUZ S AEU HREUL SET -F KWES TP-PL`
@@ -61,8 +61,8 @@ Find steno outlines that will write these English sentences, including punctuati
 
 1. Let me ask you a question.
 2. I would request that you stop.
-3. The request is from dad, you should do it and be quick.
-4. If you walk to the mall I will follow.
+3. The request is from dad, you should do it and be quick about it.
+4. If you walk to the mall, I will follow.
 5. In this class, we will start with a pop quiz.
 6. Fill up the car before you leave for work!
 
