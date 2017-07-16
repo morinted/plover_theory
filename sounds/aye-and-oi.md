@@ -44,7 +44,9 @@ This lesson covers how you write the vowel sounds given by the diphthongs "aye" 
 
 Write the English sentence represented by these outlines, including punctuation.
 
-1. ### 
+1. `EU HR PAEU TP-R OUR STAEU TP-PL`
+
+2. `-T KHOEUS HR -B HIS SKP HERS TP-PL`
 
 ### 2. Find Outlines
 
