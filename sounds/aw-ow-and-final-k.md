@@ -22,7 +22,7 @@ The first chorded sound we will learn is the final K sound. It is produced on th
 On the left hand we have a `W` key, but there is no such thing on the right. Instead, we will have our "final W" as a diphthong, or a combination of vowels. There are two:
 
 1. `AU`: the "aw" sound.
-   * `SAW`: saw
+   * `SAU`: saw
    * `TAUBG`: talk \(`TABG`: tack\)
    * `AUL`: all \(`AL`: Al\)
    * `PAUL`: Paul
