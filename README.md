@@ -12,7 +12,7 @@ Nowadays, stenography is used for:
 
 ### Why Plover?
 
-Thanks to Plover, there hundreds of people who have self-taught themselves stenography with free resources online and now use stenography for different purposes at different speeds. You don't need to reach 225WPM \(certified court reporter speed in the United States\) to get a speed and ergonomics boost over a conventional keyboard.
+Thanks to Plover, there are hundreds of people who have self-taught themselves stenography with free resources online and now use stenography for different purposes at different speeds. You don't need to reach 225WPM \(certified court reporter speed in the United States\) to get a speed and ergonomics boost over a conventional keyboard.
 
 The purpose of this book is to teach you Plover's steno theory. There are many different theories you can use and learn, but Plover comes with a perfectly competent dictionary for free that evolves over time. Plover theory is built on top of the personal dictionary of Mirabai Knight, the inventor of Plover.
 
