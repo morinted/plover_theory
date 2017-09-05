@@ -9,10 +9,9 @@
         "github-buttons": {
           "repo": "morinted/plover_theory",
           "types": [
-            "star",
-            "watch"
+            "star"
           ],
-          "size": "large"
+          "size": "small"
         },
         "edit-link": {
             "base": "https://github.com/morinted/plover_theory/edit/master/",
