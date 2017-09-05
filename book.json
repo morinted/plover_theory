@@ -1,7 +1,22 @@
 {
+    "plugins": [
+        "github-buttons", "edit-link"
+    ],
     "pluginsConfig": {
         "theme-default": {
              "showLevel": false
+        },
+        "github-buttons": {
+          "repo": "morinted/plover_theory",
+          "types": [
+            "star",
+            "watch"
+          ],
+          "size": "large"
+        },
+        "edit-link": {
+            "base": "https://github.com/morinted/plover_theory/edit/master/",
+            "label": "Edit This Page"
         }
     }
 }
