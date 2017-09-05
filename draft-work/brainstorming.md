@@ -1,8 +1,12 @@
-**Oh, no, you've reached the end of the book!**
+## **Oh, no, you've reached the end of the book!**
 
-I'm still writing it. I make no guarantees on when it'll be done, but if you want to give me an encouragement, a tip of any size to [my PayPal](https://www.paypal.me/morinted) will guarantee a new page within 48 hours!
+I'm still writing it. **If you want to give me an encouragement, a tip of any size to **[**my PayPal**](https://www.paypal.me/morinted)** will guarantee a new page within 48 hours!**
 
-## Brainstorming/draft work
+You can optionally specify a name and link you'd like your acknowledgment to go to \(or if you'd rather stay anonymous\).
+
+--------
+
+Brainstorming/draft work
 
 Started with the letters
 

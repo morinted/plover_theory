@@ -39,7 +39,8 @@ Final M is made with the combination `-PL`. This _does_ conflict with words endi
 | PH-BG | mechanic |  |
 | HAP | happen |  |
 | HEP | help | HEPL is "hem" |
-| SKHRAPL | {!} | The exclamation mark is written with "sklam". |
+| SKHRAPL or TP-BG | {!} | The exclamation mark is written with "sklam". Alternatively, TP-BG can be used. |
+| KW-PL | {?} | Alternative stroke for question mark. Some users prefer TP-BG and KW-PL as they can represent the intonation speakers use during a question or exclamation. |
 
 ### Practice
 

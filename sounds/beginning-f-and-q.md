@@ -24,7 +24,7 @@ The Q sound in English is a combination of the K and W sounds, so the outline fo
 * `KWEURBG`: quirk
 * `SKWARB`: squash
 
-Briefs
+## Briefs
 
 | Chord | Translation | Notes |
 | :--- | :--- | :--- |

@@ -36,6 +36,7 @@ This lesson covers how you write the vowel sounds given by the diphthongs "aye" 
 | Chord | Translation | Notes |
 | :--- | :--- | :--- |
 | OEU | {^/^} | Slash. There is no spacing on either side. E.g. PET OEU KAT: pet/cat |
+| THRU | through |  |
 
 ### Practice
 
@@ -44,25 +45,26 @@ This lesson covers how you write the vowel sounds given by the diphthongs "aye" 
 Write the English sentence represented by these outlines, including punctuation.
 
 1. `EU HR PAEU TP-R OUR STAEU TP-PL`
-
 2. `-T KHOEUS HR -B HIS SKP HERS TP-PL`
+3. `U K STAEU SKP PHRAEU W -T PWOEU TP-PL`
+4. `PUT SOPL HROGS KW-BG AEUR KW-BG SKP AEU TPHRAEUPL TOGT SKP PWABG UP KWEUBG TP-PL`
+5. `-T HOUS STAEUS WARPL PWAUS -F OEUL SKP TPHRAEUPL TP-PL`
+6. `-T ROEUL TPAEPL HAS AEU HROUD SKP AUFL SET -F PWOEUS TP-PL`
+7. `WHO HR TAEUBG -T PWHRAEUPL H-F`
+8. `EU APL TO PHAEUBG AEU KHOEUS PWEU TPOUR TP-PL`
+9. `E PWRAUT -T WAUR TO AEU PWOEUL TP-PL`
+10. `EU SWAEUR U R AEU SPOEULD KEUD TP-PL`
 
-3. U K STAEU SKP PHRAEU W -T PWOEU TP-PL
+### 2. Find Outlines
 
-4. PUT SOPL HROGS KW-BG AEUR KW-BG SKP AEU TPHRAEUPL TOGT SKP PWABG UP KWEUBG TP-PL
+Find steno outlines that will write these English sentences, including punctuation.
 
-5. -T HOUS STAEUS WARPL PWAUS -F OEUL SKP TPHRAEUPL TP-PL
+1. The soil is sort of wet...
+2. She walks with such grace.
+3. We sold 4/5 mugs this shift.
+4. You should come with a shirt and/or dress.
+5. The date is set: 25/12/17.
+6. He blames the mayor for all his doubts, through and through.
 
-6. -T ROEUL TPAEPL HAS AEU HROUD SKP AUFL SET -F PWOEUS TP-PL
-
-7. WHO HR TAEUBG -T PWHRAEUPL H-F
-
-8. EU APL TO PHAEUBG AEU KHOEUS PWEU TPOUR TP-PL
-
-9. ### 2. Find Outlines
-
-Find steno outlines that will STPHR\*R STPHR\*R STPHR\*R write these English sentences, including punctuation.
-
-1. 
 
 

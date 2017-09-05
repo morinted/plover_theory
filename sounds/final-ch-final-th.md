@@ -1,5 +1,7 @@
 # CH and TH
 
+_Special thanks to _[_Scott Pierce_](https://ddrscott.github.io)_ for funding this lesson._
+
 ### Initial SH
 
 You've already learned initial SH in previous lessons as it's just `SH`.

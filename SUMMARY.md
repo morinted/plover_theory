@@ -15,5 +15,6 @@
   * [The Letter M](sounds/the-letter-m.md)
   * [Initial F and Q](sounds/beginning-f-and-q.md)
   * [AYE and OY](sounds/aye-and-oi.md)
+  * [The Letter N](sounds/the-letter-n.md)
 * [Brainstorming](draft-work/brainstorming.md)
 
