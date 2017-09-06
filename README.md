@@ -2,7 +2,7 @@
 
 ### What is Stenography?
 
-Stenography is the fastest way to type down text. Court reporters have used machine stenography since the early 1900s to create written records of oral discourse in realtime.
+Stenography is the fastest way to write on a computer. Court reporters have used machine stenography since the early 1900s to create written records of human speech in realtime.
 
 Nowadays, stenography is used for:
 
