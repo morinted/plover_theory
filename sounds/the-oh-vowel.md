@@ -59,8 +59,6 @@ You can imagine speaking in a Cockney accent if it helps you remember this patte
 
 ### Briefs
 
-There are a lot of briefs that use Ns. This is not an extensive list.
-
 | Chord | Translation | Notes |
 | :--- | :--- | :--- |
 | OERBGS | oh{,} | "Oh" with a comma attached. RBGS is the comma stroke in traditional StenEd and is often used as a briefing tool in Plover. |
@@ -104,13 +102,12 @@ Write the English sentence represented by these outlines, including punctuation.
 9. `TOEPL S APB PORPB TKAEU TP-R PHE TP-PL`
 10. `U SHO KHEBG OUT THAEUR OER PORPB WORBGS PW-FR TOEPL TP-PL`
 
-
-
 1. My mother and father are the subject of the film today.
 
 2. They're not there for the days that I am in town, but they will be there tonight through to tomorrow.
 
 3. It is important to open mail before you throw it out.
+
 4. Oh, I am not so sure about that...
 5. My sister has more odd opinions on this subject.
 6. I cannot object to any other bills or they will throw me out of the court.
