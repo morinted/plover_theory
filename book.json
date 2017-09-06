@@ -17,7 +17,7 @@
             "base": "https://github.com/morinted/plover_theory/edit/master/",
             "label": "Edit This Page"
         },
-        "layout" {
+        "layout": {
             "footerPath": "footer.html"
         }
     }
