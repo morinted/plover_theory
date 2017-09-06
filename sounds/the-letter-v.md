@@ -38,6 +38,8 @@ Plover Theory spells words with "or" in them \(corn, born, etc.\) with just the 
 * `STORPL`: storm
   * `STOERPL`: stormy
 
+You are not expected to remember these briefs for the practice material in this book, but you are free to use them, of course.
+
 As a rule of thumb, if the word contains only the one vowel, you can write it using just `O`.
 
 ## Shortening Technique: Using OE as "o'e", AE as "a'e"
@@ -99,8 +101,6 @@ Write the English sentence represented by these outlines, including punctuation.
 8. `PHEU TPAER TPH HRAU S TO KOPL OEFR TOEPL AF WORBG TP-PL`
 9. `TOEPL S APB PORPB TKAEU TP-R PHE TP-PL`
 10. `U SHO KHEBG OUT THAEUR OER PORPB WORBGS PW-FR TOEPL TP-PL`
-
-
 
 1. My mother and father are the subject of the film today.
 2. They're not there for the days that I am in town, but they will be there tonight through to tomorrow.
