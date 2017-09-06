@@ -37,6 +37,10 @@ This lesson covers how you write the vowel sounds given by the diphthongs "aye" 
 | :--- | :--- | :--- |
 | OEU | {^/^} | Slash. There is no spacing on either side. E.g. PET OEU KAT: pet/cat |
 | THRU | through |  |
+| THR- | there |  |
+| THE | they |  |
+| THER | they're |  |
+| THAEUR | their |  |
 
 ### Practice
 

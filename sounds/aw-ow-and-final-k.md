@@ -30,6 +30,7 @@ On the left hand we have a `W` key, but there is no such thing on the right. Ins
    * `HOU`: how
    * `HOUS`: house
    * `OUT`: out
+   * `OUL`: owl
 
 ### Briefs
 
