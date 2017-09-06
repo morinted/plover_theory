@@ -1,5 +1,7 @@
 # Plover Theory: Learn Stenography
 
+### What is Stenography?
+
 Stenography is the fastest way to input text. Court reporters have used machine stenography since the early 1900s to take down spoken word in realtime.
 
 Nowadays, stenography is used for:
@@ -10,11 +12,23 @@ Nowadays, stenography is used for:
 * coding, writing prose, chatting online, and other indirect places you would use a keyboard
 * a fun hobby
 
-### Why Plover?
+This book is part of the [Open Steno Project](http://openstenoproject.org), which seeks to get stenography into everyone's hands through free learning materials, drilling tools, cheap hardware, and free software.
 
-Thanks to Plover, there are hundreds of people who have self-taught themselves stenography with free resources online and now use stenography for different purposes at different speeds. You don't need to reach 225WPM \(certified court reporter speed in the United States\) to get a speed and ergonomics boost over a conventional keyboard.
+### What is Plover?
 
-The purpose of this book is to teach you Plover's steno theory. There are many different theories you can use and learn, but Plover comes with a perfectly competent dictionary for free that evolves over time. Plover theory is built on top of the personal dictionary of Mirabai Knight, the inventor of Plover.
+[Plover](http://openstenoproject.org/plover) is an open source application that lets you control your computer with a steno machine. It also lets you use an NKRO \(n-key rollover\) keyboard _as a steno machine_. It brings the barrier of entry for steno hardware from thousands of dollars to potentially free, as many gamers already own an NKRO keyboard.
+
+Thanks to Plover, there are hundreds of people who have self-taught themselves stenography with free resources online and now use stenography for different purposes at different speeds. You don't need to reach 225WPM, the certified court reporter speed in the United States, to get a speed and ergonomics boost over a conventional keyboard.
+
+The purpose of this book is to teach you Plover's steno theory. There are many different theories you can use and learn, but Plover comes with a perfectly competent dictionary for free that evolves over time. Plover theory is built on top of the personal dictionary of Mirabai Knight, the inventor of Plover
+
+### What is a Theory?
+
+Before I take a stab at defining what a theory is, let's take a step back and look at some of the history of stenography. Stenography is the art and study of shorthand. Specifically, Open Steno and Plover are concerned with machine stenography, also known as machine shorthand. You might have heard of pen shorthand before, like Gregg, Pitman, or Teeline. Journalists and court reporters used to use pen shorthand to take notes at high speeds, and then would later convert from shorthand to text. There were many different systems that were used, particularly in different countries. Gregg was popular in the States, Pitman and Teeline in the UK. These different systems tend to look very different from each other, but they are all based in phonetics, because English is a much simpler language sounded-out than written.
+
+Machine shorthand came about in the early 1900s, created by Ward Stone Ireland. Using many of the same principles as written shorthand, Ireland was able to create a machine that could produce shorthand notes at a greater speed than written shorthand. Machine stenography compared with written shorthand is similar to how typewriters is faster than writing on paper. The layout that Ward Stone Ireland came up with is still used today in modern stenography. Like Gregg and Pitman, there are other "systems" used world-wide, as Ireland's was very focused on English. There are different layouts \(sometimes just a renaming of letters on the stenotype\) for different languages, and there are also different physical machines. The UK has the [Palantype](http://www.openstenoproject.org/palantype/tutorial/2016/08/21/learn-palantype.html) as well as the [Velotype](http://www.velotype.com/en/), which are very different from Ireland's steno machine.
+
+None of these things are _theories_, though. A theory refers to the different ways one could use a given system. In Gregg shorthand writing, there are different editions, revisions, or ways to write certain words and sounds. These could be thought of as different theories, where [Centennial](https://www.amazon.com/Gregg-Shorthand-College-Book-Centennial/dp/0070736618) differs from the later Simplified
 
 ### What about other theories?
 
