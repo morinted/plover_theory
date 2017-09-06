@@ -20,7 +20,7 @@
         "page-footer-ex": {
             "copyright": "© Ted Morin, licensed under CC BY-SA 4.0 International",
             "update_label": "last updated",
-            "update_format": "YYYY-MM-DD HH:mm"
+            "update_format": "YYYY-MM-DD"
         }
     }
 }
