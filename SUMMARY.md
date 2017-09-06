@@ -16,6 +16,6 @@
   * [Initial F and Q](sounds/beginning-f-and-q.md)
   * [AYE and OY](sounds/aye-and-oi.md)
   * [The Letter N](sounds/the-letter-n.md)
-  * [The OH Vowel](sounds/the-letter-v.md)
+  * [The OH Vowel](sounds/the-oh-vowel.md)
 * [Brainstorming](draft-work/brainstorming.md)
 
