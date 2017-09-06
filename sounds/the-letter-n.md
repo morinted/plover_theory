@@ -35,7 +35,7 @@ Final N is given by the outline `-PB`.
 
 ### Briefs
 
-There are a lot of briefs that use Ns. This is not an expensive list.
+There are a lot of briefs that use Ns. This is not an extensive list.
 
 | Chord | Translation | Notes |
 | :--- | :--- | :--- |
@@ -65,7 +65,7 @@ Write the English sentence represented by these outlines, including punctuation.
 1. `EU TKO TPHOT PWHREF THA THA S AEU R-PB TO SEPBD HEUPL OF TP-PL`
 2. `TPH-L SHE HREFS EU HR TPHOT TPHOD OF TP-BG`
 3. `WHA S HER P-PB OPB TH KW-PL`
-4. `SHE HR TKO T KW-BG PW THR S WUPB K-PB STPH-FPLT TPH-B K WAFP HER TP-PL`
+4. `SHE HR TKO T KW-BG PWUT OPB WUPB K-PB STPH-FPLT TPH-B K WAFP HER TP-PL`
 5. `PWART WAS TPH-R TO -B TPOUPBD TP-PL`
 6. `S-PB WUPB S TKOPB KW-PB HR U T-PB TO WAFP TH TPH-L TPHOG S HREFT H-F`
 7. `S T TPH PHEUPBT K-PB KW-BG AS TPH TPHU KW-BG OR S T TPHU H-PB TPHU KW-PL`
