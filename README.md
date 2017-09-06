@@ -34,6 +34,8 @@ The fact is, with most modern steno theories \(called realtime theories, a dated
 
 Phoenix and Magnum were born out of moving away from the center; a decent mix of phonetic theory with some spelling disambiguators, plus a good dose of phrasing and shortcuts to still maintain fast writing. This middle-ground theory came first, and is called [StenEd](http://www.stened.com/). StenEd is still the most popular theory nowadays, mainly because of momentum and market share, as well as the fact that teachers tend to teach what they themselves have learned.
 
+### What is Plover Theory?
+
 Plover theory, the subject of this book, is most similar to StenEd, but probably leans ever-so-slightly more towards the Magnum side of things in terms of trying to write quickly. The big difference between Plover and the other theories is that it's 100% free and doesn't require purchasing a learning materials or the dictionary itself. The first time you open Plover, the dictionary is already loaded. Plain and simple.
 
 Theories manifest, often, as a dictionary and a textbook. The textbook explains the mapping from sounds and spelling to machine shorthand, and the dictionary is where all the mappings are stored. Changing the theory you write with is as simple as loading the dictionary into Plover, and likewise you can move Plover's dictionary into paid steno software if that is ever necessary. Dictionaries tend to be in the range of 100,000 to 500,000 mappings, in order to cover the entire English language. Don't worry, you don't need to memorize that much, as most of these entries are just realization of the rules covered in the textbook.
