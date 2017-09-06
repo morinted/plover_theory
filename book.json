@@ -1,6 +1,6 @@
 {
     "plugins": [
-        "github-buttons", "edit-link"
+        "github-buttons", "edit-link", "footer"
     ],
     "pluginsConfig": {
         "theme-default": {
@@ -16,6 +16,9 @@
         "edit-link": {
             "base": "https://github.com/morinted/plover_theory/edit/master/",
             "label": "Edit This Page"
+        },
+        "layout" {
+            "footerPath": "footer.html"
         }
     }
 }
