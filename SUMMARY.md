@@ -17,5 +17,6 @@
   * [AYE and OY](sounds/aye-and-oi.md)
   * [The Letter N](sounds/the-letter-n.md)
   * [The OH Vowel](sounds/the-oh-vowel.md)
+  * [The Letter V](sounds/the-letter-v.md)
 * [Request More Lessons](draft-work/brainstorming.md)
 

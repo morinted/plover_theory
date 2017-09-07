@@ -13,6 +13,9 @@ The vowel sound "OH" is given by the outline `OE`.
 * `OEPL`: ohm
 * `PHOE`: mow
 * `TOE`: tow
+* `TPHOE`: know
+* `TPHOEZ`: knows
+* `TPHOES`: nose
 * `SHOE`: show
 * `PWHROE`: blow
 * `PWHROEPB`: blown
@@ -38,9 +41,11 @@ Plover Theory spells words with "or" in them \(corn, born, etc.\) with just the 
 * `STOR`: store
   * `STOER`
 * `STORPL`: storm
+
   * `STOERPL`: stormy
 
 * `PHOR`: more
+
   * `PHOER`: mother
 
 You are not expected to remember these `OER` briefs for the practice material in this book yet, but you are free to use them, of course.
@@ -88,6 +93,7 @@ You can imagine speaking in a Cockney accent if it helps you remember this patte
 | ST-R | sister |  |
 | SOPB | son |  |
 | TKAUR | daughter |  |
+| PARPBT, PAEURPBT | parent |  |
 
 ### Practice
 
@@ -117,7 +123,9 @@ Write the English sentence represented by these outlines, including punctuation.
 15. My sister has more odd opinions on this subject.
 
 16. I cannot object to any other bills or they will throw me out of the court.
+
 17. My daughter is as pretty as my sister, and my sister is already so pretty.
+
 18. My father-in-law is to come over tomorrow after work.
 19. Tomorrow is an important day for me.
 20. You should check out their other important works before tomorrow.
