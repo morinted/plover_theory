@@ -9,17 +9,23 @@ The keys used in this lesson include those used in previous lessons, plus:
 
 The numbers show the fingers for each key, where 1's are the pinkies and 5 are the thumbs.
 
+### The Asterisk (*)
+
 Your keyboard may have multiple asterisks, up to four, or just one. As long as you can hit the asterisks with either index finger, you should be fine. The asterisk can be hit alone, or in conjunction with its neighboring keys. That is why often the gap between the asterisk key and `-FR` tends to be smaller than the gaps between other columns.
 
 Most stenographers hit the asterisk key exclusively with their right hand, but you can feel free to only use your left hand, or use them interchangeably. The left hand tends to do less in steno \(responsible for only 9 keys instead of the right's typical 13\) so you might consider learning to use a left-side asterisk.
 
-As for the `D` and `Z` keys, they are hit are the right pinky. They can be used alone, or in combos such as `TD`, `SZ`, or `DZ`. Note that, because the pinky is only one finger, you cannot hit `SD` or `TZ` because they are diagonal from each other. Some theories have you move your hand over and use your ring finger \(called a "Philly shift"\) but Plover doesn't use this trick. The pinky can hit the entire `TSDZ` bank, but it is extremely rare in Plover Theory.
-
-### The Asterisk
-
 In stenography the asterisk is always used to undo the last stroke. In Plover theory, it is used for various purposes. It can be used to make certain sounds, resolve ambiguous strokes, fingerspell, and is often used as a briefing tool.
 
 Each of those topics will be covered. For now, if you ever see a lone asterisk in a text or paper tape, it cancels the chord proceeding it. For example, `KAT S PUG * KAT` will end up with the same output as `KAT S KAT`, and on screen the word "pug" will be shown then removed.
+
+### The `-D` and `-Z` Keys
+
+The `D` and `Z` keys are hit using the right pinky. They can be used alone, or in combinations such as `TD`, `SZ`, or `DZ`. 
+
+#### Pressing down the `-SD` or `-TZ` Keys
+
+Because the pinky is only one finger, you cannot hit `SD` or `TZ` because they are diagonal from each other. Some theories have you move your hand over and use your ring finger \(called a "Philly shift"\) but Plover doesn't use this trick. The pinky can hit the entire `TSDZ` bank, but it is extremely rare in Plover Theory.
 
 ### Past Tense
 
@@ -31,7 +37,7 @@ Phonetically, plural words in English end with an "s" (puts) or a "z" (bugs) sou
 
 ### Briefs
 
-This lesson only introduces a couple briefs, but they are similar so they will require care to remember correctly. The briefs starting with `TH-` below are good examples of very common words that had their ending chopped off to save effort on the stenographer's part. The briefs also make room for more complex strokes as you will learn in later lessons.
+This lesson only introduces a few briefs. They are similar, so they will require care to remember correctly. The briefs starting with `TH-` below are good examples of very common words that had their ending chopped off to save effort on the stenographer's part. The briefs also make room for more complex strokes as you will learn in later lessons.
 
 |  | Translation | Notes |
 | :--- | :--- | :--- |
@@ -44,6 +50,8 @@ This lesson only introduces a couple briefs, but they are similar so they will r
 ### How to Practice
 
 Play close attention to the meaning of the sentence in order to ensure you have understood it correctly. Because `-D` can be used in multiple ways \(to end a word, like "card", or to make a verb past tense, like "scarred"\), you may interpret an outline wrong the first time. It's okay, just make a mental note and see if you can notice any patterns. Understanding the consistency in how your theory solves certain language-related issues will help you when you develop and personalize your own dictionary as you grow as a stenographer.
+
+---
 
 ### Practice
 
