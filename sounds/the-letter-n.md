@@ -11,6 +11,7 @@ The hardest part in writing lessons so far has been avoiding using "N". I've bee
 Initial N is given by the outline `TPH`.
 
 * `TPHO`: no
+* `TPHOU`: now
 * `TPHOT`: not
 * `TPHOR`: nor
 * `TPHAU`: naw
@@ -27,11 +28,14 @@ Final N is given by the outline `-PB`.
 * `OPB`: on
 * `APB`: an
 * `WUPB`: one
+* `THAPB`: than
+* `THEPB`: then
 * `SOPB`: son
 * `TPUPB`: fun
 * `RUPB`: run
 * `KAPBT`: can't
-* `WAPBT`: want \(spelling, not phonetic\)
+* `WAPBT`: want
+* `WEPBT`: went
 
 ### Briefs
 

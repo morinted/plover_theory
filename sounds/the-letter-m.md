@@ -19,6 +19,9 @@ Initial M is made with the combination `PH` on the left side.
 Final M is made with the combination `-PL`. This _does_ conflict with words ending in "ple" like "apple" versus "am". However, the final M is much more common in English so in steno `-PL` defaults to final M.
 
 * `APL`: am
+* `SOPL`: some
+* `THEPL`: them
+* `KOPL`: come
 * `PHOPL`: mom
 * `PHUPL`: mum
 * `TOPL`: Tom

@@ -12,6 +12,8 @@ This lesson covers how you write the vowel sounds given by the diphthongs "aye" 
 * `WAEU`: way
 * `AEUP`: ape
 * `AEUR`: air
+* `PHAEUBG`: make
+* `TAEUBG`: take
 * `HRAEUPL`: lame
 * `PWHRAUPL`: blame
 * `PHAEUR`: mayor

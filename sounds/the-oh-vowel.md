@@ -65,6 +65,7 @@ You can imagine speaking in a Cockney accent if it helps you remember this patte
 | \*OERBGS | oh | Asterisk "removes" the comma in this case |
 | OEP | open |  |
 | OEFR | over |  |
+| OEPBL | only |  |
 | OEB | observe |  |
 | OBT | object |  |
 | SUBT | subject |  |
@@ -102,19 +103,20 @@ Write the English sentence represented by these outlines, including punctuation.
 9. `TOEPL S APB PORPB TKAEU TP-R PHE TP-PL`
 10. `U SHO KHEBG OUT THAEUR OER PORPB WORBGS PW-FR TOEPL TP-PL`
 
-1. My mother and father are the subject of the film today.
+11. My mother and father are the subject of the film today.
 
-2. They're not there for the days that I am in town, but they will be there tonight through to tomorrow.
+12. They're not there for the days that I am in town, but they will be there tonight through to tomorrow.
 
-3. It is important to open mail before you throw it out.
+13. It is important to open mail before you throw it out.
 
-4. Oh, I am not so sure about that...
-5. My sister has more odd opinions on this subject.
-6. I cannot object to any other bills or they will throw me out of the court.
-7. My daughter is as pretty as my sister, and my sister is already so pretty.
-8. My father-in-law is to come over tomorrow after work.
-9. Tomorrow is an important day for me.
-10. You should check out their other important works before tomorrow.
+14. Oh, I am not so sure about that...
+
+15. My sister has more odd opinions on this subject.
+16. I cannot object to any other bills or they will throw me out of the court.
+17. My daughter is as pretty as my sister, and my sister is already so pretty.
+18. My father-in-law is to come over tomorrow after work.
+19. Tomorrow is an important day for me.
+20. You should check out their other important works before tomorrow.
 
 ### 2. Find Outlines
 
