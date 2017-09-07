@@ -1,6 +1,6 @@
 ## **Oh, no, you've reached the end of the book!**
 
-I'm still writing it. **If you want to give me an encouragement, a tip of any size to **[**my PayPal**](https://www.paypal.me/morinted)** will guarantee a new page within 48 hours!**
+I'm still writing it. **If you want to give me encouragement, a tip of any size to **[**my PayPal**](https://www.paypal.me/morinted)** will guarantee a new page within 48 hours!**
 
 Please include a note on how you'd like to be attributed. On top of the new lesson, I'll put a name and link of your choice, or can keep you anonymous.
 
