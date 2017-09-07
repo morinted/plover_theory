@@ -25,7 +25,7 @@ The vowel sound "OH" is given by the outline `OE`.
 
 #### But there's a catch!
 
-Plover Theory spells words with "or" in them \(corn, born, etc.\) with just the normal `O` instead of `OE`. The `OE` version is reserved for brief space.
+Plover Theory spells words with "or" in them \(corn, born, etc.\) with just the normal `O` instead of `OE`. The `OER` version is reserved for briefs.
 
 * `KORPB`: corn
   * `KOERPB`: coroner
@@ -35,12 +35,15 @@ Plover Theory spells words with "or" in them \(corn, born, etc.\) with just the 
   * not defined \(`TKOERPL` is unmapped\)
 * `TORPB`: torn
   * `TOERPB`: attorney
+* `STOR`: store
+  * `STOER`
 * `STORPL`: storm
   * `STOERPL`: stormy
+
 * `PHOR`: more
   * `PHOER`: mother
 
-You are not expected to remember these `OE` briefs for the practice material in this book yet, but you are free to use them, of course.
+You are not expected to remember these `OER` briefs for the practice material in this book yet, but you are free to use them, of course.
 
 ## Shortening Technique: mo'er and fa'er
 
@@ -112,13 +115,14 @@ Write the English sentence represented by these outlines, including punctuation.
 14. Oh, I am not so sure about that...
 
 15. My sister has more odd opinions on this subject.
+
 16. I cannot object to any other bills or they will throw me out of the court.
 17. My daughter is as pretty as my sister, and my sister is already so pretty.
 18. My father-in-law is to come over tomorrow after work.
 19. Tomorrow is an important day for me.
 20. You should check out their other important works before tomorrow.
 
-### 2. Find Outlines
+#### 2. Find Outlines
 
 Find steno outlines that will write these English sentences, including punctuation.
 
