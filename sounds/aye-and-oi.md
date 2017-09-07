@@ -48,14 +48,14 @@ This lesson covers how you write the vowel sounds given by the diphthongs "aye" 
 
 Write the English sentence represented by these outlines, including punctuation.
 
-1. `EU HR PAEU TP-R OUR STAEU TP-PL`
-2. `-T KHOEUS HR -B HIS SKP HERS TP-PL`
-3. `U K STAEU SKP PHRAEU W -T PWOEU TP-PL`
+1. `THE HR PAEU TP-R OUR STAEU TP-PL`
+2. `-T KHOEUS HR -B THAEURS TP-PL`
+3. `U K STAEU THR- SKP PHRAEU W THER PWOEUS TP-PL`
 4. `PUT SOPL HROGS KW-BG AEUR KW-BG SKP AEU TPHRAEUPL TOGT SKP PWABG UP KWEUBG TP-PL`
-5. `-T HOUS STAEUS WARPL PWAUS -F OEUL SKP TPHRAEUPL TP-PL`
-6. `-T ROEUL TPAEPL HAS AEU HROUD SKP AUFL SET -F PWOEUS TP-PL`
+5. `-T HOUS STAEUS WARPL PWAUS -F OEUL SKP TPHRAEUPLS TP-PL`
+6. `-T ROEUL TPAEPL HAS AEU HROUD SKP AUFL SET -F PWOEUS TP-PL THE PWUG PHE AEU HROT TP-PL`
 7. `WHO HR TAEUBG -T PWHRAEUPL H-F`
-8. `EU APL TO PHAEUBG AEU KHOEUS PWEU TPOUR TP-PL`
+8. `THE R TO PHAEUBG AEU KHOEUS PWEU TPOUR TP-PL`
 9. `E PWRAUT -T WAUR TO AEU PWOEUL TP-PL`
 10. `EU SWAEUR U R AEU SPOEULD KEUD TP-PL`
 
@@ -63,12 +63,13 @@ Write the English sentence represented by these outlines, including punctuation.
 
 Find steno outlines that will write these English sentences, including punctuation.
 
-1. The soil is sort of wet...
+1. The soil there is sort of wet...
 2. She walks with such grace.
-3. We sold 4/5 mugs this shift.
+3. We sold 4/5 of their mugs this shift.
 4. You should come with a shirt and/or dress.
 5. The date is set: 25/12/17.
-6. He blames the mayor for all his doubts, through and through.
+6. They blame the mayor for all his doubts, through and through.
+7. What lovely and soft fur. The cats, they're so pretty!
 
 
 
