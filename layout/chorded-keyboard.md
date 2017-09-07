@@ -4,7 +4,7 @@ Stenography uses a chorded keyboard. **On a chorded keyboard, you hit multiple k
 
 ### Steno Order
 
-Steno keys are always processed in the same order. No matter if you hit "HU" or "UH" on the keyboard in either order, the chord is always processed as "HU".
+Steno keys are always processed in the same order. No matter if you hit "H" then "U" or "U" then "H" on the keyboard, the chord is always processed as "HU".
 
 **The full steno order is:**
 
@@ -12,7 +12,7 @@ Steno keys are always processed in the same order. No matter if you hit "HU" or 
 
 The** left-hand side gives us the starting sounds** \(onset\), the **center gives us the vowel sounds**, and the **right-hand side gives us the ending sounds** \(coda\).
 
-Most stenographers will memorize steno order, either in study or as a consequence of reading raw steno notes.
+Most stenographers will memorize steno order, either in study or as a consequence of reading raw steno notes. For now, you can refer back to this lesson while you are still learning. If you are ever on your machine and want to know steno order, just mash every key then release, and steno order will pop out!
 
 ### Home Row
 
@@ -40,6 +40,8 @@ Instead of backspacing letter-by-letter, stenography backspaces one chord at a t
 
 For each raw steno chord, identify whether or not it is in steno order.
 
+> **\#STKPWHRAO\*EUFRPBLGTSDZ**
+
 1. `SKTA`
 2. `SPA`
 3. `TSUN`
@@ -53,4 +55,20 @@ For each raw steno chord, identify whether or not it is in steno order.
 11. `HROF`
 
 Remember, steno order is firm and is never broken. Without a consistent order stenography would be much more ambiguous and confusing.
+
+#### Solutions
+
+1. `SKTA` Nope, K comes after T.
+2. `SPA` Yes!
+3. `TSUN` No, S comes before T _and_ there is no "N" in steno order at all.
+4. `PAP` Yes!
+5. `AH` Nada, H is always on the left of the vowels in steno.
+6. `TKPBAODZ` Negative, the "B" doesn't exist left of the vowels. If we changed the B to a W it would be okay.
+7. `KAT` Yes!
+8. `TAC` Wrong, no C in steno order at all.
+9. `ZAOPL` Incorrect, Z is the final letter in steno order, it would never start a chord.
+10. `SOS` Yes!
+11. `HROF` Yes!
+
+
 
