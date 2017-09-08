@@ -18,7 +18,8 @@
             "label": "Edit This Page"
         },
         "page-footer-ex": {
-            "copyright": "Plover Theory by <a href=\"http://tedmor.in\">Ted Morin</a>, licensed under <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0 International</a>",
+            "markdown": true,
+            "copyright": "Plover Theory by [Ted Morin](http://tedmor.in), licensed under [CC BY-SA 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)",
             "update_label": "last updated",
             "update_format": "YYYY-MM-DD"
         }
