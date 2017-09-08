@@ -27,18 +27,18 @@ In English, many words end in -D when they are conjugated in the past tense. In 
 
 ### Plurals
 
-Phonetically, plural words in English end with an "s" (puts) or a "z" (bugs) sound. In Plover Theory, we use both `-S` or `-Z` for plurals. Often, both work, and for that reason you should be inclined to reach for `-S` first because it is closer. However, sometimes the `-S` is used in another way by the word and you will need to use `-Z` to make it plural. This will be trial and error until you start to notice when `-Z` is required. So `TAP` is "tap" and `TAPS` and `TAPZ` are both "taps".
+Phonetically, plural words in English end with an "s" \(puts\) or a "z" \(bugs\) sound. In Plover Theory, we use both `-S` or `-Z` for plurals. Often, both work, and for that reason you should be inclined to reach for `-S` first because it is closer. However, sometimes the `-S` is used in another way by the word and you will need to use `-Z` to make it plural. This will be trial and error until you start to notice when `-Z` is required. So `TAP` is "tap" and `TAPS` and `TAPZ` are both "taps".
 
 ### Briefs
 
-This lesson only introduces a couple briefs, but they are similar so they will require care to remember correctly. The briefs starting with `TH-` below are good examples of very common words that had their ending chopped off to save effort on the stenographer's part. The briefs also make room for more complex strokes as you will learn in later lessons.
+This lesson only introduces a couple briefs, but they are similar so they will require care to remember correctly. The briefs starting with `TH-` below are good examples of very common words that had their ending chopped off to save effort on the stenographer's part. The briefs also make room for more complex strokes that you will learn in later lessons.
 
 |  | Translation | Notes |
 | :--- | :--- | :--- |
-| TH- | this |  |
-| THE- | they |  |
-| THA- | that |  |
-| WHA- | what |  |
+| TH | this |  |
+| THA | that |  |
+| THE | they |  |
+| WHA | what |  |
 | UD | you'd |  |
 
 ### How to Practice
@@ -69,3 +69,6 @@ Find steno outlines that will write these English sentences, including punctuati
 4. She can pet the cat, pug, and rat.
 5. They are roughed up.
 6. That is, well, that is part of it.
+
+
+

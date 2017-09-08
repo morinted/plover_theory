@@ -14,7 +14,6 @@ Remaining sounds:
 
 * G - left side
 * J - both sides, probably good to include at the same time as G.
-* V - both sides
 * SH - right side
 * X - both sides
 * Y - left side \(as a consonant\)
