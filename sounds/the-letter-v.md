@@ -19,15 +19,10 @@ Initial V is given by the outline `SR`.
 Final V is given by the outline `*F`, but if there is no conflict with a word ending in an "F" sound, the asterisk can be dropped. Most of the common words we deal with will not have the asterisk. Handling cases like "live/life", "
 
 * `KO*FT`: covet
-
 * `HROF`, `HRO*F`: love
-
 * `WOEF`, `WO*EF`: wove
-
 * `WOEFPB`, `WO*EFPB` woven
-
 * `HEFPB`, `H*EFPB` heaven
-
 * `KAF`: cave
 * `PAF`: pave
 * `PROF`: prove
@@ -36,7 +31,6 @@ Final V is given by the outline `*F`, but if there is no conflict with a word en
 * `HREUF`: live
 * `O*FPB`: oven
 * `SWEUFL`, `SW*EUFL` swivel
-
 * `WAEUF`: waive, `WA*EUF`: waif \(in this case, the rule is reversed because waif is a very uncommon word\)
 
 ### Briefs
@@ -69,8 +63,6 @@ I'm going to put writing raw steno on hold, I have a project that will automate 
 
 Find steno outlines that will write these English sentences, including punctuation.
 
-I covet your oven. I want to have it and when I do and will warm my rat with it.
-
 1. Have you ever wanted to travel the world?
 2. I very much want to be on TV tomorrow when I am at the fair.
 3. Everybody, shut up!
@@ -85,6 +77,7 @@ I covet your oven. I want to have it and when I do and will warm my rat with it.
 12. Pave the way for a new way to save lives.
 13. Have you been there very often since everyone left?
 14. I live with my parents.
+15. I covet your oven. I want to have it and when I do and will warm my rat with it.
 
 
 
