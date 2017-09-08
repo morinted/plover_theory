@@ -39,8 +39,6 @@ Final V is given by the outline `*F`, but if there is no conflict with a word en
 
 * `WAEUF`: waive, `WA*EUF`: waif \(in this case, the rule is reversed because waif is a very uncommon word\)
 
-* `KO*FT`: covet
-
 ### Briefs
 
 | Chord | Translation | Notes |
