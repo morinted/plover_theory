@@ -76,7 +76,7 @@ If you ever can't read an outline, you can try writing it into your steno machin
 Find steno outlines that will write these English sentences, including punctuation.
 
 1. Huff, puff, and start.
-2. Cut up the rug.
+2. Cut up the rag.
 3. Hug a wet rat.
 4. Tug at the straps.
 5. You had a skull.
