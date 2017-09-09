@@ -76,11 +76,11 @@ On some hardware, pressing this many keys might be difficult. Make sure you aren
 | TKPWEPBS | against |  |
 | TKPWEUPB | begin |  |
 | TKPWEUPBG | beginning |  |
-| TKPWORPBLGS | gorgeous |  |
-| TKAEUPBLG | danger |  |
-| TKAEUPBLGS | dangerous |  |
-| HRAPBLG | language |  |
-| TOPBLG | technology |  |
+| TKPWORPBLGS | gorgeous | GORJS |
+| TKAEUPBLG | danger | DAIJ |
+| TKAEUPBLGS | dangerous | DAIJS |
+| HRAPBLG | language | LAJ |
+| TOPBLG | technology | TOJ |
 
 ### Practice
 
