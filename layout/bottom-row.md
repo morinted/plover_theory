@@ -21,7 +21,7 @@ Sometimes, in Plover theory, we revert to spelling. You will see this in the upc
 
 ### Briefs
 
-Now that we most of the keyboard available, there are many possible briefs to form. The briefs chosen here are used in the lesson and extend what you learned in lesson 2.
+Now that we know most of the keyboard, there are many possible briefs to form.
 
 | Chord | Translation | Notes |
 | :--- | :--- | :--- |

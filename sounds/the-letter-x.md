@@ -63,6 +63,7 @@ You might realize at this point that "ks" words like "tacks" are homophones to "
 | KPERZ | exercise |  |
 | KPES | access |  |
 | KP\*ES | excess | The asterisk is used on the less common word in the conflict between "access" and "excess". |
+| PRABGS | practice |  |
 
 ### Practice - Coming Soon
 
@@ -75,6 +76,7 @@ Write the English sentence represented by these outlines, including punctuation.
 Find steno outlines that will write these English sentences, including punctuation.
 
 1. Let me give you an example you can see.
+2. I want more practice than you have written.
 
 
 

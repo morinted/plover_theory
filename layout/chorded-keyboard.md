@@ -62,7 +62,7 @@ Remember, steno order is firm and is never broken. Without a consistent order st
 2. `SPA` Yes!
 3. `TSUN` No, S comes before T _and_ there is no "N" in steno order at all.
 4. `PAP` Yes!
-5. `AH` Nada, H is always on the left of the vowels in steno.
+5. `AH` Nuh-uh, H is always on the left of the vowels in steno.
 6. `TKPBAODZ` Negative, the "B" doesn't exist left of the vowels. If we changed the B to a W it would be okay.
 7. `KAT` Yes!
 8. `TAC` Wrong, no C in steno order at all.
