@@ -64,19 +64,15 @@ You might realize at this point that "ks" words like "tacks" are homophones to "
 | KPES | access |  |
 | KP\*ES | excess | The asterisk is used on the less common word in the conflict between "access" and "excess". |
 
-### Practice
+### Practice - Coming Soon
 
 #### 1. Translate
 
 Write the English sentence represented by these outlines, including punctuation.
 
-
-
 ### 2. Find Outlines
 
 Find steno outlines that will write these English sentences, including punctuation.
-
-
 
 1. Let me give you an example you can see.
 
