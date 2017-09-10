@@ -19,5 +19,6 @@
   * [The OH Vowel](sounds/the-oh-vowel.md)
   * [The Letter V](sounds/the-letter-v.md)
   * [G and J](sounds/g-and-j.md)
+  * [The Letter X](sounds/the-letter-x.md)
 * [Request More Lessons](draft-work/brainstorming.md)
 

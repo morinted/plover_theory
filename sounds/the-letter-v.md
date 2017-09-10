@@ -16,7 +16,7 @@ Initial V is given by the outline `SR`.
 
 ### Final V
 
-Final V is given by the outline `*F`, but if there is no conflict with a word ending in an "F" sound, the asterisk can be dropped. Most of the common words we deal with will not have the asterisk. Handling cases like "live/life", "
+Final V is given by the outline `*F`, but if there is no conflict with a word ending in an "F" sound, the asterisk can be dropped. Most of the common words we deal with will not have the asterisk.
 
 * `KO*FT`: covet
 * `HROF`, `HRO*F`: love

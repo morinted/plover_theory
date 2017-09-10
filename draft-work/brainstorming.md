@@ -12,9 +12,10 @@ Please include a note on how you'd like to be attributed. On top of the new less
 
 Remaining sounds:
 
-* G - left side
-* J - both sides, probably good to include at the same time as G.
 * SH - right side
+* you
+* eye
+* Z - left side
 * X - both sides
 * Y - left side \(as a consonant\)
 
