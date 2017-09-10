@@ -62,6 +62,7 @@ One recurring pattern in the Plover dictionary is squashing two syllable words w
 * `TPAER`: father \(fa'er\)
 * `WAUR`: water \(wa'er\)
 * `TKAUR`: daughter \(dau'er\)
+* `PWOER`: bother \(bo'er\)
 
 You can imagine speaking in a Cockney accent if it helps you remember this pattern. You substitute the middle consonant with a stop.
 
@@ -127,6 +128,7 @@ Write the English sentence represented by these outlines, including punctuation.
 17. My daughter is as pretty as my sister, and my sister is already so pretty.
 
 18. My father-in-law is to come over tomorrow after work.
+
 19. Tomorrow is an important day for me.
 20. You should check out their other important works before tomorrow.
 

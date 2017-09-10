@@ -15,7 +15,7 @@ The `S` key on the left hand is the same `S` key as on the top row. `S` is so co
 
 The `O` key alone represents the sound in "hop" and not "hope".
 
-The `E` key is used the sound in "red" and not "reed".
+The `E` key alone represents the sound in "red" and not "reed".
 
 Sometimes, in Plover theory, we revert to spelling. You will see this in the upcoming brief table. For example, though "he" is pronounced with a tense "ee" sound, it is a common word and can just be stroked with `HE`.
 
