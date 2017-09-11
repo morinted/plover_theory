@@ -88,6 +88,9 @@ Finally, this chord can be used if you ever have an "ao" vowel, but these are no
 | THRAOUL or TWAEUL | actually | Think "tlule" or "twail". |
 | URPBD | understand |  |
 | URPBGD | understanding |  |
+| KAOUFS | confuse |  |
+| KAOUFG | confusing |  |
+| KAOUFD | confused |  |
 
 ### Practice
 
