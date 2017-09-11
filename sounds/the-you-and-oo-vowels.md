@@ -69,7 +69,7 @@ We also use the `AO` combination to write out words that have the vowels "oa" li
 
 But this combination is also used for "oa" words even when there are no homophones:
 
-* `PWHRAOT`: bloat
+* `PWHRAOT`, `PWHROET`: bloat
 
 Finally, this chord can be used if you ever have an "ao" vowel, but these are not very common in English. The only single-syllable examples I have are names which have the asterisk as they conflict with "moo" and "too":
 
@@ -84,7 +84,7 @@ Finally, this chord can be used if you ever have an "ao" vowel, but these are no
 | PWHRU | blue |  |
 | PWAOUT | beauty |  |
 | TRAOUL | truly |  |
-| TAOUL or TWAUL | actual | Think "tule" or "twall" |
+| TAOUL or TWAUL | actual | Think "tule" or "twall". |
 | THRAOUL or TWAEUL | actually | Think "tlule" or "twail". |
 | URPBD | understand |  |
 | URPBGD | understanding |  |
@@ -95,13 +95,7 @@ Finally, this chord can be used if you ever have an "ao" vowel, but these are no
 
 Write the English sentence represented by these outlines, including punctuation.
 
-
-
 ### 2. Find Outlines
 
 Find steno outlines that will write these English sentences, including punctuation.
-
-
-
-
 
