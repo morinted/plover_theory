@@ -10,6 +10,7 @@ This lesson covers how you write the vowel sounds given by the diphthongs "aye" 
 * `PAEU`: pay
 * `STAEU`: stay
 * `WAEU`: way
+* `TKAEU`: day
 * `AEUP`: ape
 * `AEUR`: air
 * `PHAEUBG`: make
@@ -43,6 +44,8 @@ This lesson covers how you write the vowel sounds given by the diphthongs "aye" 
 | THE | they |  |
 | THER | they're |  |
 | THAEUR | their |  |
+| PAEUP, PAEURP | paper |  |
+| TKAEUL | daily |  |
 
 ### Practice
 
@@ -72,6 +75,7 @@ Find steno outlines that will write these English sentences, including punctuati
 5. The date is set: 25/12/17.
 6. They blame the mayor for all his doubts, through and through.
 7. What lovely and soft fur. The cats, they're so pretty!
+8. You should check the paper daily.
 
 
 
