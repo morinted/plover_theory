@@ -60,9 +60,9 @@ Write the English sentence represented by these outlines, including punctuation.
 
 1. `WO U TAUBG TO US H-F`
 2. `WE KO START KW-BG SHO WE H-F`
-3. `AULS HUG -T RATS TP-PH`
+3. `AULS HUG -T RATS TP-PL`
 4. `HOU S -T KAT H-F`
-5. `-T WORBG S EZ SKP HE S AULZ UP TO T TP-PH`
+5. `-T WORBG S EZ SKP HE S AULZ UP TO T TP-PL`
 6. `T S OBG KW-BG WE R OBG AF AUL TP-PL`
 7. `T WAZ AUFL AT -T WAUR TP-PL`
 8. `POR HER AEU KUP -F WAUR TP-PL`
