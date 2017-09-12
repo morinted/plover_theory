@@ -21,5 +21,6 @@
   * [G and J](sounds/g-and-j.md)
   * [The Letter X](sounds/the-letter-x.md)
   * [YOU and OO](sounds/the-you-and-oo-vowels.md)
+  * [Initial Y and Z](sounds/initial-z-and-y.md)
 * [Request More Lessons](draft-work/brainstorming.md)
 
