@@ -13,10 +13,8 @@ Please include a note on how you'd like to be attributed. On top of the new less
 Remaining sounds:
 
 * SH - right side
-* you
 * eye
 * Z - left side
-* X - both sides
 * Y - left side \(as a consonant\)
 
 Complex endings/beginnings:
