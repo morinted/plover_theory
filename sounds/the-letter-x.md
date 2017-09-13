@@ -6,7 +6,13 @@ This lesson covers how you write the initial and final X on the steno machine.
 
 ## Initial X
 
-Initial X is given by the outline `KP`. Words in English don't start with an "x" sound, so this outline is used mainly for words that start in "ex" like "expect". Here are several words that start with "x":
+Initial X is given by the outline `KP`. Words in English don't start with an "x" sound, so this outline is used mainly for words that start in "ex" like "expect".
+
+{% stenodisplay labels="all" %}
+X
+{% endstenodisplay %}
+
+Here are several words that start with "x":
 
 * `KPEU`: xi
 * `KPA*PBT`: xanth
@@ -34,6 +40,10 @@ There are also these notable examples of words that contain an "x" near the begi
 
 Final X is given by the outline `BGS`, which comes from `BG` being "K" and "KS" having the same sound as "x" in English. The imaginary word "foks" and the word "fox" would sound the same.
 
+{% stenodisplay labels="all" %}
+-X
+{% endstenodisplay %}
+
 * `EBGS`: ex
 * `TPOBGS`: fox
 * `HOEBGS`: hoax
@@ -55,18 +65,18 @@ You might realize at this point that "ks" words like "tacks" are homophones to "
 
 ### Briefs
 
-| Chord | Translation | Notes |
-| :--- | :--- | :--- |
-| KP | examine |  |
-| KPER | examiner |  |
-| KP-PL | example |  |
-| KPERZ | exercise |  |
-| KPES | access |  |
-| KP\*ES | excess | The asterisk is used on the less common word in the conflict between "access" and "excess". |
-| PRABGS | practice |  |
-| TEGT | text |  |
-| TPHEGT | next |  |
-| TRAEBGS | extra | tra-ex, reversal of "ex-tra" |
+| Chord   | Translation | Notes                                                                                       |
+|:--------|:------------|:--------------------------------------------------------------------------------------------|
+| KP      | examine     |                                                                                             |
+| KPER    | examiner    |                                                                                             |
+| KP-PL   | example     |                                                                                             |
+| KPERZ   | exercise    |                                                                                             |
+| KPES    | access      |                                                                                             |
+| KP\*ES  | excess      | The asterisk is used on the less common word in the conflict between "access" and "excess". |
+| PRABGS  | practice    |                                                                                             |
+| TEGT    | text        |                                                                                             |
+| TPHEGT  | next        |                                                                                             |
+| TRAEBGS | extra       | tra-ex, reversal of "ex-tra"                                                                |
 
 ### Practice
 
@@ -90,6 +100,3 @@ Find steno outlines that will write these English sentences, including punctuati
 10. This has been a terrible day, what could happen next?
 11. I would go except I hate that man.
 12. I would charge extra but you are exempt from this tax.
-
-
-

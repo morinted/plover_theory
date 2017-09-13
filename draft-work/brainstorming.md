@@ -8,6 +8,10 @@ Please include a note on how you'd like to be attributed. On top of the new less
 
 ---
 
+{% stenodisplay labels="all" %}
+SKPROUFBLSD
+{% endstenodisplay %}
+
 ### Brainstorming
 
 Remaining sounds:
@@ -70,4 +74,3 @@ Brief families:
 I want to get Jeff to make illustrations, mainly to draw the exercise sentences. I want a wet rat to be hugged.
 
 In the later lessons I think I'll move more into a format where I have one or two "letters" or stories as opposed to just the drilling sentences.
-

@@ -9,13 +9,25 @@ The keys used in this lesson are:
 
 The numbers show the fingers for each key, where 1's are the pinkies and 5 are the thumbs.
 
+{% stenodisplay labels="STPHAUFPLT" %}
+STPHAUFPLT
+{% endstenodisplay %}
+
 ### Chord Syntax
 
 To denote a chord, note that any of these keys **can appear once**. If center keys are not present, we **add a hyphen to clarify which side the key is on**. Lack of a hyphen means the left side.
 
-`T` or `T-` is the left-hand T.
+`T` or `T-` is the left-hand T:
 
-`-T` is the right-hand T.
+{% stenodisplay labels="STPHAUFPLT" %}
+T
+{% endstenodisplay %}
+
+`-T` is the right-hand T:
+
+{% stenodisplay labels="STPHAUFPLT" %}
+-T
+{% endstenodisplay %}
 
 Even when there is no uncertainty, we still denote right-hand keys with a hyphen in front of them unless there's a vowel: `-F` or `AF`, but not `F`. Some conventions always include the hyphen, e.g. `A-F`, but this is not Plover style.
 
@@ -37,17 +49,17 @@ The `U` key tends to sound like "uh" in Plover, or is used sometimes when the wo
 
 The more common a word, the more likely it has a brief. In fact, the first bit of steno theory you are about to learn is about briefs that you can make with just `STPHAUFPLT`.
 
-| Chord | Translation | Notes |
-| :--- | :--- | :--- |
-| S- | is |  |
-| T- | it |  |
-| H- | had |  |
-| U | you | The letter "U" is a homophone to "you" |
-| -F | of |  |
-| -T | the |  |
-| TP-PL | {.} | Period. Next word is capitalized |
-| H-F | {?} | Question mark. Next word is capitalized. |
-| STPH-FPLT | {:} | Colon. It is the whole top row. |
+| Chord     | Translation | Notes                                    |
+|:----------|:------------|:-----------------------------------------|
+| S-        | is          |                                          |
+| T-        | it          |                                          |
+| H-        | had         |                                          |
+| U         | you         | The letter "U" is a homophone to "you"   |
+| -F        | of          |                                          |
+| -T        | the         |                                          |
+| TP-PL     | {.}         | Period. Next word is capitalized         |
+| H-F       | {?}         | Question mark. Next word is capitalized. |
+| STPH-FPLT | {:}         | Colon. It is the whole top row.          |
 
 _\*Notice that _`{}`_ are used to denote a special character in Plover's translation format._
 
@@ -96,6 +108,3 @@ Find steno outlines that will write these English sentences, including punctuati
 3. Halt: pull it.
 4. Is it half sap?
 5. It is the shaft.
-
-
-

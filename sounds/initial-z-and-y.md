@@ -6,7 +6,11 @@ This lesson covers how you write initial Y and Z in steno, like in the words "zo
 
 ## Initial Y
 
-Initial Y is given by the outline `KWR`. 
+Initial Y is given by the outline `KWR`.
+
+{% stenodisplay labels="all" %}
+Y
+{% endstenodisplay %}
 
 * `KWREP`: yep
 * `KWRUPL`: yum
@@ -19,6 +23,10 @@ Initial Y is given by the outline `KWR`.
 ### Initial Z
 
 Initial Z is given by the outline `S*`. However, if there is a conflict, sometimes we get Z from the much larger `STKPW`.
+
+{% stenodisplay labels="all" %}
+S*
+{% endstenodisplay %}
 
 * `S*EUG`: zig
 * `SA*G`: zag
@@ -46,6 +54,4 @@ Write the English sentence represented by these outlines, including punctuation.
 
 Find steno outlines that will write these English sentences, including punctuation.
 
-1. 
-
-
+1.

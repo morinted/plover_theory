@@ -6,6 +6,10 @@ This lesson covers how you write the initial and final M on the steno layout.
 
 Initial M is made with the combination `PH` on the left side.
 
+{% stenodisplay labels="all" %}
+M
+{% endstenodisplay %}
+
 * `PHA`: ma
 * `PHAD`: mad
 * `PHUD`: mud
@@ -17,6 +21,10 @@ Initial M is made with the combination `PH` on the left side.
 ### Final M
 
 Final M is made with the combination `-PL`. This _does_ conflict with words ending in "ple" like "apple" versus "am". However, the final M is much more common in English so in steno `-PL` defaults to final M.
+
+{% stenodisplay labels="all" %}
+-M
+{% endstenodisplay %}
 
 * `APL`: am
 * `SOPL`: some
@@ -32,18 +40,18 @@ Final M is made with the combination `-PL`. This _does_ conflict with words endi
 
 ### Briefs
 
-| Chord | Translation | Notes |
-| :--- | :--- | :--- |
-| PH-PL | multiple | Think "M-PL" |
-| PHE | me | Spelling instead of phonetics. |
-| PHEU | my | Spelling instead of phonetics. |
-| EPLT | empty | Think "em tee" |
-| P-FR | perfect |  |
-| PH-BG | mechanic |  |
-| HAP | happen |  |
-| HEP | help | HEPL is "hem" |
-| SKHRAPL or TP-BG | {!} | The exclamation mark is written with "sklam". Alternatively, TP-BG can be used. |
-| KW-PL | {?} | Alternative stroke for question mark. Some users prefer TP-BG and KW-PL as they can represent the intonation speakers use during a question or exclamation. |
+| Chord            | Translation | Notes                                                                                                                                                       |
+|:-----------------|:------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| PH-PL            | multiple    | Think "M-PL"                                                                                                                                                |
+| PHE              | me          | Spelling instead of phonetics.                                                                                                                              |
+| PHEU             | my          | Spelling instead of phonetics.                                                                                                                              |
+| EPLT             | empty       | Think "em tee"                                                                                                                                              |
+| P-FR             | perfect     |                                                                                                                                                             |
+| PH-BG            | mechanic    |                                                                                                                                                             |
+| HAP              | happen      |                                                                                                                                                             |
+| HEP              | help        | HEPL is "hem"                                                                                                                                               |
+| SKHRAPL or TP-BG | {!}         | The exclamation mark is written with "sklam". Alternatively, TP-BG can be used.                                                                             |
+| KW-PL            | {?}         | Alternative stroke for question mark. Some users prefer TP-BG and KW-PL as they can represent the intonation speakers use during a question or exclamation. |
 
 ### Practice
 
@@ -68,6 +76,3 @@ Find steno outlines that will write these English sentences, including punctuati
 3. What did you think would happen, mom?
 4. You're a mechanic, I think you can do it.
 5. Help me out, would you?
-
-
-

@@ -4,6 +4,10 @@ The final key on the steno layout is also the biggest one. It lies on top of the
 
 The number bar is functionally just one key. On some steno machines it is split into many parts for comfort or aesthetics.
 
+{% stenodisplay labels="all" %}
+#
+{% endstenodisplay %}
+
 ### Single Digits
 
 Pressing the number bar alone doesn't do anything. Instead, it behaves sort of like a shift key that turns keys into numbers. If you just press the bare number bar, unless you have it mapped to some translation, you will just get the pound symbol `#`.  You need to hit the number bar with certain steno keys to get digits.
@@ -55,4 +59,3 @@ Find steno outlines that will write these English sentences, including punctuati
 4. 90210.
 
 Can you write 90210 in just two strokes?
-

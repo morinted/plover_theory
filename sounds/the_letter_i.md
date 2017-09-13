@@ -2,6 +2,10 @@
 
 The letter I is missing from the base layout, and is instead made with the chord `EU`.
 
+{% stenodisplay labels="all" %}
+EU
+{% endstenodisplay %}
+
 This is the lax version of I, as found in:
 
 * `EUL`: ill
@@ -17,19 +21,19 @@ This is the lax version of I, as found in:
 
 ### Briefs
 
-| Chord | Translation | Notes |
-| :--- | :--- | :--- |
-| EU | I | Always capitalized. |
-| HEU | hi | Spelling instead of phonetics. |
-| HEUS | his | Spelling instead of phonetics. |
-| WEU | which |  |
-| PWEU | by | Spelling instead of phonetics. |
-| WREU | write |  |
-| THEU | think |  |
-| HREUF | live |  |
-| HREUL | little |  |
-| PREUT | pretty |  |
-| UR | you're |  |
+| Chord | Translation | Notes                          |
+|:------|:------------|:-------------------------------|
+| EU    | I           | Always capitalized.            |
+| HEU   | hi          | Spelling instead of phonetics. |
+| HEUS  | his         | Spelling instead of phonetics. |
+| WEU   | which       |                                |
+| PWEU  | by          | Spelling instead of phonetics. |
+| WREU  | write       |                                |
+| THEU  | think       |                                |
+| HREUF | live        |                                |
+| HREUL | little      |                                |
+| PREUT | pretty      |                                |
+| UR    | you're      |                                |
 
 ### Practice
 
@@ -64,6 +68,3 @@ Find steno outlines that will write these English sentences, including punctuati
 8. That cat is sour and will hiss at us.
 9. It is still lovely to live with you after all this tough stuff.
 10. I love you.
-
-
-

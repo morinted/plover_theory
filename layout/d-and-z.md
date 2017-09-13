@@ -7,6 +7,10 @@ The keys used in this lesson include those used in previous lessons, plus:
 * `* - *   DZ`
 * `4 - 4   11`
 
+{% stenodisplay labels="STKPWHRAO*EUFRPBLGTSDZ" %}
+*DZ
+{% endstenodisplay %}
+
 The numbers show the fingers for each key, where 1's are the pinkies and 5 are the thumbs.
 
 Your keyboard may have multiple asterisks, up to four, or just one. As long as you can hit the asterisks with either index finger, you should be fine. The asterisk can be hit alone, or in conjunction with its neighboring keys. That is why often the gap between the asterisk key and `-FR` tends to be smaller than the gaps between other columns.
@@ -33,13 +37,13 @@ Phonetically, plural words in English end with an "s" \(puts\) or a "z" \(bugs\)
 
 This lesson only introduces a couple briefs, but they are similar so they will require care to remember correctly. The briefs starting with `TH-` below are good examples of very common words that had their ending chopped off to save effort on the stenographer's part. The briefs also make room for more complex strokes that you will learn in later lessons.
 
-|  | Translation | Notes |
-| :--- | :--- | :--- |
-| TH | this |  |
-| THA | that |  |
-| THE | they |  |
-| WHA | what |  |
-| UD | you'd |  |
+|     | Translation | Notes |
+|:----|:------------|:------|
+| TH  | this        |       |
+| THA | that        |       |
+| THE | they        |       |
+| WHA | what        |       |
+| UD  | you'd       |       |
 
 ### How to Practice
 
@@ -69,6 +73,3 @@ Find steno outlines that will write these English sentences, including punctuati
 4. She can pet the cat, pug, and rat.
 5. They are roughed up.
 6. That is, well, that is part of it.
-
-
-

@@ -8,6 +8,10 @@ This lesson covers how you write the initial and final V on the steno machine.
 
 Initial V is given by the outline `SR`.
 
+{% stenodisplay labels="all" %}
+V
+{% endstenodisplay %}
+
 * `SRAT`: vat
 * `SRET`: vet
 * `SROET`: vote
@@ -17,6 +21,10 @@ Initial V is given by the outline `SR`.
 ### Final V
 
 Final V is given by the outline `*F`, but if there is no conflict with a word ending in an "F" sound, the asterisk can be dropped. Most of the common words we deal with will not have the asterisk.
+
+{% stenodisplay labels="all" %}
+*F
+{% endstenodisplay %}
 
 * `KO*FT`: covet
 * `HROF`, `HRO*F`: love
@@ -35,21 +43,21 @@ Final V is given by the outline `*F`, but if there is no conflict with a word en
 
 ### Briefs
 
-| Chord | Translation | Notes |
-| :--- | :--- | :--- |
-| SR | have |  |
-| SRE | very |  |
-| OFPB | often | Contrast with "oven" |
-| T\*F | TV |  |
-| OFB | obvious |  |
-| OFBL | obviously |  |
-| OFBG | of course |  |
-| -FR | ever |  |
-| EFR | every |  |
-| EFRPB | everyone |  |
-| EFRB | everybody |  |
-| EFRG | everything |  |
-| FOFR | forever |  |
+| Chord | Translation | Notes                |
+|:------|:------------|:---------------------|
+| SR    | have        |                      |
+| SRE   | very        |                      |
+| OFPB  | often       | Contrast with "oven" |
+| T\*F  | TV          |                      |
+| OFB   | obvious     |                      |
+| OFBL  | obviously   |                      |
+| OFBG  | of course   |                      |
+| -FR   | ever        |                      |
+| EFR   | every       |                      |
+| EFRPB | everyone    |                      |
+| EFRB  | everybody   |                      |
+| EFRG  | everything  |                      |
+| FOFR  | forever     |                      |
 
 ### Practice
 
@@ -78,6 +86,3 @@ Find steno outlines that will write these English sentences, including punctuati
 13. Have you been there very often since everyone left?
 14. I live with my parents.
 15. I covet your oven. I want to have it and when I do and will warm my rat with it.
-
-
-

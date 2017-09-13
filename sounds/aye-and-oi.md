@@ -6,6 +6,10 @@ This lesson covers how you write the vowel sounds given by the diphthongs "aye" 
 
 "Aye" is a combination of the vowels "a" and "i", and the outline is `AEU`.
 
+{% stenodisplay labels="all" %}
+AEU
+{% endstenodisplay %}
+
 * `AEU`: a
 * `PAEU`: pay
 * `STAEU`: stay
@@ -36,16 +40,16 @@ This lesson covers how you write the vowel sounds given by the diphthongs "aye" 
 
 ### Briefs
 
-| Chord | Translation | Notes |
-| :--- | :--- | :--- |
-| OEU | {^/^} | Slash. There is no spacing on either side. E.g. PET OEU KAT: pet/cat |
-| THRU | through |  |
-| THR- | there |  |
-| THE | they |  |
-| THER | they're |  |
-| THAEUR | their |  |
-| PAEUP, PAEURP | paper |  |
-| TKAEUL | daily |  |
+| Chord         | Translation | Notes                                                                |
+|:--------------|:------------|:---------------------------------------------------------------------|
+| OEU           | {^/^}       | Slash. There is no spacing on either side. E.g. PET OEU KAT: pet/cat |
+| THRU          | through     |                                                                      |
+| THR-          | there       |                                                                      |
+| THE           | they        |                                                                      |
+| THER          | they're     |                                                                      |
+| THAEUR        | their       |                                                                      |
+| PAEUP, PAEURP | paper       |                                                                      |
+| TKAEUL        | daily       |                                                                      |
 
 ### Practice
 
@@ -76,6 +80,3 @@ Find steno outlines that will write these English sentences, including punctuati
 6. They blame the mayor for all his doubts, through and through.
 7. What lovely and soft fur. The cats, they're so pretty!
 8. You should check the paper daily.
-
-
-

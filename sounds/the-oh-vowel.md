@@ -8,6 +8,10 @@ This lesson covers the "oh" sound heard in words like "dome" as well as your fir
 
 The vowel sound "OH" is given by the outline `OE`.
 
+{% stenodisplay labels="all" %}
+OE
+{% endstenodisplay %}
+
 * `OE`: owe
 * `OEPB`: own
 * `OEPL`: ohm
@@ -68,33 +72,33 @@ You can imagine speaking in a Cockney accent if it helps you remember this patte
 
 ### Briefs
 
-| Chord | Translation | Notes |
-| :--- | :--- | :--- |
-| OERBGS | oh{,} | "Oh" with a comma attached. RBGS is the comma stroke in traditional StenEd and is often used as a briefing tool in Plover. |
-| \*OERBGS | oh | Asterisk "removes" the comma in this case |
-| OEP | open |  |
-| OEFR | over |  |
-| OEPBL | only |  |
-| OEB | observe |  |
-| OBT | object |  |
-| SUBT | subject |  |
-| PORPB | important |  |
-| OER | other |  |
-| TOED | today |  |
-| TOPBT | tonight |  |
-| TOEPL | tomorrow |  |
+| Chord    | Translation | Notes                                                                                                                      |
+|:---------|:------------|:---------------------------------------------------------------------------------------------------------------------------|
+| OERBGS   | oh{,}       | "Oh" with a comma attached. RBGS is the comma stroke in traditional StenEd and is often used as a briefing tool in Plover. |
+| \*OERBGS | oh          | Asterisk "removes" the comma in this case                                                                                  |
+| OEP      | open        |                                                                                                                            |
+| OEFR     | over        |                                                                                                                            |
+| OEPBL    | only        |                                                                                                                            |
+| OEB      | observe     |                                                                                                                            |
+| OBT      | object      |                                                                                                                            |
+| SUBT     | subject     |                                                                                                                            |
+| PORPB    | important   |                                                                                                                            |
+| OER      | other       |                                                                                                                            |
+| TOED     | today       |                                                                                                                            |
+| TOPBT    | tonight     |                                                                                                                            |
+| TOEPL    | tomorrow    |                                                                                                                            |
 
 ### Vocabulary: Family
 
-| Chord | Translation | Notes |
-| :--- | :--- | :--- |
-| TPAER | father |  |
-| PHOER | mother |  |
-| PWROER | brother |  |
-| ST-R | sister |  |
-| SOPB | son |  |
-| TKAUR | daughter |  |
-| PARPBT, PAEURPBT | parent |  |
+| Chord            | Translation | Notes |
+|:-----------------|:------------|:------|
+| TPAER            | father      |       |
+| PHOER            | mother      |       |
+| PWROER           | brother     |       |
+| ST-R             | sister      |       |
+| SOPB             | son         |       |
+| TKAUR            | daughter    |       |
+| PARPBT, PAEURPBT | parent      |       |
 
 ### Practice
 
@@ -141,6 +145,3 @@ Find steno outlines that will write these English sentences, including punctuati
 3. Will you leave tonight or tomorrow, do you think?
 4. I wrote to her but I do not think she will write back.
 5. Can you be there by tonight? I want to be done today.
-
-
-

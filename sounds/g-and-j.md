@@ -8,6 +8,10 @@ This lesson covers how you write the G and J sounds in steno, such as those foun
 
 The hard G sound is formed on the left hand with `TKPW`.
 
+{% stenodisplay labels="all" %}
+G
+{% endstenodisplay %}
+
 * `TKPWO`: go
 * `TKPWET`: get
 * `TKPWOPB`: gone
@@ -20,6 +24,10 @@ The hard G sound is formed on the left hand with `TKPW`.
 ### Final G as -ing
 
 You've learned words that end with `-G` like `PWAPBG` for "bang". Another _very_ common usage in the Plover dictionary is `-G` as "-ing". You can add `-G` to many words to give them the "-ing" suffix, just like you do with `-D` for "-ed" and `-S` and `-Z` for "-s".
+
+{% stenodisplay labels="all" %}
+-G
+{% endstenodisplay %}
 
 Note that this "folded-in" suffix is even allowed to break steno order if there is no conflict.
 
@@ -40,6 +48,10 @@ Note that this "folded-in" suffix is even allowed to break steno order if there 
 
 The initial J and soft G sounds are formed on the left hand with `SKWR`.
 
+{% stenodisplay labels="all" %}
+J
+{% endstenodisplay %}
+
 * `SKWRAR`: jar
 * `SKWROPB`: John
 * `SKWRABG`: jack
@@ -49,6 +61,10 @@ The initial J and soft G sounds are formed on the left hand with `SKWR`.
 ## Final J
 
 The final J and soft G sounds are formed on the right hand with `PBLG`.
+
+{% stenodisplay labels="all" %}
+-J
+{% endstenodisplay %}
 
 * `AEUPBLG`: age
 * `TKPWRUPBLG`: grudge
@@ -62,25 +78,25 @@ On some hardware, pressing this many keys might be difficult. Make sure you aren
 
 ### Briefs
 
-| Chord | Translation | Notes |
-| :--- | :--- | :--- |
-| TKPW | go |  |
-| TKPW-G | going |  |
-| TKAOG | doing | TKOG is "dog" but "doing" is a very common word so we use this brief. |
-| TR, T-R | interest |  |
-| TRG, T-RG | interesting |  |
-| TKPW-B | goodbye |  |
-| TKPW-PBT | goodnight |  |
-| H-L | hello |  |
-| TKPWEPB | again |  |
-| TKPWEPBS | against |  |
-| TKPWEUPB | begin |  |
-| TKPWEUPBG | beginning |  |
-| TKPWORPBLGS | gorgeous | GORJS |
-| TKAEUPBLG | danger | DAIJ |
-| TKAEUPBLGS | dangerous | DAIJS |
-| HRAPBLG | language | LAJ |
-| TOPBLG | technology | TOJ |
+| Chord       | Translation | Notes                                                                 |
+|:------------|:------------|:----------------------------------------------------------------------|
+| TKPW        | go          |                                                                       |
+| TKPW-G      | going       |                                                                       |
+| TKAOG       | doing       | TKOG is "dog" but "doing" is a very common word so we use this brief. |
+| TR, T-R     | interest    |                                                                       |
+| TRG, T-RG   | interesting |                                                                       |
+| TKPW-B      | goodbye     |                                                                       |
+| TKPW-PBT    | goodnight   |                                                                       |
+| H-L         | hello       |                                                                       |
+| TKPWEPB     | again       |                                                                       |
+| TKPWEPBS    | against     |                                                                       |
+| TKPWEUPB    | begin       |                                                                       |
+| TKPWEUPBG   | beginning   |                                                                       |
+| TKPWORPBLGS | gorgeous    | GORJS                                                                 |
+| TKAEUPBLG   | danger      | DAIJ                                                                  |
+| TKAEUPBLGS  | dangerous   | DAIJS                                                                 |
+| HRAPBLG     | language    | LAJ                                                                   |
+| TOPBLG      | technology  | TOJ                                                                   |
 
 ### Practice
 
@@ -109,6 +125,3 @@ Find steno outlines that will write these English sentences, including punctuati
 15. Do not judge the gorge by how far down it goes, it is dangerous.
 16. When technology knows language as well as we do, we are in danger.
 17. Do you say gif like girl or jar?
-
-
-

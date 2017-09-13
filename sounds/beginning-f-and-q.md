@@ -6,6 +6,10 @@ This lesson covers how you write words beginning with F and Q sounds.
 
 Initial F is made with the combination `TP` on the left side.
 
+{% stenodisplay labels="all" %}
+F
+{% endstenodisplay %}
+
 * `TPEUL`: fill
 * `TPAUL`: fall
 * `TPHROP`: flop
@@ -15,6 +19,10 @@ Initial F is made with the combination `TP` on the left side.
 ### Initial Q
 
 The Q sound in English is a combination of the K and W sounds, so the outline for the Q sound is simply `KW` on the left side.
+
+{% stenodisplay labels="all" %}
+Q
+{% endstenodisplay %}
 
 * `KWEUBG`: quick
 * `KWABG`: quack
@@ -26,17 +34,17 @@ The Q sound in English is a combination of the K and W sounds, so the outline fo
 
 ## Briefs
 
-| Chord | Translation | Notes |
-| :--- | :--- | :--- |
-| TP | if |  |
-| TPR | from |  |
-| TP-R | for |  |
-| TPAPL | familiar | Spelling instead of phonetics. |
-| TPAEPL | family | Think "fam ee" |
-| TPOL | follow |  |
-| KW | request |  |
-| KWE | question |  |
-| SK | ask |  |
+| Chord  | Translation | Notes                          |
+|:-------|:------------|:-------------------------------|
+| TP     | if          |                                |
+| TPR    | from        |                                |
+| TP-R   | for         |                                |
+| TPAPL  | familiar    | Spelling instead of phonetics. |
+| TPAEPL | family      | Think "fam ee"                 |
+| TPOL   | follow      |                                |
+| KW     | request     |                                |
+| KWE    | question    |                                |
+| SK     | ask         |                                |
 
 ### Practice
 
@@ -64,6 +72,3 @@ Find steno outlines that will write these English sentences, including punctuati
 4. If you walk to the mall, I will follow.
 5. In this class, we will start with a pop quiz.
 6. Fill up the car before you leave for work!
-
-
-

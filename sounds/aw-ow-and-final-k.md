@@ -10,6 +10,10 @@ Because we don't have any more keys to work with, we need to start combining key
 
 The first chorded sound we will learn is the final K sound. It is produced on the right hand with `-BG`.
 
+{% stenodisplay labels="all" %}
+-K
+{% endstenodisplay %}
+
 * `TABG`: tack
 * `WABG`: wack
 * `SHABG`: shack
@@ -21,30 +25,41 @@ The first chorded sound we will learn is the final K sound. It is produced on th
 
 On the left hand we have a `W` key, but there is no such thing on the right. Instead, we will have our "final W" as a diphthong, or a combination of vowels. There are two:
 
-1. `AU`: the "aw" sound.
-   * `SAU`: saw
-   * `TAUBG`: talk \(`TABG`: tack\)
-   * `AUL`: all \(`AL`: Al\)
-   * `PAUL`: Paul
-2. `OU`: the "ow" sound.
-   * `HOU`: how
-   * `HOUS`: house
-   * `OUT`: out
-   * `OUL`: owl
+#### `AU`: the "aw" sound.
+
+{% stenodisplay labels="all" %}
+AU
+{% endstenodisplay %}
+
+* `SAU`: saw
+* `TAUBG`: talk \(`TABG`: tack\)
+* `AUL`: all \(`AL`: Al\)
+* `PAUL`: Paul
+
+#### `OU`: the "ow" sound.
+
+{% stenodisplay labels="all" %}
+OU
+{% endstenodisplay %}
+
+* `HOU`: how
+* `HOUS`: house
+* `OUT`: out
+* `OUL`: owl
 
 ### Briefs
 
-| Chord | Translation | Notes |
-| :--- | :--- | :--- |
-| AULS or AULZ | always | This is possible because "alls" isn't a word. |
-| AUFL | awful |  |
-| OBG | okay | The letters "O" and "K". |
-| AF | after |  |
-| EZ | easy | The letters "E" and "Z". |
-| WAUR | water |  |
-| KO- | could | Instead of KOULD |
-| WO- | would | Instead of WOULD |
-| SHO- | should | Instead of SHOULD |
+| Chord        | Translation | Notes                                         |
+|:-------------|:------------|:----------------------------------------------|
+| AULS or AULZ | always      | This is possible because "alls" isn't a word. |
+| AUFL         | awful       |                                               |
+| OBG          | okay        | The letters "O" and "K".                      |
+| AF           | after       |                                               |
+| EZ           | easy        | The letters "E" and "Z".                      |
+| WAUR         | water       |                                               |
+| KO           | could       | Instead of KOULD                              |
+| WO           | would       | Instead of WOULD                              |
+| SHO          | should      | Instead of SHOULD                             |
 
 ### How to Practice
 
@@ -81,6 +96,3 @@ Find steno outlines that will write these English sentences, including punctuati
 4. We would be with you.
 5. The rat was with the water.
 6. It is easy to be her after all.
-
-
-

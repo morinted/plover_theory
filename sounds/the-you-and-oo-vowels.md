@@ -12,6 +12,10 @@ Plover Theory is not strictly phonetic in the boundary between "you" and "oo". P
 
 The "you" vowel is made with the outline `AOU`.
 
+{% stenodisplay labels="all" %}
+AOU
+{% endstenodisplay %}
+
 * `TKAOU`: due
 * `AOUS`, `AOUZ`: use
 * `TAOUB`: tube
@@ -36,6 +40,10 @@ The "you" vowel is made with the outline `AOU`.
 ### Words Spelled with "oo"
 
 When there is a word spelled with "oo", you stroke it with `AO`.
+
+{% stenodisplay labels="all" %}
+AO
+{% endstenodisplay %}
 
 * `TAO`: too
 * `PHAO`: moo
@@ -78,23 +86,23 @@ Finally, this chord can be used if you ever have an "ao" vowel, but these are no
 
 ### Briefs
 
-| Chord | Translation | Notes |
-| :--- | :--- | :--- |
-| TPHAO | into | To remember this brief, it might help to sound it out as "noo" or "in-oo". |
-| TWO | two | Using spelling to avoid conflict with "to" and "too". |
-| PWHRU | blue |  |
-| PWAOUT | beauty |  |
-| STAOUPBT | student |  |
-| TRAOUL | truly |  |
-| TAOUL or TWAUL | actual | Think "tule" or "twall". |
-| THRAOUL or TWAEUL | actually | Think "tlule" or "twail". |
-| URPBD | understand |  |
-| URPBGD | understanding |  |
-| PHRAR | particular |  |
-| PHRARL | particularly |  |
-| KAOUFS | confuse |  |
-| KAOUFG | confusing |  |
-| KAOUFD | confused |  |
+| Chord             | Translation   | Notes                                                                      |
+|:------------------|:--------------|:---------------------------------------------------------------------------|
+| TPHAO             | into          | To remember this brief, it might help to sound it out as "noo" or "in-oo". |
+| TWO               | two           | Using spelling to avoid conflict with "to" and "too".                      |
+| PWHRU             | blue          |                                                                            |
+| PWAOUT            | beauty        |                                                                            |
+| STAOUPBT          | student       |                                                                            |
+| TRAOUL            | truly         |                                                                            |
+| TAOUL or TWAUL    | actual        | Think "tule" or "twall".                                                   |
+| THRAOUL or TWAEUL | actually      | Think "tlule" or "twail".                                                  |
+| URPBD             | understand    |                                                                            |
+| URPBGD            | understanding |                                                                            |
+| PHRAR             | particular    |                                                                            |
+| PHRARL            | particularly  |                                                                            |
+| KAOUFS            | confuse       |                                                                            |
+| KAOUFG            | confusing     |                                                                            |
+| KAOUFD            | confused      |                                                                            |
 
 ### Practice
 
@@ -116,6 +124,3 @@ Find steno outlines that will write these English sentences, including punctuati
 8. I am the lone student that had to take out a loan.
 9. This is confusing, I am not understanding anything you are saying.
 10. Dude, that is pure stupid. What are you doing?
-
-
-
