@@ -8,7 +8,7 @@ Please include a note on how you'd like to be attributed. On top of the new less
 
 ---
 
-{% stenodisplay labels="all" %}
+{% stenodisplay labels="-" %}
 SKPROUFBLSD
 {% endstenodisplay %}
 
@@ -51,7 +51,7 @@ Shortening principles:
 
 From the top 100, this is left:
 
-* which, like, time, just, its, first, most
+* like, time, just, its, first, most
 
 Words beginning with:
 
