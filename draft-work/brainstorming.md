@@ -51,7 +51,7 @@ Shortening principles:
 
 From the top 100, this is left:
 
-* have, get, which, go, like, time, just, know, people, into, year, your, good, see, look, its, also, use, two, first, way, even, these, give, most
+* which, like, time, just, its, first, most
 
 Words beginning with:
 

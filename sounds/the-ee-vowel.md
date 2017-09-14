@@ -12,13 +12,17 @@ The "ee" vowel is made with the outline `AOE`.
 AOE
 {% endstenodisplay %}
 
+* `SAOE`: see
+* `SAOEG`: seeing
 * `AOEL`: eel
+* `AOER`: ear
+* `KWRAOER`: year
+* `AOES`: ease
 * `HAOEL`: heel
 * `PAOEL`: peel
 * `STAOEL`: steel
 * `TPAOEL`: feel
-* `SAOE`: see
-* `SAOEG`: seeing
+* `THAOE`: thee
 
 ### Words Spelled with "ea"
 
@@ -47,25 +51,30 @@ AE
   - `HA*EUR`: heir (asterisk given to less common alternative)
   - `HA*ER`: hare (asterisk given to less common alternative)
 
+### Shortening Principle: Folded-In E
+
+One pattern that you might have started to notice is the folding-in of `E` in a stroke to add an
+"ee" sound at the end. For example, `PHAEB` is a brief for "maybe". You can think of the stroke as "mab-ee".
+This is best illustrated through examples:
+
+- `PHAEB`: maybe
+- `PHAER`: marry
+- `SOER`: sorry
+- `STOER`: story
+- `STOERPL`: stormy
+- `KAER`: carry
+- `HAEP`: happy
+- `SKAER`: scary
+
 ### Briefs
 
-| Chord             | Translation   | Notes                                                                      |
-|:------------------|:--------------|:---------------------------------------------------------------------------|
-| and             | into          | To remember this brief, it might help to sound it out as "noo" or "in-oo". |
-| TWO               | two           | Using spelling to avoid conflict with "to" and "too".                      |
-| PWHRU             | blue          |                                                                            |
-| PWAOUT            | beauty        |                                                                            |
-| STAOUPBT          | student       |                                                                            |
-| TRAOUL            | truly         |                                                                            |
-| TAOUL or TWAUL    | actual        | Think "tule" or "twall".                                                   |
-| THRAOUL or TWAEUL | actually      | Think "tlule" or "twail".                                                  |
-| URPBD             | understand    |                                                                            |
-| URPBGD            | understanding |                                                                            |
-| PHRAR             | particular    |                                                                            |
-| PHRARL            | particularly  |                                                                            |
-| KAOUFS            | confuse       |                                                                            |
-| KAOUFG            | confusing     |                                                                            |
-| KAOUFD            | confused      |                                                                            |
+| Chord             | Translation | Notes |
+|:------------------|:------------|:------|
+| `AOEFPB`, `AOEPB` | even        |       |
+| `TKAOET`          | detail      |       |
+| `PAOEP`, `PAOEPL` | people      |       |
+| `THEZ`            | these       |       |
+| `PHREZ`, `PHRAES` | please      |       |
 
 ### Practice
 
@@ -76,4 +85,3 @@ Write the English sentence represented by these outlines, including punctuation.
 ### 2. Find Outlines
 
 Find steno outlines that will write these English sentences, including punctuation.
-

@@ -46,6 +46,8 @@ AO
 {% endstenodisplay %}
 
 * `TAO`: too
+* `TKPWAOD`: good
+* `HRAOBG`: look
 * `PHAO`: moo
 * `PWAOPL`: boom
 * `TAOPB`: toon
