@@ -1,8 +1,24 @@
 {
     "plugins": [
-        "github-buttons", "edit-link", "page-footer-ex", "steno"
+        "github-buttons", "edit-link", "page-footer-ex", "steno", "autocover"
     ],
+    "title": "Plover Theory: Learn Stenography",
+    "author": "Ted Morin",
     "pluginsConfig": {
+        "autocover": {
+            "font": {
+                "size": null,
+                "family": "Impact",
+                "color": "#FFF"
+            },
+            "size": {
+                "w": 1800,
+                "h": 2360
+            },
+            "background": {
+                "color": "#3D6961"
+            }
+        },
         "theme-default": {
              "showLevel": false
         },
