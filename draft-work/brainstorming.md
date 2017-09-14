@@ -16,10 +16,9 @@ SKPROUFBLSD
 
 Remaining sounds:
 
+* ee
 * SH - right side
 * eye
-* Z - left side
-* Y - left side \(as a consonant\)
 
 Complex endings/beginnings:
 
