@@ -16,7 +16,6 @@ SKPROUFBLSD
 
 Remaining sounds:
 
-* ee
 * SH - right side
 * eye
 
