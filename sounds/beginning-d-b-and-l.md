@@ -2,7 +2,7 @@
 
 ### Initial D
 
-"D" is made on the left hand using `TK-`
+"D" is made on the left hand using `TK`
 
 {% stenodisplay labels="all" %}
 D
@@ -15,7 +15,7 @@ D
 
 ### Initial B
 
-"B" is made on the left hand using `PW-`
+"B" is made on the left hand using `PW`
 
 {% stenodisplay labels="all" %}
 B
@@ -29,7 +29,7 @@ B
 
 ### Initial L
 
-"L" is made on the left hand using `HR-`
+"L" is made on the left hand using `HR`
 
 {% stenodisplay labels="all" %}
 L
