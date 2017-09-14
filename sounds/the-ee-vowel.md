@@ -1,88 +1,51 @@
-# YOU and OO
+# The EE Vowel
 
-_Special thanks to a _[_Luke Silva_](https://github.com/LukeSilva)_ for funding this lesson._
+_Special thanks to a Paolo Michela for funding this lesson._
 
-This lesson covers how you write the vowel sounds in "pure" and "poor".
+This lesson covers how you write the vowel sounds in "eel" and "real".
 
-### A Note On Phonetics
+### Vowel Sound EE
 
-Plover Theory is not strictly phonetic in the boundary between "you" and "oo". Phonologists or anyone familiar with the [International Phonetic Alphabet](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet) \(IPA\) will see that Plover is not very strict with its vowel boundaries in general. This is because there are 20 vowels in English, but only 14 vowel combinations possible in Plover. Because of that, the boundary between "YOU" and "OO" is mainly one of spelling.
-
-### Vowel Sound YOU
-
-The "you" vowel is made with the outline `AOU`.
+The "ee" vowel is made with the outline `AOE`.
 
 {% stenodisplay labels="all" %}
-AOU
+AOE
 {% endstenodisplay %}
 
-* `TKAOU`: due
-* `AOUS`, `AOUZ`: use
-* `TAOUB`: tube
-* `TRAOU`: true
-* `PAOUR`: pure
-* `RAOUL`: rule
-* `SKAOU`: skew
-* `STAOU`: stew
-* `PWHRAOU`: blew
-* `SRAOU`: view
-* `STAOUPD`: stupid
-* `TKAOUD`: dude
-* `TAOUPL`: tomb
-* `HRAOUBG`: Luke
-* `KRAOUS`: cruise
-* `KRAOUZ`: crews
-* `KRAOUL`: cruel
-* `TKAOURG`: during
-* `PRAOUPB`: prune
-* `KWAOU`: queue
+* `AOEL`: eel
+* `HAOEL`: heel
+* `PAOEL`: peel
+* `STAOEL`: steel
+* `TPAOEL`: feel
+* `SAOE`: see
+* `SAOEG`: seeing
 
-### Words Spelled with "oo"
+### Words Spelled with "ea"
 
-When there is a word spelled with "oo", you stroke it with `AO`.
+There are a lot of homophones that have "ea" instead of "ee"; like "meet" and "meat", "steel" and "steal", and "reel" and "real". To write the "ea" word, use `AE` instead of `AOE`.
 
+`AE` can be used to resolve homophones in other vowels, too, like the difference between "bear" and "bare"
 {% stenodisplay labels="all" %}
-AO
+AE
 {% endstenodisplay %}
 
-* `TAO`: too
-* `PHAO`: moo
-* `PWAOPL`: boom
-* `TAOPB`: toon
-* `TKRAOL`: drool
-* `KAOL`: cool
-* `STAOL`: stool
-* `SKAOL`: school
-* `PHAOR`: Moore
-* `AOF`: oof
+* `HAOEL`: heel
+  - `HAEL`: heal
+* `PHAOET`: meet
+  - `PHAET`: meat
+* `RAOEL`: reel
+  - `RAEL`: real
+* `STAOEL`: steel
+  - `STAEL`: steal
 
-### Words Spelled with "oa"
+`AE` can be used to resolve homophones in other vowels, too, like the difference between "bear" and "bare":
 
-We also use the `AO` combination to write out words that have the vowels "oa" like "load". This helps us resolve homophones:
-
-* `LOEPB`: lone
-  * `LAOPB`: loan
-* `TKPWROEPB`: grown
-  * `TKPWRAOPB`: groan
-* `TOED`: today \(brief\)
-  * `TAOD`: toad
-* `SOR`: sore, `SOER`: sorry \(brief\)
-  * `SAOR`: soar
-* `PWORD`: bored, `PWOERD`: bothered
-  * `PWAORD`: board
-* `ROED`: rode
-  * `RAOD`: road
-* `OER`: other, `O*ER`: ore
-  * `AOR`: oar
-
-But this combination is also used for "oa" words even when there are no homophones:
-
-* `PWHRAOT`, `PWHROET`: bloat
-
-Finally, this chord can be used if you ever have an "ao" vowel, but these are not very common in English. The only single-syllable examples I have are names which have the asterisk as they conflict with "moo" and "too":
-
-* `TAO*`: Tao
-* `PHAO*`: Mao
+- `PWAEUR`: bare
+  - `PWAER`: bear
+- `HAEUR`: hair
+  - `HAER`: hear (word spelled with "ea")
+  - `HA*EUR`: heir (asterisk given to less common alternative)
+  - `HA*ER`: hare (asterisk given to less common alternative)
 
 ### Briefs
 
