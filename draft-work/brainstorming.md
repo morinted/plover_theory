@@ -8,7 +8,7 @@ Please include a note on how you'd like to be attributed. On top of the new less
 
 ---
 
-{% stenodisplay labels="-" %}
+{% stenodisplay %}
 SKPROUFBLSD
 {% endstenodisplay %}
 
