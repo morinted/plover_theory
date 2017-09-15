@@ -35,7 +35,7 @@ Final SH is given by the outline `-RB`.
 
 ### Final SHS
 
-Words ending in the "shoush" sound like "conscious" and "delicious" can be written with `-RBS`.
+Words ending in the "shoush" sound, like "conscious" and "delicious", can be written with `-RBS`.
 
 {% stenodisplay labels="all" %}
 -RBS
