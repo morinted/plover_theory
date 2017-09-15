@@ -24,5 +24,6 @@
   * [Initial Y and Z](sounds/initial-z-and-y.md)
   * [The EE Vowel](sounds/the-ee-vowel.md)
   * [Final SH](sounds/final-sh.md)
+  * [The EYE Vowel](sounds/the-eye-vowel.md)
 * [Request More Lessons](draft-work/brainstorming.md)
 
