@@ -16,7 +16,6 @@ SKPROUFBLSD
 
 Remaining sounds:
 
-* SH - right side
 * eye
 
 Complex endings/beginnings:
