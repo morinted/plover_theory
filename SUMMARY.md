@@ -25,6 +25,6 @@
   * [Vowel ee](sounds/ee.md)
   * [Both sides SH](sounds/sh.md)
   * [Vowel eye](sounds/eye.md)
-  * Fingerspelling
+  * [Fingerspelling](sounds/fingerspelling.md)
 * [Request More Lessons](draft-work/brainstorming.md)
 
