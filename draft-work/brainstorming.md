@@ -14,10 +14,6 @@ SKPROUFBLSD
 
 ### Brainstorming
 
-Remaining sounds:
-
-* eye
-
 Complex endings/beginnings:
 
 * -tion
