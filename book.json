@@ -1,6 +1,6 @@
 {
     "plugins": [
-        "github-buttons", "edit-link", "page-footer-ex", "steno", "autocover"
+        "github-buttons", "edit-link", "page-footer-ex", "steno", "autocover", "ga"
     ],
     "title": "Plover Theory: Learn Stenography",
     "author": "Ted Morin",
@@ -22,6 +22,9 @@
         "theme-default": {
              "showLevel": false
         },
+        "ga": {
+            "token": "UA-102613911-2"
+        },
         "github-buttons": {
           "repo": "morinted/plover_theory",
           "types": [
@@ -31,7 +34,7 @@
         },
         "edit-link": {
             "base": "https://github.com/morinted/plover_theory/edit/master/",
-            "label": "Edit This Page"
+            "label": "Edit"
         },
         "page-footer-ex": {
             "markdown": true,
