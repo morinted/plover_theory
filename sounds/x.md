@@ -1,12 +1,12 @@
-# The Letter X
+# Both sides X
 
 _Special thanks to a Plover community member for funding this lesson._
 
 This lesson covers how you write the initial and final X on the steno machine.
 
-## Initial X
+## Left side X
 
-Initial X is given by the outline `KP`. Words in English don't start with an "x" sound, so this outline is used mainly for words that start in "ex" like "expect".
+Left side X is given by the outline `KP`. Words in English don't start with an "x" sound, so this outline is used mainly for words that start in "ex" like "expect".
 
 {% stenodisplay labels="all" %}
 X
@@ -36,9 +36,9 @@ There are also these notable examples of words that contain an "x" near the begi
 * `KPEUS`: axis
 * `KPOUS`: anxious
 
-### Final X
+### Right side X
 
-Final X is given by the outline `BGS`, which comes from `BG` being "K" and "KS" having the same sound as "x" in English. The imaginary word "foks" and the word "fox" would sound the same.
+Right side X is given by the outline `BGS`, which comes from `BG` being "K" and "KS" having the same sound as "x" in English. The imaginary word "foks" and the word "fox" would sound the same.
 
 {% stenodisplay labels="all" %}
 -X

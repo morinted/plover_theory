@@ -1,10 +1,10 @@
-# AYE and OY
+# Vowels ay and oy
 
-This lesson covers how you write the vowel sounds given by the diphthongs "aye" \(shame, claim\) and "oy" \(oil, royal\).
+This lesson covers how you write the vowel sounds given by the diphthongs "ay" \(shame, claim\) and "oy" \(oil, royal\).
 
-## Vowel Sound AYE
+## Vowel ay
 
-"Aye" is a combination of the vowels "a" and "i", and the outline is `AEU`.
+The "ay" sound is a combination of the vowels "a" and "i", and the outline is `AEU`.
 
 {% stenodisplay labels="all" %}
 AEU
@@ -26,9 +26,9 @@ AEU
 * `TPHRAEUR`: flair
 * `PHRAEUR`: player
 
-### Vowel Sound OY
+### Vowel oy
 
-"Oy" is a combination of the vowels "o" and "i", and the outline is `OEU`.
+The "oy" sound is a combination of the vowels "o" and "i", and the outline is `OEU`.
 
 * `OEUL`: oil
 * `TPOEUL`: foil

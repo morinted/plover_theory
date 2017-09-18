@@ -1,6 +1,6 @@
-# Initial D, B, and L
+# Left side D, B, and L
 
-### Initial D
+### Left side D
 
 "D" is made on the left hand using `TK`
 
@@ -13,7 +13,7 @@ D
 * `TKAFT`: daft
 * `TKUL`: dull
 
-### Initial B
+### Left side B
 
 "B" is made on the left hand using `PW`
 
@@ -27,7 +27,7 @@ B
 * `PWAD`: bad
 * `PWART`: Bart
 
-### Initial L
+### Left side L
 
 "L" is made on the left hand using `HR`
 

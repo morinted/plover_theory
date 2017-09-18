@@ -1,10 +1,10 @@
-# Initial F and Q
+# Left side F and Q
 
 This lesson covers how you write words beginning with F and Q sounds.
 
-### Initial F
+### Left side F
 
-Initial F is made with the combination `TP` on the left side.
+Left side F is made with the combination `TP` on the left side.
 
 {% stenodisplay labels="all" %}
 F
@@ -16,7 +16,7 @@ F
 * `TPHREUP`: flip
 * `TPHREURT`: flirt
 
-### Initial Q
+### Left side Q
 
 The Q sound in English is a combination of the K and W sounds, so the outline for the Q sound is simply `KW` on the left side.
 

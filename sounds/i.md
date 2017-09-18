@@ -1,4 +1,8 @@
-# The Letter I
+# Vowel i
+
+This lesson covers how you write the vowel sound in "ill" and "his".
+
+---------
 
 The letter I is missing from the base layout, and is instead made with the chord `EU`.
 
@@ -6,7 +10,7 @@ The letter I is missing from the base layout, and is instead made with the chord
 EU
 {% endstenodisplay %}
 
-This is the lax version of I, as found in:
+This is the lax version of "i", as found in:
 
 * `EUL`: ill
 * `HEUL`: hill

@@ -1,10 +1,10 @@
-# G and J
+# Both sides G and J
 
 _Special thanks to _[_Mirabai Knight_](http://stenoknight.com)_ for funding this lesson._
 
 This lesson covers how you write the G and J sounds in steno, such as those found in "gift", "ground", "George", and "gif".
 
-## Initial G
+## Left side G
 
 The hard G sound is formed on the left hand with `TKPW`.
 
@@ -21,9 +21,9 @@ G
 * `TKPWOUT`: gout
 * `TKPWRAEUD`: grade
 
-### Final G as -ing
+### Right side G as -ing
 
-You've learned words that end with `-G` like `PWAPBG` for "bang". Another _very_ common usage in the Plover dictionary is `-G` as "-ing". You can add `-G` to many words to give them the "-ing" suffix, just like you do with `-D` for "-ed" and `-S` and `-Z` for "-s".
+You've learned words that end with `-G` like `PWAPBG` for "bang" and `TKOG` for "dog". Another _very_ common usage in the Plover dictionary is `-G` as "-ing". You can add `-G` to many words to give them the "-ing" suffix, just like you do with `-D` for "-ed" and `-S` and `-Z` for "-s".
 
 {% stenodisplay labels="all" %}
 -G
@@ -44,9 +44,9 @@ Note that this "folded-in" suffix is even allowed to break steno order if there 
 * `POUT`: pout
   * `POUGT`: pouting
 
-## Initial J
+## Left side J
 
-The initial J and soft G sounds are formed on the left hand with `SKWR`.
+The left side J and soft G sounds are formed on the left hand with `SKWR`.
 
 {% stenodisplay labels="all" %}
 J
@@ -58,9 +58,9 @@ J
 * `SKWREUPL`: gym
 * `SKWREUF`: gif
 
-## Final J
+## Right side J
 
-The final J and soft G sounds are formed on the right hand with `PBLG`.
+The Right side J and soft G sounds are formed on the right hand with `PBLG`.
 
 {% stenodisplay labels="all" %}
 -J

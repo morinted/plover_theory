@@ -1,4 +1,4 @@
-# The Letter N
+# Both sides N
 
 _Special thanks to Wilfried for funding this lesson._
 
@@ -6,9 +6,9 @@ This lesson covers how you write the initial and final N on the steno machine.
 
 The hardest part in writing lessons so far has been avoiding using "N". I've been looking forward to this one.
 
-## Initial N
+## Left side N
 
-Initial N is given by the outline `TPH`.
+Left side N is given by the outline `TPH`.
 
 {% stenodisplay labels="all" %}
 N
@@ -25,9 +25,9 @@ N
 * `TPHAEUT`: Nate
 * `TPHOEUS`: noise
 
-### Final N
+### Right side N
 
-Final N is given by the outline `-PB`.
+Right side N is given by the outline `-PB`.
 
 {% stenodisplay labels="all" %}
 -N

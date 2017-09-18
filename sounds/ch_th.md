@@ -1,23 +1,10 @@
-# CH and TH
+# Both sides CH and TH
 
 _Special thanks to _[_Scott Pierce_](https://ddrscott.github.io)_ for funding this lesson._
 
-### Initial SH
+### Left side CH
 
-You've already learned initial SH in previous lessons as it's just `SH`.
-
-{% stenodisplay labels="all" %}
-SH
-{% endstenodisplay %}
-
-* `SHOP`: shop
-* `SHUT`: shut
-* `SHORT`: short
-* `SHEL`: shell
-
-### Initial CH
-
-Since there is no C key on the layout, we substitute `K` and so use `KH` for initial CH.
+Since there is no C key on the layout, we substitute `K` and use `KH` for initial CH.
 
 {% stenodisplay labels="all" %}
 KH
@@ -27,7 +14,7 @@ KH
 * `KHOP`: chop
 * `KHART`: chart
 
-### Final CH
+### Right side CH
 
 Words ending with the "tch" or "ch" sound are made on the right hand with `-FP`. It's also used if there is a homophone where the only differentiator is spelling.
 
@@ -43,7 +30,18 @@ Words ending with the "tch" or "ch" sound are made on the right hand with `-FP`.
 * `HRAFP`: latch
 * `TEFP`: tech \(spelling\). You can also use `TEBG` \(phonetic\)
 
-### Final TH
+### Left side TH
+
+You've already learned initial TH in previous lessons as it's just `TH`.
+
+{% stenodisplay labels="all" %}
+TH
+{% endstenodisplay %}
+
+* `THAUT`: thought
+
+
+### Right side TH
 
 The first use of the asterisk for us is with final "th". Adding an asterisk to a chord with a `-T` in it will make a "th" sound. `*T` is the "th" sound.
 

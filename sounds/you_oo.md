@@ -1,4 +1,4 @@
-# YOU and OO
+# Vowels you and oo
 
 _Special thanks to a _[_Luke Silva_](https://github.com/LukeSilva)_ for funding this lesson._
 
@@ -8,7 +8,7 @@ This lesson covers how you write the vowel sounds in "pure" and "poor".
 
 Plover Theory is not strictly phonetic in the boundary between "you" and "oo". Phonologists or anyone familiar with the [International Phonetic Alphabet](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet) \(IPA\) will see that Plover is not very strict with its vowel boundaries in general. This is because there are 20 vowels in English, but only 14 vowel combinations possible in Plover. Because of that, the boundary between "YOU" and "OO" is mainly one of spelling.
 
-### Vowel Sound YOU
+### Vowel you
 
 The "you" vowel is made with the outline `AOU`.
 
@@ -37,7 +37,7 @@ AOU
 * `PRAOUPB`: prune
 * `KWAOU`: queue
 
-### Words Spelled with "oo"
+### Words spelled with "oo"
 
 When there is a word spelled with "oo", you stroke it with `AO`.
 
@@ -58,7 +58,7 @@ AO
 * `PHAOR`: Moore
 * `AOF`: oof
 
-### Words Spelled with "oa"
+### Words spelled with "oa"
 
 We also use the `AO` combination to write out words that have the vowels "oa" like "load". This helps us resolve homophones:
 

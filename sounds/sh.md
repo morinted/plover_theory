@@ -1,12 +1,23 @@
-# Final SH
+# Both sides SH
 
 _Special thanks to Fabio Angeloni for funding this lesson._
 
-This lesson covers how you write final "sh" in steno, like in the words "splash" and "wash".
+This lesson covers how you write beginning and final "sh" in steno, like in the words "splash" and "shape".
 
-### Final SH
+### Left side SH
 
-Final SH is given by the outline `-RB`.
+You've already learned Left side `SH` as it is naturally formed.
+
+{% stenodisplay labels="all" %}
+SH
+{% endstenodisplay %}
+
+* `SHOP`: shop
+* `SHAEUP`: shape
+
+### Right side SH
+
+Right side SH is given by the outline `-RB`.
 
 {% stenodisplay labels="all" %}
 -RB

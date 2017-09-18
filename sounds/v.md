@@ -1,12 +1,12 @@
-# The Letter V
+# Both sides V
 
 _Special thanks to _[_Joe Wasson_](http://talljoe.com/)_ for funding this lesson._
 
 This lesson covers how you write the initial and final V on the steno machine.
 
-## Initial V
+## Left side V
 
-Initial V is given by the outline `SR`.
+Left side V is given by the outline `SR`.
 
 {% stenodisplay labels="all" %}
 V
@@ -18,9 +18,9 @@ V
 * `SROU`: vow
 * `SROUL`: vowel
 
-### Final V
+### Right side V
 
-Final V is given by the outline `*F`, but if there is no conflict with a word ending in an "F" sound, the asterisk can be dropped. Most of the common words we deal with will not have the asterisk.
+Right side V is given by the outline `*F`, but if there is no conflict with a word ending in an "F" sound, the asterisk can be dropped. Most of the common words we deal with will not have the asterisk.
 
 {% stenodisplay labels="all" %}
 *F

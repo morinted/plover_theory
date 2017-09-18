@@ -1,12 +1,12 @@
-# Initial Y and Z
+# Left side Y and Z
 
 _Special thanks to Thomas Pacheco for funding this lesson._
 
 This lesson covers how you write initial Y and Z in steno, like in the words "zoo" and "young".
 
-## Initial Y
+## Left side Y
 
-Initial Y is given by the outline `KWR`.
+Left side Y is given by the outline `KWR`.
 
 {% stenodisplay labels="all" %}
 Y
@@ -20,9 +20,9 @@ Y
 * `KWRORBG`: York
 * `KWROE`: yo
 
-### Initial Z
+### Left side Z
 
-Initial Z is given by the outline `S*`. However, if there is a conflict, sometimes we get Z from the much larger `STKPW`.
+Left side Z is given by the outline `S*`. However, if there is a conflict, sometimes we get Z from the much larger `STKPW`.
 
 {% stenodisplay labels="all" %}
 S*

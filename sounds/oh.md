@@ -1,12 +1,12 @@
-# The OH Vowel
+# Vowel oh
 
 _Special thanks to Thomas Pacheco for funding this lesson._
 
 This lesson covers the "oh" sound heard in words like "dome" as well as your first shortening principle.
 
-## Vowel Sound OH
+--------
 
-The vowel sound "OH" is given by the outline `OE`.
+The vowel sound "oh" is given by the outline `OE`.
 
 {% stenodisplay labels="all" %}
 OE

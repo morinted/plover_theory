@@ -1,10 +1,10 @@
-# The Letter M
+# Both sides M
 
-This lesson covers how you write the initial and final M on the steno layout.
+This lesson covers how you write the initial and final M sound on the steno layout.
 
-### Initial M
+### Left side M
 
-Initial M is made with the combination `PH` on the left side.
+Left side M is made with the combination `PH` on the left side.
 
 {% stenodisplay labels="all" %}
 M
@@ -18,9 +18,9 @@ M
 * `PHELT`: melt
 * `PHUL`: mull
 
-### Final M
+### Right side M
 
-Final M is made with the combination `-PL`. This _does_ conflict with words ending in "ple" like "apple" versus "am". However, the final M is much more common in English so in steno `-PL` defaults to final M.
+Right side M is made with the combination `-PL`. This _does_ conflict with words ending in "ple" like "apple" versus "am". However, the final M is much more common in English so in steno `-PL` defaults to final M.
 
 {% stenodisplay labels="all" %}
 -M

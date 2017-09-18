@@ -1,8 +1,8 @@
-# The EYE Vowel
+# Vowel eye
 
 This lesson covers how you write the "eye" vowel sound in "buy" and "file".
 
-### Vowel Sound EYE
+### Vowel eye
 
 The "eye" vowel is made with the outline `AOEU`.
 

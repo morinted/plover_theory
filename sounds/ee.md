@@ -1,10 +1,10 @@
-# The EE Vowel
+# Vowel ee
 
 _Special thanks to a Paolo Michela for funding this lesson._
 
 This lesson covers how you write the vowel sounds in "eel" and "real".
 
-### Vowel Sound EE
+---------
 
 The "ee" vowel is made with the outline `AOE`.
 
