@@ -7,7 +7,7 @@
   * [Bottom Row](layout/bottom-row.md)
   * [\*, D, and Z](layout/d-and-z.md)
   * [Basic Number Bar](layout/basic-number-bar.md)
-* [Missing Sounds](missing_sounds.md)
+* [Hidden Sounds](missing_sounds.md)
   * [Vowels aw and ow; Right side K](sounds/aw_ow_-k.md)
   * [Left side D, B, and L](sounds/dbl.md)
   * [Both sides CH and TH](sounds/ch_th.md)
@@ -25,5 +25,6 @@
   * [Vowel ee](sounds/ee.md)
   * [Both sides SH](sounds/sh.md)
   * [Vowel eye](sounds/eye.md)
+  * Fingerspelling
 * [Request More Lessons](draft-work/brainstorming.md)
 
