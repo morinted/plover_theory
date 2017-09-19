@@ -10,6 +10,3 @@ By the end of the chapter you will know:
 * How to write thousands of words by sound
 * Over a hundred useful briefs
 * How to spell words out one letter at a time with the steno machine
-
-
-

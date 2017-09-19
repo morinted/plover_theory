@@ -1,5 +1,9 @@
 # Fingerspelling
 
+A huge thank you to an anonymous [Plover Blog](http://plover.stenoknight.com/) reader for funding this lesson.
+
+-----
+
 You've learned a lot of sounds in Plover Theory and can write out many one-syllable words. However, there are times when you won't be able to write a word with a steno machine. This can happen because:
 
 - You don't know your theory fully

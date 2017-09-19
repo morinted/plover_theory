@@ -26,5 +26,8 @@
   * [Both sides SH](sounds/sh.md)
   * [Vowel eye](sounds/eye.md)
   * [Fingerspelling](sounds/fingerspelling.md)
+* [Compound Sounds](compound_sounds.md)
+  * [Unstressed Vowels](compounds/unstressed.md)
+  * [-shun, -kshun](compounds/shun.md)
 * [Request More Lessons](draft-work/brainstorming.md)
 
