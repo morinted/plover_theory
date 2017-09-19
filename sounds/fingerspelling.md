@@ -86,8 +86,14 @@ Fingerspelling is a great way to warm up your fingers for a practice session.
 
 ## Practice
 
-To practice fingerspelling, you can write out any sentence or word you want. However, some sentences are better than others. Common exercises include:
+To practice fingerspelling, you can write out any sentence or word you want. However, some sentences are better than others. Common exercises include the alphabet as well as pangrams. It's also useful to practice forcing your cases, as often acronyms will be fingerspelled rather than stroked out. You can also try writing out chords using fingerspelling, which is what I do when writing exercise material.
 
 1. The quick brown fox jumps over the lazy dog.
 2. ABCDEFGHIJKLMNOPQRSTUVWXYZ
 3. Abcdefghijklmnopqrstuvwxyz
+4. Zyxwvutsrqponmlkjihgfedcba
+5. Grumpy wizards make toxic brew for the evil queen and jack.
+6. DO or DO NOT there is no TRY!
+7. DJs flock by when MTV ax quiz prog.
+8. STKPWHRAOEUFRPBLGTSDZ
+9. TH S KAOL TP-PL
