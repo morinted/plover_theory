@@ -23,9 +23,11 @@ We've covered every letter so far in previous lessons except C. It's rare that w
 KR
 {% endstenodisplay %}
 
-* cent
-  - sent
-  - scent
+* `KREPBT`: cent
+  - `SEPBT`: sent
+  - `SKREPBT`: scent
+* `KREL`: cell
+  - `SEL`: sell
 
 ## Fingerspelling Alphabet
 
@@ -69,7 +71,12 @@ When fingerspelling, we don't get automatically inserted spaces between letters.
 S-P
 {% endstenodisplay %}
 
-This will just insert a space.
+This will just insert a space. You can use it while fingerspelling to separate words:
+
+- `A* EU* R* W* A* SR* E*`
+  - airwave
+- `A* EU* R* S-P W* A* SR* E*`
+  - air wave
 
 ## Why Fingerspell
 
