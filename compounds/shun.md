@@ -28,7 +28,7 @@ However, sometimes the "-shun" word gets an asterisk as it is less common than "
 * `RUGS`: rugs
   - `R*UGS`: Russian
 
-Unfortunately, there's no hard and fast rule on when a word does and doesn't get the asterisk. You'll have to memorize the few exceptions over time.
+Unfortunately, there's no hard and fast rule on when a word does and doesn't get the asterisk. You'll have to memorize the few exceptions over time. If you find that you use a certain stroke more often than the alternative, you do have the ability to remap it. For example, if you are writing "Russian" frequently for whatever reason, you might consider remapping `RUGS` to "Russian" and using `RUGZ` for "rugs".
 
 ### Kshun
 
@@ -57,6 +57,7 @@ Note that this conflicts with right-side X, which is the exact same chord. Usual
 | `TKAEUBGS` | education     |       |
 | `KAEUBGT`  | communicate   |       |
 | `KAEUBGS`  | communication |       |
+| `S-BGS`, `SPHEBGS` | sex   |       |       
 
 ### Practice
 
