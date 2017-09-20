@@ -68,13 +68,15 @@ This is best illustrated through examples:
 
 ### Briefs
 
-| Chord             | Translation | Notes |
-|:------------------|:------------|:------|
-| `AOEFPB`, `AOEPB` | even        |       |
-| `TKAOET`          | detail      |       |
-| `PAOEP`, `PAOEPL` | people      |       |
-| `THEZ`            | these       |       |
-| `PHREZ`, `PHRAES` | please      |       |
+|       Chord       | Translation |                             Notes                              |
+| :---------------- | :---------- | :------------------------------------------------------------- |
+| `AOEFPB`, `AOEPB` | even        |                                                                |
+| `TKAOET`          | detail      |                                                                |
+| `PAOEP`, `PAOEPL` | people      |                                                                |
+| `THEZ`            | these       |                                                                |
+| `PHREZ`, `PHRAES` | please      |                                                                |
+| `HRAOERL`         | really      | This brief inverts the syllables, from "real-ly" to "ly-real". |
+| `R-D`, `TKREA`    | ready       |                                                                |
 
 ### Practice
 
