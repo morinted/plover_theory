@@ -84,6 +84,14 @@ This is best illustrated through examples:
 
 Write the English sentence represented by these outlines, including punctuation.
 
+1. Please see back for more detail.
+1. These people can not be reasoned with!
+1. Define to me what you really want, what you really need.
+1. Are you ready to see this scary haunted house?
+1. Even if you get out of here, you will never be the same.
+1. I was born the year before your mother was born. What is your year of birth?
+1. Let me tell you my story, I am sure you do not have anything else to do tonight that beats sharing a beer with a new friend. See, I fought in a war. It was not anything I would do again, but I do not hate the fact that I was there. I had many friends both gained and gone due to those events. We have been told that we saved the people back home, but all I feel is grief for all the people I let down. War is not a thing to chase after, I wish it could be put to bed forever.
+
 ### 2. Find Outlines
 
 Find steno outlines that will write these English sentences, including punctuation.
