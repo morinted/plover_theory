@@ -30,7 +30,7 @@ Here are more examples of dropping unstressed vowels:
   - `EFRT`: effort
   - `OEPLT`: omit
 - Both
-  - `TKHREUSHS`: delicious
+  - `TKHREURBS`: delicious
   - `TKHRAOEUTD`: delighted
 
 Some of the compound sounds you will learn in the upcoming lessons are just droppings of unstressed vowels and quiet consonants.
