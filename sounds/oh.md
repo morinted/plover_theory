@@ -1,18 +1,25 @@
-# The OH Vowel
+# Vowel oh
 
 _Special thanks to Thomas Pacheco for funding this lesson._
 
 This lesson covers the "oh" sound heard in words like "dome" as well as your first shortening principle.
 
-## Vowel Sound OH
+--------
 
-The vowel sound "OH" is given by the outline `OE`.
+The vowel sound "oh" is given by the outline `OE`.
+
+{% stenodisplay labels="all" %}
+OE
+{% endstenodisplay %}
 
 * `OE`: owe
 * `OEPB`: own
 * `OEPL`: ohm
 * `PHOE`: mow
 * `TOE`: tow
+* `TPHOE`: know
+* `TPHOEZ`: knows
+* `TPHOES`: nose
 * `SHOE`: show
 * `PWHROE`: blow
 * `PWHROEPB`: blown
@@ -38,9 +45,11 @@ Plover Theory spells words with "or" in them \(corn, born, etc.\) with just the 
 * `STOR`: store
   * `STOER`
 * `STORPL`: storm
+
   * `STOERPL`: stormy
 
 * `PHOR`: more
+
   * `PHOER`: mother
 
 You are not expected to remember these `OER` briefs for the practice material in this book yet, but you are free to use them, of course.
@@ -57,37 +66,39 @@ One recurring pattern in the Plover dictionary is squashing two syllable words w
 * `TPAER`: father \(fa'er\)
 * `WAUR`: water \(wa'er\)
 * `TKAUR`: daughter \(dau'er\)
+* `PWOER`: bother \(bo'er\)
 
 You can imagine speaking in a Cockney accent if it helps you remember this pattern. You substitute the middle consonant with a stop.
 
 ### Briefs
 
-| Chord | Translation | Notes |
-| :--- | :--- | :--- |
-| OERBGS | oh{,} | "Oh" with a comma attached. RBGS is the comma stroke in traditional StenEd and is often used as a briefing tool in Plover. |
-| \*OERBGS | oh | Asterisk "removes" the comma in this case |
-| OEP | open |  |
-| OEFR | over |  |
-| OEPBL | only |  |
-| OEB | observe |  |
-| OBT | object |  |
-| SUBT | subject |  |
-| PORPB | important |  |
-| OER | other |  |
-| TOED | today |  |
-| TOPBT | tonight |  |
-| TOEPL | tomorrow |  |
+| Chord    | Translation | Notes                                                                                                                      |
+|:---------|:------------|:---------------------------------------------------------------------------------------------------------------------------|
+| OERBGS   | oh{,}       | "Oh" with a comma attached. RBGS is the comma stroke in traditional StenEd and is often used as a briefing tool in Plover. |
+| \*OERBGS | oh          | Asterisk "removes" the comma in this case                                                                                  |
+| OEP      | open        |                                                                                                                            |
+| OEFR     | over        |                                                                                                                            |
+| OEPBL    | only        |                                                                                                                            |
+| OEB      | observe     |                                                                                                                            |
+| OBT      | object      |                                                                                                                            |
+| SUBT     | subject     |                                                                                                                            |
+| PORPB    | important   |                                                                                                                            |
+| OER      | other       |                                                                                                                            |
+| TOED     | today       |                                                                                                                            |
+| TOPBT    | tonight     |                                                                                                                            |
+| TOEPL    | tomorrow    |                                                                                                                            |
 
 ### Vocabulary: Family
 
-| Chord | Translation | Notes |
-| :--- | :--- | :--- |
-| TPAER | father |  |
-| PHOER | mother |  |
-| PWROER | brother |  |
-| ST-R | sister |  |
-| SOPB | son |  |
-| TKAUR | daughter |  |
+| Chord            | Translation | Notes |
+|:-----------------|:------------|:------|
+| TPAER            | father      |       |
+| PHOER            | mother      |       |
+| PWROER           | brother     |       |
+| ST-R             | sister      |       |
+| SOPB             | son         |       |
+| TKAUR            | daughter    |       |
+| PARPBT, PAEURPBT | parent      |       |
 
 ### Practice
 
@@ -117,8 +128,11 @@ Write the English sentence represented by these outlines, including punctuation.
 15. My sister has more odd opinions on this subject.
 
 16. I cannot object to any other bills or they will throw me out of the court.
+
 17. My daughter is as pretty as my sister, and my sister is already so pretty.
+
 18. My father-in-law is to come over tomorrow after work.
+
 19. Tomorrow is an important day for me.
 20. You should check out their other important works before tomorrow.
 
@@ -131,6 +145,3 @@ Find steno outlines that will write these English sentences, including punctuati
 3. Will you leave tonight or tomorrow, do you think?
 4. I wrote to her but I do not think she will write back.
 5. Can you be there by tonight? I want to be done today.
-
-
-

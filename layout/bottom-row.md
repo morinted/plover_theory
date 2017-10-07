@@ -9,35 +9,41 @@ The keys used in this lesson include those used in lesson 2, as well as:
 
 The numbers show the fingers for each key, where 1's are the pinkies and 5 are the thumbs.
 
-The `S` key on the left hand is the same `S` key as on the top row. `S` is so common in English at the start of words that it's useful to have it twice.
+{% stenodisplay labels="STKPWHRAOEUFRPBLGTS" %}
+SKWROERBGS
+{% endstenodisplay %}
 
-### The Vowels O and E
+The left `S` key on the bottom row is the same `S` key as on the top row. `S` is so common in English at the start of words that it's useful to have it on both rows.
+
+### Vowel O
 
 The `O` key alone represents the sound in "hop" and not "hope".
 
-The `E` key is used the sound in "red" and not "reed".
+### Vowel E
+
+The `E` key alone represents the sound in "red" and not "reed".
 
 Sometimes, in Plover theory, we revert to spelling. You will see this in the upcoming brief table. For example, though "he" is pronounced with a tense "ee" sound, it is a common word and can just be stroked with `HE`.
 
 ### Briefs
 
-Now that we most of the keyboard available, there are many possible briefs to form. The briefs chosen here are used in the lesson and extend what you learned in lesson 2.
+Now that we know most of the keyboard, there are many possible briefs to form.
 
-| Chord | Translation | Notes |
-| :--- | :--- | :--- |
-| R- or -R | are | Either side works. |
-| SKP- | and | This stroke is arbitrary, remember it by hand shape. |
-| AEU | a | This is the word "a |
-| K- | can |  |
-| W- | with | Many people use "w" as an abbreviation for "with". |
-| -B | be | The letter "B" is a homophone to "be" |
-| HE or just E | he | Spelling instead of phonetic. |
-| SHE | she | Spelling instead of phonetic. |
-| WE | we | Spelling instead of phonetic. |
-| SO | so | Spelling instead of phonetic. |
-| TO | to | Spelling instead of phonetic. |
-| OR | or | Spelling instead of phonetic. |
-| KW-BG | {,} | Comma. |
+| Chord        | Translation | Notes                                                |
+|:-------------|:------------|:-----------------------------------------------------|
+| R- or -R     | are         | Either side works.                                   |
+| SKP-         | and         | This stroke is arbitrary, remember it by hand shape |
+| AEU          | a           | This is the word "a"                                  |
+| K-           | can         |                                                      |
+| W-           | with        | Many people use "w" as an abbreviation for "with"   |
+| -B           | be          | The letter "B" is a homophone to "be"                |
+| HE or just E | he          | Spelling instead of phonetic                        |
+| SHE          | she         | Spelling instead of phonetic                        |
+| WE           | we          | Spelling instead of phonetic                        |
+| SO           | so          | Spelling instead of phonetic                        |
+| TO           | to          | Spelling instead of phonetic                        |
+| OR           | or          | Spelling instead of phonetic                        |
+| KW-BG        | {,}         | Comma                                               |
 
 _\*Notice that _`{}`_ are used to denote a special character in Plover's translation format._
 
@@ -76,12 +82,9 @@ If you ever can't read an outline, you can try writing it into your steno machin
 Find steno outlines that will write these English sentences, including punctuation.
 
 1. Huff, puff, and start.
-2. Cut up the rug.
+2. Cut up the rag.
 3. Hug a wet rat.
 4. Tug at the straps.
 5. You had a skull.
 6. You are a star of sorts.
 7. Is it a worse cut?
-
-
-

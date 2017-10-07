@@ -1,4 +1,4 @@
-# The Letter N
+# Both sides N
 
 _Special thanks to Wilfried for funding this lesson._
 
@@ -6,9 +6,13 @@ This lesson covers how you write the initial and final N on the steno machine.
 
 The hardest part in writing lessons so far has been avoiding using "N". I've been looking forward to this one.
 
-## Initial N
+## Left side N
 
-Initial N is given by the outline `TPH`.
+Left side N is given by the outline `TPH`.
+
+{% stenodisplay labels="all" %}
+N
+{% endstenodisplay %}
 
 * `TPHO`: no
 * `TPHOU`: now
@@ -21,9 +25,13 @@ Initial N is given by the outline `TPH`.
 * `TPHAEUT`: Nate
 * `TPHOEUS`: noise
 
-### Final N
+### Right side N
 
-Final N is given by the outline `-PB`.
+Right side N is given by the outline `-PB`.
+
+{% stenodisplay labels="all" %}
+-N
+{% endstenodisplay %}
 
 * `OPB`: on
 * `APB`: an
@@ -41,24 +49,24 @@ Final N is given by the outline `-PB`.
 
 There are a lot of briefs that use Ns. This is not an extensive list.
 
-| Chord | Translation | Notes |
-| :--- | :--- | :--- |
-| TPH | in | The letter "N" kind of sounds like "in". |
-| TPH-PB | under | What is under the N? Why, it's another N! It's N's all the way down. |
-| TPHU | new |  |
-| TPHEU | any |  |
-| TPHOG | nothing |  |
-| TPH-R | nowhere |  |
-| TPH-B | nobody |  |
-| TPH-L | until |  |
-| S-PB | season |  |
-| T-PB | continue |  |
-| K-PB | condition |  |
-| P-PB | opinion |  |
-| W-PB | within |  |
-| H-PB | {^-^} | "Hyphen" attached on both sides |
-| R-PB | reason |  |
-| PHEUPB | minute |  |
+| Chord  | Translation | Notes                                                                |
+|:-------|:------------|:---------------------------------------------------------------------|
+| TPH    | in          | The letter "N" kind of sounds like "in"                             |
+| TPH-PB | under       | What is under the N? Why, it's another N! It's N's all the way down. |
+| TPHU   | new         |                                                                      |
+| TPHEU  | any         |                                                                      |
+| TPHOG  | nothing     |                                                                      |
+| TPH-R  | nowhere     |                                                                      |
+| TPH-B  | nobody      |                                                                      |
+| TPH-L  | until       |                                                                      |
+| S-PB   | season      |                                                                      |
+| T-PB   | continue    |                                                                      |
+| K-PB   | condition   |                                                                      |
+| P-PB   | opinion     |                                                                      |
+| W-PB   | within      |                                                                      |
+| H-PB   | {^-^}       | "Hyphen" attached on both sides                                      |
+| R-PB   | reason      |                                                                      |
+| PHEUPB | minute      |                                                                      |
 
 ### Practice
 
@@ -89,6 +97,3 @@ Find steno outlines that will write these English sentences, including punctuati
 6. What reason would you do that for?
 7. I will continue to work through the season, but the hours are so long.
 8. His/her opinions are so-so, I think.
-
-
-

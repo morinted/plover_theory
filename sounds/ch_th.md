@@ -1,27 +1,26 @@
-# CH and TH
+# Both sides CH and TH
 
 _Special thanks to _[_Scott Pierce_](https://ddrscott.github.io)_ for funding this lesson._
 
-### Initial SH
+### Left side CH
 
-You've already learned initial SH in previous lessons as it's just `SH`.
+Since there is no C key on the layout, we substitute `K` and use `KH` for initial CH.
 
-* `SHOP`: shop
-* `SHUT`: shut
-* `SHORT`: short
-* `SHEL`: shell
-
-### Initial CH
-
-Since there is no C key on the layout, we substitute `K` and so use `KH` for initial CH.
+{% stenodisplay labels="all" %}
+KH
+{% endstenodisplay %}
 
 * `KHAT`: chat
 * `KHOP`: chop
 * `KHART`: chart
 
-### Final CH
+### Right side CH
 
 Words ending with the "tch" or "ch" sound are made on the right hand with `-FP`. It's also used if there is a homophone where the only differentiator is spelling.
+
+{% stenodisplay labels="all" %}
+-FP
+{% endstenodisplay %}
 
 * `WAFP`: watch
 * `SWAFP`: swatch
@@ -31,9 +30,24 @@ Words ending with the "tch" or "ch" sound are made on the right hand with `-FP`.
 * `HRAFP`: latch
 * `TEFP`: tech \(spelling\). You can also use `TEBG` \(phonetic\)
 
-### Final TH
+### Left side TH
+
+You've already learned initial TH in previous lessons as it's just `TH`.
+
+{% stenodisplay labels="all" %}
+TH
+{% endstenodisplay %}
+
+* `THAUT`: thought
+
+
+### Right side TH
 
 The first use of the asterisk for us is with final "th". Adding an asterisk to a chord with a `-T` in it will make a "th" sound. `*T` is the "th" sound.
+
+{% stenodisplay labels="all" %}
+*T
+{% endstenodisplay %}
 
 * `WRA*T`: wrath
 * `PWA*T`: bath
@@ -47,12 +61,12 @@ The first use of the asterisk for us is with final "th". Adding an asterisk to a
 ### Briefs
 
 | Chord | Translation | Notes |
-| :--- | :--- | :--- |
-| HROF | love |  |
-| HROFL | lovely |  |
-| HR\*T | although | L-TH |
-| TOGT | together |  |
-| HR-GT | altogether | L-GT |
+|:------|:------------|:------|
+| HROF  | love        |       |
+| HROFL | lovely      |       |
+| HR\*T | although    | L-TH  |
+| TOGT  | together    |       |
+| HR-GT | altogether  | L-GT  |
 
 ### Practice
 
@@ -85,6 +99,3 @@ Find steno outlines that will write these English sentences, including punctuati
 5. Will you catch the ball before it drops?
 6. Check the charts, okay?
 7. He has chapped lips.
-
-
-

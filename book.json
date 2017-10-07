@@ -1,8 +1,24 @@
 {
     "plugins": [
-        "github-buttons", "edit-link", "page-footer-ex"
+        "github-buttons", "edit-link", "page-footer-ex", "steno", "autocover"
     ],
+    "title": "Plover Theory: Learn Stenography",
+    "author": "Ted Morin",
     "pluginsConfig": {
+        "autocover": {
+            "font": {
+                "size": null,
+                "family": "Impact",
+                "color": "#FFF"
+            },
+            "size": {
+                "w": 1800,
+                "h": 2360
+            },
+            "background": {
+                "color": "#3D6961"
+            }
+        },
         "theme-default": {
              "showLevel": false
         },
@@ -15,10 +31,11 @@
         },
         "edit-link": {
             "base": "https://github.com/morinted/plover_theory/edit/master/",
-            "label": "Edit This Page"
+            "label": "Edit"
         },
         "page-footer-ex": {
-            "copyright": "© Plover Theory by Ted Morin, licensed under CC BY-SA 4.0 International",
+            "markdown": true,
+            "copyright": "Plover Theory by [Ted Morin](http://tedmor.in), licensed under [CC BY-SA 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)",
             "update_label": "last updated",
             "update_format": "YYYY-MM-DD"
         }

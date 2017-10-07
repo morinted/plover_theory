@@ -7,13 +7,17 @@ The keys used in this lesson include those used in previous lessons, plus:
 * `* - *   DZ`
 * `4 - 4   11`
 
+{% stenodisplay labels="STKPWHRAO*EUFRPBLGTSDZ" %}
+*DZ
+{% endstenodisplay %}
+
 The numbers show the fingers for each key, where 1's are the pinkies and 5 are the thumbs.
 
 ### The Asterisk (*)
 
 Your keyboard may have multiple asterisks, up to four, or just one. As long as you can hit the asterisks with either index finger, you should be fine. The asterisk can be hit alone, or in conjunction with its neighboring keys. That is why often the gap between the asterisk key and `-FR` tends to be smaller than the gaps between other columns.
 
-Most stenographers hit the asterisk key exclusively with their right hand, but you can feel free to only use your left hand, or use them interchangeably. The left hand tends to do less in steno \(responsible for only 9 keys instead of the right's typical 13\) so you might consider learning to use a left-side asterisk.
+Most stenographers hit the asterisk key exclusively with their right hand, but you can feel free to only use your left hand, or use them interchangeably. The left hand tends to do less in steno \(responsible for only 9 keys instead of the right's 12\) so you might consider learning to use a left-side asterisk.
 
 In stenography the asterisk is always used to undo the last stroke. In Plover theory, it is used for various purposes. It can be used to make certain sounds, resolve ambiguous strokes, fingerspell, and is often used as a briefing tool.
 
@@ -33,25 +37,23 @@ In English, many words end in -D when they are conjugated in the past tense. In 
 
 ### Plurals
 
-Phonetically, plural words in English end with an "s" (puts) or a "z" (bugs) sound. In Plover Theory, we use both `-S` or `-Z` for plurals. Often, both work, and for that reason you should be inclined to reach for `-S` first because it is closer. However, sometimes the `-S` is used in another way by the word and you will need to use `-Z` to make it plural. This will be trial and error until you start to notice when `-Z` is required. So `TAP` is "tap" and `TAPS` and `TAPZ` are both "taps".
+Phonetically, plural words in English end with an "s" \(puts\) or a "z" \(bugs\) sound. In Plover Theory, we use both `-S` or `-Z` for plurals. Often, both work, and for that reason you should be inclined to reach for `-S` first because it is closer. However, sometimes the `-S` is used in another way by the word and you will need to use `-Z` to make it plural. This will be trial and error until you start to notice when `-Z` is required. So `TAP` is "tap" and `TAPS` and `TAPZ` are both "taps".
 
 ### Briefs
 
-This lesson only introduces a few briefs. They are similar, so they will require care to remember correctly. The briefs starting with `TH-` below are good examples of very common words that had their ending chopped off to save effort on the stenographer's part. The briefs also make room for more complex strokes as you will learn in later lessons.
+This lesson only introduces a few briefs. They are similar, so they will require care to remember correctly. The briefs starting with `TH-` below are good examples of very common words that had their ending chopped off to save effort on the stenographer's part. The briefs also make room for more complex strokes that you will learn in later lessons.
 
-|  | Translation | Notes |
-| :--- | :--- | :--- |
-| TH- | this |  |
-| THE- | they |  |
-| THA- | that |  |
-| WHA- | what |  |
-| UD | you'd |  |
+|     | Translation | Notes |
+|:----|:------------|:------|
+| TH  | this        |       |
+| THA | that        |       |
+| THE | they        |       |
+| WHA | what        |       |
+| UD  | you'd       |       |
 
 ### How to Practice
 
 Play close attention to the meaning of the sentence in order to ensure you have understood it correctly. Because `-D` can be used in multiple ways \(to end a word, like "card", or to make a verb past tense, like "scarred"\), you may interpret an outline wrong the first time. It's okay, just make a mental note and see if you can notice any patterns. Understanding the consistency in how your theory solves certain language-related issues will help you when you develop and personalize your own dictionary as you grow as a stenographer.
-
----
 
 ### Practice
 

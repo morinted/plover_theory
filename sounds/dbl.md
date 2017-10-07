@@ -1,17 +1,25 @@
-# Initial D, B, and L
+# Left side D, B, and L
 
-### Initial D
+### Left side D
 
-"D" is made on the left hand using `TK-`
+"D" is made on the left hand using `TK`
+
+{% stenodisplay labels="all" %}
+D
+{% endstenodisplay %}
 
 * `TKOG`: dog
 * `TKROP`: drop
 * `TKAFT`: daft
 * `TKUL`: dull
 
-### Initial B
+### Left side B
 
-"B" is made on the left hand using `PW-`
+"B" is made on the left hand using `PW`
+
+{% stenodisplay labels="all" %}
+B
+{% endstenodisplay %}
 
 * `PWUD`: bud
 * `PWUT`: but
@@ -19,9 +27,13 @@
 * `PWAD`: bad
 * `PWART`: Bart
 
-### Initial L
+### Left side L
 
-"L" is made on the left hand using `HR-`
+"L" is made on the left hand using `HR`
+
+{% stenodisplay labels="all" %}
+L
+{% endstenodisplay %}
 
 * `HRARD`: lard
 * `HRAF`: laugh
@@ -34,21 +46,20 @@ D, B, and L are all made with a single finger's column. If the order sometimes e
 
 ### Briefs
 
-| Chord | Translation | Notes |
-| :--- | :--- | :--- |
-| TK | did |  |
-| TKO | do | Spelling. |
-| PW | about |  |
-| PWAUS or PWAUZ | because |  |
-| PW-FR | before |  |
-| HR | will |  |
-| PWHR | build |  |
-| HREF | leave |  |
-| PWHREF | believe |  |
-| HR-R | already |  |
-| HR-RT | all right |  |
-| HR-S | also |  |
-| HR-BG | welcome |  |
+| Chord          | Translation | Notes     |
+|:---------------|:------------|:----------|
+| TK             | did         |           |
+| TKO            | do          | Spelling  |
+| PW             | about       |           |
+| PWAUS or PWAUZ | because     |           |
+| PW-FR          | before      |           |
+| HR             | will        |           |
+| HREF           | leave       |           |
+| PWHREF         | believe     |           |
+| HR-R           | already     |           |
+| HR-RT          | all right   |           |
+| HR-S           | also        |           |
+| HR-BG          | welcome     |           |
 
 ### How to Practice
 
@@ -64,7 +75,7 @@ Write the English sentence represented by these outlines, including punctuation.
 
 1. `HR-RT KW-BG TKO T TP-PL`
 2. `HR U -B AT -T START OR HR U HREF PW-FR THA H-F`
-3. `HE HR PWHR -T PWED TP-PL`
+3. `HE HR WET -T PWED TP-PL`
 4. `HR-S KW-BG K U TKO THA H-F`
 5. `TK U TKO WHA HE SEZ U TK H-F`
 6. `HE HR HR-S TKO -T HRAP W HER TP-PL`
@@ -79,8 +90,5 @@ Remember that if you can't figure out an outline, you can look it up in the theo
 Find steno outlines that will write these English sentences, including punctuation.
 
 1. Did you believe what she was about to do?
-2. Will you build the raft and the deck?
+2. Will you pick the raft and the deck?
 3. All right already, leave us out.
-
-
-

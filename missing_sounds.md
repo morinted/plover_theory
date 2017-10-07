@@ -1,11 +1,12 @@
-# Missing Sounds
+# Hidden Sounds
 
 So far we've covered all the basic sounds in steno, as well as over 25 briefs. That's amazing progress and is more than many students will learn in their first month of theory class. You are encouraged to go back and do the exercises over again, as their lessons will always be relevant at any level.
 
-In this next chapter, we will start addressing sounds that aren't present on the base layout. This includes letters that aren't in steno order, such as "M", but also sounds that don't have a letter, like final "tch" (watch) and "shun" (passion, fashion, caution).
+In this next chapter, we will start addressing sounds that aren't present on the base layout. This includes letters that aren't on the keyboard, such as "M", but also sounds that don't even have a letter, like final "tch" \(watch\).
 
-By the end of the chapter you will have learned:
+By the end of the chapter you will know:
 
-- All of the sounds in Plover Theory
-- How to write out any word using sounds
-- How to spell out with the alphabet when a word that isn't in the Plover Theory comes up
+* All the steno vowel sounds
+* How to write thousands of words by sound
+* Over a hundred useful briefs
+* How to spell words out one letter at a time with the steno machine

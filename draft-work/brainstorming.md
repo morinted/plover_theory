@@ -8,16 +8,11 @@ Please include a note on how you'd like to be attributed. On top of the new less
 
 ---
 
+{% stenodisplay %}
+SKPROUFBLSD
+{% endstenodisplay %}
+
 ### Brainstorming
-
-Remaining sounds:
-
-* G - left side
-* J - both sides, probably good to include at the same time as G.
-* V - both sides
-* SH - right side
-* X - both sides
-* Y - left side \(as a consonant\)
 
 Complex endings/beginnings:
 
@@ -50,7 +45,7 @@ Shortening principles:
 
 From the top 100, this is left:
 
-* have, get, which, go, like, time, just, know, people, into, year, your, good, see, look, its, also, use, two, first, way, even, these, give, most
+* like, time, just, its, first, most
 
 Words beginning with:
 
@@ -72,4 +67,3 @@ Brief families:
 I want to get Jeff to make illustrations, mainly to draw the exercise sentences. I want a wet rat to be hugged.
 
 In the later lessons I think I'll move more into a format where I have one or two "letters" or stories as opposed to just the drilling sentences.
-
