@@ -74,6 +74,7 @@ Words ending in the "shoush" sound, like "conscious" and "delicious", can be wri
 | `TPEURBT`    | efficient   |              |
 | `TP*EURB`    | finish      |              |
 | `TKWEURB`    | distinguish |              |
+| `*EUSH`      | issue       |              |
 
 
 ### Practice
@@ -87,3 +88,15 @@ Write the English sentence represented by these outlines, including punctuation.
 Find steno outlines that will write these English sentences, including punctuation.
 
 1. The fish goes splish, splash, sploosh.
+1. I, um -- I am not so sure that you know what I'm telling you.
+1. Trish wishes that she could finish her work today and be done before the due date.
+1. This meal is so delicious, I could eat forever.
+1. English has spelling that no one wants to say that they get. It makes no sense!
+1. It is hard to measure how precious things are.
+1. He seems easy going but I have a suspicious feeling that he is not telling us everything.
+1. I always look for efficient ways to solve issues.
+1. This room is so spacious, I could fit a horse in here!
+1. I take issue with your stance.
+1. A lack of patience will crush hopes and dreams.
+1. You may not know this, but fish have scales on their flesh.
+1. That joke went way over his head -- woosh!

@@ -21,6 +21,7 @@ Here are more examples of dropping unstressed vowels:
   - `TKHRAEU`: delay
   - `KRUPT`: corrupt
   - `SPERB`: superb
+  - `SPWHRAOEUPL`: sublime
 - Suffixes
   - `KAURBS`: cautious
   - `RUFL`: ruffle
@@ -29,6 +30,10 @@ Here are more examples of dropping unstressed vowels:
   - `TABLT`: tablet
   - `EFRT`: effort
   - `OEPLT`: omit
+  - `SEFR`: sever
+  - `TPAEUFRBL`: favorable
+  - `AFRPBLG`: average
+  - `PREFRPBS`: preference
 - Both
   - `TKHREURBS`: delicious
   - `TKHRAOEUTD`: delighted

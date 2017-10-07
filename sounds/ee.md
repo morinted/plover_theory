@@ -58,6 +58,7 @@ One pattern that you might have started to notice is the folding-in of `E` in a 
 This is best illustrated through examples:
 
 - `PHAEB`: maybe
+- `PHAEPB`: many
 - `PHAER`: marry
 - `SOER`: sorry
 - `STOER`: story
@@ -70,13 +71,15 @@ This is best illustrated through examples:
 
 |       Chord       | Translation |                             Notes                              |
 | :---------------- | :---------- | :------------------------------------------------------------- |
-| `AOEFPB`, `AOEPB` | even        |                                                                |
+| `AOEPB`           | even        |                                                                |
+| `AOEPBL`          | evenly      |                                                                |
 | `TKAOET`          | detail      |                                                                |
 | `PAOEP`, `PAOEPL` | people      |                                                                |
 | `THEZ`            | these       |                                                                |
 | `PHREZ`, `PHRAES` | please      |                                                                |
-| `HRAOERL`         | really      | This brief inverts the syllables, from "real-ly" to "ly-real". |
+| `R-L`, `HRAOERL`  | really      | `HRAOERL` inverts the syllables, from "real-ly" to "ly-real".  |
 | `R-D`, `TKREA`    | ready       |                                                                |
+| `K-P`             | company     |                                                                |
 
 ### Practice
 
@@ -90,7 +93,11 @@ Write the English sentence represented by these outlines, including punctuation.
 1. Are you ready to see this scary haunted house?
 1. Even if you get out of here, you will never be the same.
 1. I was born the year before your mother was born. What is your year of birth?
-1. Let me tell you my story, I am sure you do not have anything else to do tonight that beats sharing a beer with a new friend. See, I fought in a war. It was not anything I would do again, but I do not hate the fact that I was there. I had many friends both gained and gone due to those events. We have been told that we saved the people back home, but all I feel is grief for all the people I let down. War is not a thing to chase after, I wish it could be put to bed forever.
+1. How do you feel when people tell you that your company brings them joy?
+1. Let me tell you my story, I am sure you do not have anything else to do tonight that beats sharing a beer with a new friend.
+1. It was not anything I would do again, but I do not hate the fact that I was there.
+1. I feel at home with you and want to stay together forever.
+1. Are you really ready to tell these people about the many things you did on your trip?
 
 ### 2. Find Outlines
 
