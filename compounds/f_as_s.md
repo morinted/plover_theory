@@ -6,8 +6,6 @@ This lesson covers how to substitute `-F` on the right hand for "s" in words lik
 
 -------
 
-### -F as -S
-
 Because of steno order, `-S` is very near the end of the layout. That means that we can't write words like "fast" because `TPATS` is "fats". In order to circumvent steno order, we substitute the `-F` key for the "s" sound, which might sound like someone speaking with a lisp. So to get "fast", we write `TPAFT`. We do this whenever we have words ending in -sp, -sk, -sn, -ses, -st, and -sed.
 
 * `PHOFT`: most

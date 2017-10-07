@@ -49,7 +49,7 @@ D, B, and L are all made with a single finger's column. If the order sometimes e
 | Chord          | Translation | Notes     |
 |:---------------|:------------|:----------|
 | TK             | did         |           |
-| TKO            | do          | Spelling. |
+| TKO            | do          | Spelling  |
 | PW             | about       |           |
 | PWAUS or PWAUZ | because     |           |
 | PW-FR          | before      |           |

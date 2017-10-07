@@ -37,15 +37,17 @@ Shorthand, both written and machine, use phonetics as a core principle. English 
 
 For example, there is no "c" on the steno layout. Because its sounds are accomplished by either "s" or "k", depending on pronouncation. To write "cat", in stenography we write `KAT`.
 
-### The Vowels A and U
+### Vowel A
 
 The `A` key represents the relaxed "ah" sound found in "had", "mad", "clad", and "half". Of note, it is not the tense "aye" sound found in "day". `PAL` always sounds like "pal", not like "pail" or "pale".
+
+### Vowel U
 
 The `U` key tends to sound like "uh" in Plover, or is used sometimes when the word is spelled with "u" \(but maybe sounds like something else\). This is the sound found in "crud", "shut", "mud", and "curl". It is not the tense "you" sound found in "shoe" or the one in "pure". `PUF` always sounds like "puff", not like "poof".
 
 ### Briefs
 
-**Briefs are shortcuts** in stenography, and an essential component in gaining speed. The word comes from "abbreviation". While steno's base theory is syllabic, you will learn and use many briefs to get out **long words and phrases very quickly**.
+**Briefs are shortcuts** in stenography, and an essential component in gaining speed. The word comes from "abbreviation". While steno's base theory is syllabic, you will learn and use many briefs to write **long words and phrases very quickly**.
 
 The more common a word, the more likely it has a brief. In fact, the first bit of steno theory you are about to learn is about briefs that you can make with just `STPHAUFPLT`.
 
@@ -59,7 +61,7 @@ The more common a word, the more likely it has a brief. In fact, the first bit o
 | -T        | the         |                                          |
 | TP-PL     | {.}         | Period. Next word is capitalized         |
 | H-F       | {?}         | Question mark. Next word is capitalized. |
-| STPH-FPLT | {:}         | Colon. It is the whole top row.          |
+| STPH-FPLT | {:}         | Colon.            |
 
 _\*Notice that _`{}`_ are used to denote a special character in Plover's translation format._
 
@@ -75,7 +77,7 @@ Will translate to:
 
 > The pup sat.
 
-It's recommended to read through the raw steno, and whenever you encounter a new word, try sounding it out if you're unsure. If you can't figure out an outline, refer back to your brief tables to see if it's explained there. Remember, steno is phonetic so you will find words that are simple in steno but complicated in English spelling. Don't worry, that's an asset, not a problem!
+I recommended you read through the raw steno. Some words will be intuitive, others less so. If you can't identify the word at first glance, try sounding it out. If you still can't figure out an outline, refer back to your brief tables to see if it's explained there. Remember, steno is phonetic so you will find words that are simple in steno but complicated in English spelling. Don't worry, that's an asset, not a problem!
 
 This book does not require you to use your steno machine, but smart students will try writing down all the exercises on their own machine to build muscle memory and reenforce their learning.
 

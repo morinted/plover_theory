@@ -90,14 +90,14 @@ Finally, this chord can be used if you ever have an "ao" vowel, but these are no
 
 | Chord             | Translation   | Notes                                                                      |
 |:------------------|:--------------|:---------------------------------------------------------------------------|
-| TPHAO             | into          | To remember this brief, it might help to sound it out as "noo" or "in-oo". |
-| TWO               | two           | Using spelling to avoid conflict with "to" and "too".                      |
+| TPHAO             | into          | To remember this brief, it might help to sound it out as "noo" or "in-oo" |
+| TWO               | two           | Using spelling to avoid conflict with "to" and "too"                      |
 | PWHRU             | blue          |                                                                            |
 | PWAOUT            | beauty        |                                                                            |
 | STAOUPBT          | student       |                                                                            |
 | TRAOUL            | truly         |                                                                            |
-| TAOUL or TWAUL    | actual        | Think "tule" or "twall".                                                   |
-| THRAOUL or TWAEUL | actually      | Think "tlule" or "twail".                                                  |
+| TAOUL or TWAUL    | actual        | Think "tule" or "twall"                                                   |
+| THRAOUL or TWAEUL | actually      | Think "tlule" or "twail"                                                  |
 | URPBD             | understand    |                                                                            |
 | URPBGD            | understanding |                                                                            |
 | PHRAR             | particular    |                                                                            |

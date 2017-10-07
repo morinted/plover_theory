@@ -82,7 +82,7 @@ On some hardware, pressing this many keys might be difficult. Make sure you aren
 |:------------|:------------|:----------------------------------------------------------------------|
 | TKPW        | go          |                                                                       |
 | TKPW-G      | going       |                                                                       |
-| TKAOG       | doing       | TKOG is "dog" but "doing" is a very common word so we use this brief. |
+| TKAOG       | doing       | TKOG is "dog" but "doing" is a very common word so we use this brief |
 | TR, T-R     | interest    |                                                                       |
 | TRG, T-RG   | interesting |                                                                       |
 | TKPW-B      | goodbye     |                                                                       |

@@ -15,9 +15,11 @@ SKWROERBGS
 
 The left `S` key on the bottom row is the same `S` key as on the top row. `S` is so common in English at the start of words that it's useful to have it on both rows.
 
-### The Vowels O and E
+### Vowel O
 
 The `O` key alone represents the sound in "hop" and not "hope".
+
+### Vowel E
 
 The `E` key alone represents the sound in "red" and not "reed".
 
@@ -30,18 +32,18 @@ Now that we know most of the keyboard, there are many possible briefs to form.
 | Chord        | Translation | Notes                                                |
 |:-------------|:------------|:-----------------------------------------------------|
 | R- or -R     | are         | Either side works.                                   |
-| SKP-         | and         | This stroke is arbitrary, remember it by hand shape. |
-| AEU          | a           | This is the word "a                                  |
+| SKP-         | and         | This stroke is arbitrary, remember it by hand shape |
+| AEU          | a           | This is the word "a"                                  |
 | K-           | can         |                                                      |
-| W-           | with        | Many people use "w" as an abbreviation for "with".   |
+| W-           | with        | Many people use "w" as an abbreviation for "with"   |
 | -B           | be          | The letter "B" is a homophone to "be"                |
-| HE or just E | he          | Spelling instead of phonetic.                        |
-| SHE          | she         | Spelling instead of phonetic.                        |
-| WE           | we          | Spelling instead of phonetic.                        |
-| SO           | so          | Spelling instead of phonetic.                        |
-| TO           | to          | Spelling instead of phonetic.                        |
-| OR           | or          | Spelling instead of phonetic.                        |
-| KW-BG        | {,}         | Comma.                                               |
+| HE or just E | he          | Spelling instead of phonetic                        |
+| SHE          | she         | Spelling instead of phonetic                        |
+| WE           | we          | Spelling instead of phonetic                        |
+| SO           | so          | Spelling instead of phonetic                        |
+| TO           | to          | Spelling instead of phonetic                        |
+| OR           | or          | Spelling instead of phonetic                        |
+| KW-BG        | {,}         | Comma                                               |
 
 _\*Notice that _`{}`_ are used to denote a special character in Plover's translation format._
 

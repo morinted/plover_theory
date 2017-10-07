@@ -51,11 +51,11 @@ OU
 
 | Chord        | Translation | Notes                                         |
 |:-------------|:------------|:----------------------------------------------|
-| AULS or AULZ | always      | This is possible because "alls" isn't a word. |
+| AULS or AULZ | always      | This is possible because "alls" isn't a word |
 | AUFL         | awful       |                                               |
-| OBG          | okay        | The letters "O" and "K".                      |
+| OBG          | okay        | The letters "O" and "K"                      |
 | AF           | after       |                                               |
-| EZ           | easy        | The letters "E" and "Z".                      |
+| EZ           | easy        | The letters "E" and "Z"                     |
 | WAUR         | water       |                                               |
 | KO           | could       | Instead of KOULD                              |
 | WO           | would       | Instead of WOULD                              |

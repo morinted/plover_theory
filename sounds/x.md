@@ -72,7 +72,7 @@ You might realize at this point that "ks" words like "tacks" are homophones to "
 | KP-PL   | example     |                                                                                             |
 | KPERZ   | exercise    |                                                                                             |
 | KPES    | access      |                                                                                             |
-| KP\*ES  | excess      | The asterisk is used on the less common word in the conflict between "access" and "excess". |
+| KP\*ES  | excess      | The asterisk is used on the less common word in the conflict between "access" and "excess" |
 | PRABGS  | practice    |                                                                                             |
 | TEGT    | text        |                                                                                             |
 | TPHEGT  | next        |                                                                                             |

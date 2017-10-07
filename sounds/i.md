@@ -27,11 +27,11 @@ This is the lax version of "i", as found in:
 
 | Chord | Translation | Notes                          |
 |:------|:------------|:-------------------------------|
-| EU    | I           | Always capitalized.            |
-| HEU   | hi          | Spelling instead of phonetics. |
-| HEUS  | his         | Spelling instead of phonetics. |
+| EU    | I           | Always capitalized            |
+| HEU   | hi          | Spelling instead of phonetics |
+| HEUS  | his         | Spelling instead of phonetics |
 | WEU   | which       |                                |
-| PWEU  | by          | Spelling instead of phonetics. |
+| PWEU  | by          | Spelling instead of phonetics |
 | WREU  | write       |                                |
 | THEU  | think       |                                |
 | HREUF | live        |                                |

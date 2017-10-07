@@ -39,7 +39,7 @@ Q
 | TP     | if          |                                |
 | TPR    | from        |                                |
 | TP-R   | for         |                                |
-| TPAPL  | familiar    | Spelling instead of phonetics. |
+| TPAPL  | familiar    | Spelling instead of phonetics |
 | TPAEPL | family      | Think "fam ee"                 |
 | TPOL   | follow      |                                |
 | KW     | request     |                                |
