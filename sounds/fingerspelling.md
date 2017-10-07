@@ -69,7 +69,7 @@ If you also add the `-P` key on the right side of the keyboard, you get a capita
 
 ## Spacing
 
-When fingerspelling, we don't get automatically inserted spaces between letters. That's okay most of the time because you can, for example, write `EU APL AEU TK* O* TKPW* TOED` and the output will be "I am say dog today". Plover will add spaces between fingerspelled words and normal words. However, if you want to write out multiple words back-to-back with fingerspelling, you need to insert a space with the chord `S-P`:
+When fingerspelling, we don't get automatically inserted spaces between letters. That's okay most of the time because you can, for example, write `EU APL AEU TK* O* TKPW* TOED` and the output will be "I am a dog today". Plover will add spaces between fingerspelled words and normal words. However, if you want to write out multiple words back-to-back with fingerspelling, you need to insert a space with the chord `S-P`:
 
 {% stenodisplay labels="all" %}
 S-P
