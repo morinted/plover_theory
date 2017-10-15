@@ -30,5 +30,6 @@
   * [Unstressed Vowels](compounds/unstressed.md)
   * [-shun, -kshun](compounds/shun.md)
   * [-F as -s](compounds/f_as_s.md)
+  * [-mp](compounds/mp.md)
 * [Request More Lessons](draft-work/brainstorming.md)
 
