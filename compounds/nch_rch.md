@@ -48,7 +48,6 @@ However, if there is a collision where a word can end with either rch or nch, su
 
 Note that `-FRPBLG` can also be parsed as "FRJ", such as in "beverage". This is why `PWEFRPBLG` maps to beverage and not "bench". To be honest, the only collision I can find in the default dictionary is lurch and lunch.
 
-
 ## Briefs
 
 |   Chord    |  Translation  | Notes |
