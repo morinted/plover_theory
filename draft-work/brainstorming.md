@@ -16,19 +16,16 @@ SKPROUFBLSD
 
 Complex endings/beginnings:
 
-* -tion
+* ~~-tion~~
 * -rve
 * -nk
-
 * -lg, -lk
-
-* -nch and "lunch"
-
-* -st \(maybe just "F" as "-S"?\)
-
-* Probably need a lesson to solidify:
-
-* ble, kt, ng
+* ~~-nch and "lunch"~~
+* ~~-st \(maybe just "F" as "-S"?\)~~
+* ~~ble, kt, ng~~
+* KP-
+* SPW-
+* STK-
 
 Fingerspelling
 
@@ -43,9 +40,8 @@ Shortening principles:
 * -ie, -ey, -ee
 * Reversal
 
-From the top 100, this is left:
+- All top 100 words covered ✓
 
-* like, time, just, its, first, most
 
 Words beginning with:
 
