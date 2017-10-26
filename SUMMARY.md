@@ -32,5 +32,6 @@
   * [-F as -s](compounds/f_as_s.md)
   * [-mp](compounds/mp.md)
   * [-nch, -rch](compounds/nch_rch.md)
+  * [Reversal](compounds/reversal.md)
 * [Request More Lessons](draft-work/brainstorming.md)
 

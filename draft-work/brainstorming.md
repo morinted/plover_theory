@@ -20,6 +20,7 @@ Complex endings/beginnings:
 * -rve
 * -nk
 * -lg, -lk
+* -mnt
 * ~~-nch and "lunch"~~
 * ~~-st \(maybe just "F" as "-S"?\)~~
 * ~~ble, kt, ng~~
