@@ -17,6 +17,7 @@ Another is the prefix "dis-" which we write by swapping the sounds of `S-` and `
 
 - `STKUS`: discuss
 - `STKUGS`: discussion
+- `STKAOEUPB`: design
 - `STKRUPT`: disrupt
 - `STKRUPGS`: disruption
 - `STKPHRAEU`: display
