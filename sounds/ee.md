@@ -28,7 +28,6 @@ AOE
 
 There are a lot of homophones that have "ea" instead of "ee"; like "meet" and "meat", "steel" and "steal", and "reel" and "real". To write the "ea" word, use `AE` instead of `AOE`.
 
-`AE` can be used to resolve homophones in other vowels, too, like the difference between "bear" and "bare"
 {% stenodisplay labels="all" %}
 AE
 {% endstenodisplay %}
