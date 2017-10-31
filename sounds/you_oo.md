@@ -1,6 +1,6 @@
 # Vowels you and oo
 
-_Special thanks to a _[_Luke Silva_](https://github.com/LukeSilva)_ for funding this lesson._
+_Special thanks to _[_Luke Silva_](https://github.com/LukeSilva)_ for funding this lesson._
 
 This lesson covers how you write the vowel sounds in "pure" and "poor".
 
@@ -81,7 +81,7 @@ But this combination is also used for "oa" words even when there are no homophon
 
 * `PWHRAOT`, `PWHROET`: bloat
 
-Finally, this chord can be used if you ever have an "ao" vowel, but these are not very common in English. The only single-syllable examples I have are names which have the asterisk as they conflict with "moo" and "too":
+Finally, this chord can be used if you ever have an "ao" vowel, but these are not very common in English. The only single-syllable examples I have are names which have the asterisk as they conflict with "too" and "moo":
 
 * `TAO*`: Tao
 * `PHAO*`: Mao
