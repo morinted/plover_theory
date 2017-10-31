@@ -64,3 +64,9 @@ Brief families:
 I want to get Jeff to make illustrations, mainly to draw the exercise sentences. I want a wet rat to be hugged.
 
 In the later lessons I think I'll move more into a format where I have one or two "letters" or stories as opposed to just the drilling sentences.
+
+### Topics to cover
+
+- Capitalization
+- Punctuation
+- Cursor movement
