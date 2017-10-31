@@ -19,7 +19,7 @@ To end a word with the "shun" sound we use the chord `-GS` on the right hand.
 * `PHAPBGS`: mansion
 * `SHRAOUGS`: solution
 
-Note that the `-GS` chord may conflict with words ending with "gs" suck as "rags". Most of the time, you can just resolve this by using `-GZ`:
+Note that the `-GS` chord may conflict with words ending with "gs" such as "rags". Most of the time, you can just resolve this by using `-GZ`:
 
 * `RAGS`: ration
   - `RAGZ`: rags
