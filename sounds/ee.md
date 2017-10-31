@@ -1,6 +1,6 @@
 # Vowel ee
 
-_Special thanks to a Paolo Michela for funding this lesson._
+_Special thanks to Paolo Michela for funding this lesson._
 
 This lesson covers how you write the vowel sounds in "eel" and "real".
 
@@ -86,6 +86,10 @@ This is best illustrated through examples:
 
 Write the English sentence represented by these outlines, including punctuation.
 
+### 2. Find Outlines
+
+Find steno outlines that will write these English sentences, including punctuation.
+
 1. Please see back for more detail.
 1. These people can not be reasoned with!
 1. Define to me what you really want, what you really need.
@@ -97,7 +101,3 @@ Write the English sentence represented by these outlines, including punctuation.
 1. It was not anything I would do again, but I do not hate the fact that I was there.
 1. I feel at home with you and want to stay together forever.
 1. Are you really ready to tell these people about the many things you did on your trip?
-
-### 2. Find Outlines
-
-Find steno outlines that will write these English sentences, including punctuation.
