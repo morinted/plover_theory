@@ -30,7 +30,6 @@ For the most part, `-FRPB` also works for "nch":
 * `PWEFRPB`: bench
 * `PEUFRPB`: pinch
 * `PUFRPB`: punch
-* `PWUFRPB`: bunch
 * `RAFRPB`: ranch
 * `TPREFRPB`: French
 
