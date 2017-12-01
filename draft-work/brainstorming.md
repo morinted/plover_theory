@@ -14,21 +14,28 @@ SKPROUFBLSD
 
 ### Brainstorming
 
+#### Lesson Plan for Compounds
+
 Complex endings/beginnings:
 
-* ~~-tion~~
+* unstressed (ble, kt, ng) ✅
+* shun, kshun ✅
+* f as s ✅
+* mp ✅
+* nch, rch ✅
+* reversal (sd-, sm-, -rt, -rp) ✅
+* con, com ✅
+* W as V-
 * -rve
-* -nk
-* -lg, -lk
+* *G for -k (lk, nk)
 * -mnt
-* ~~-nch and "lunch"~~
-* ~~-st \(maybe just "F" as "-S"?\)~~
-* ~~ble, kt, ng~~
-* KP-
-* SPW-
-* STK-
+* SPW- int
 
-Fingerspelling
+#### Lesson Plan for Prefixes
+
+Categorize by... alphabet? Frequency? Similarity?
+
+#### Broad Discussion Topics
 
 * S-P and TK-LS need to be mentioned here, maybe arrow key movements too?
 

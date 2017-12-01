@@ -22,7 +22,7 @@ To end a word with "rch", we use the chord `-FRPB`.
 * `PHAFRPB`: march
 * `KHUFRPB`: church
 
-### -nrc
+### -nch
 
 For the most part, `-FRPB` also works for "nch":
 
