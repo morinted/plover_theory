@@ -47,7 +47,7 @@ Complex endings/beginnings:
 Categorize by... alphabet? Frequency? Similarity?
 
 - ^s, a^, ^ed, ^ing
-- re^, in^, ex^, ^'s, ^ly, ^ry, ^cy, ^ity, de^, im^, en^, **^er**, be^, ^or, em^, ab^, ir^, ^ish, ^ous, ^ure, ^ule, ^ance, ^ence, ^is, ^in, ^et, ^es, ^an, ^ent, ^ant, ^ine, ^ar, ^ide, ^ite, ^ese
+- re^, in^, ex^, ^'s, ^ly, ^ry, ^cy, ^ity, de^, un^, im^, en^, **^er**, be^, ^or, em^, ab^, ir^, ^ish, ^ous, ^ure, ^ule, ^ance, ^ence, ^is, ^in, ^et, ^es, ^an, ^ent, ^ant, ^ine, ^ar, ^ide, ^ite, ^ese
 - con^, off^, out^, e^, over^, non^, sub^, on^, up^, co^, or^, for^, fore^
 - dis^, mis^, pro^, pre^, under^, mal^, dys^
 - ^ive, ^ively, ^ivety ^ic, ^ize, ^ized, ^ist, ^est, ^ism
