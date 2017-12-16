@@ -32,7 +32,9 @@
   * [-F as -s](compounds/f_as_s.md)
   * [-mp](compounds/mp.md)
   * [-nch, -rch](compounds/nch_rch.md)
-  * [Reversal](compounds/reversal.md)
+  * [Inversion](compounds/inversion.md)
   * [con-, com-](compounds/con_com.md)
+  * [W as v](compounds/w-as-v.md)
+  * [-rve](compounds/rve.md)
 * [Request More Lessons](draft-work/brainstorming.md)
 

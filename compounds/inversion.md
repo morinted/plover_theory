@@ -1,10 +1,10 @@
-# Reversal
+# Inversion
 
-In this lesson, you will learn reversal; another shortening principle that will allow you to write some less common letter orders in one stroke.
+In this lesson, you will learn inversion; another shortening principle that will allow you to write some less common letter orders in one stroke.
 
 ----
 
-At the beginning of the text, I told you that steno order was firm and had to be so in order to be consistent. Then, I told you that you could "fold in" suffixes like `-G` in order to have a word like "patting" written with `PAGT`. Folding-in suffixes is similar to the practice of **reversal**, where we sometimes swap the order of two neighboring sounds in steno order.
+At the beginning of the text, I told you that steno order was firm and had to be so in order to be consistent. Then, I told you that you could "fold in" suffixes like `-G` in order to have a word like "patting" written with `PAGT`. Folding-in suffixes is similar to the practice of **inversion**, where we sometimes swap the order of two neighboring sounds in steno order.
 
 One common use is for words ending in "r":
 

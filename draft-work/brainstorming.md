@@ -10,9 +10,11 @@ Please include a note on how you'd like to be attributed. On top of the new less
 
 I've been pretty busy with real life, so I've been delaying writing more lessons until I have a better idea of how to order them and have time to do it properly. This is my queue of owed lessons:
 
-1. Anonymous
 1. Thomas
 1. Thomas
+1. Thomas
+1. Thomas
+1. [Justin](https://twitter.com/triple_lei)
 1. Thomas
 
 Thanks for your generosity. I really appreciate it and want to get to this book as soon as possible!
@@ -34,9 +36,9 @@ Complex endings/beginnings:
 * f as s ✅
 * mp ✅
 * nch, rch ✅
-* reversal (sd-, sm-, -rt, -rp) ✅
+* inversion (sd-, sm-, -rt, -rp) ✅
 * con, com ✅
-* W as V-
+* W as V- ✅
 * -rve
 * *G for -k (lk, nk)
 * -mnt
@@ -74,7 +76,7 @@ Shortening principles:
   * SKWREU
   * REU, HREU, PWEU...
 * -ie, -ey, -ee
-* Reversal
+* Inversion
 
 - All top 100 words covered ✓
 

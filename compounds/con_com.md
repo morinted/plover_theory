@@ -14,6 +14,7 @@ K-
 
 * `KPAEUR`: compare
 * `KPHOPB`: common
+* `KPOUPBD`: compound
 * `KPWAT`: combat
 * `KPAOUT`: compute
 * `KPAOURT`: computer
@@ -39,7 +40,7 @@ This next set of entries follow a very similar pattern as above, except that the
 * `KERPB`: concern
 * `KEURPL`: confirm
 
-Sometimes, you will need to add in a reversal to get the word you want due to a conflict. For example, `KEPT` is occupied by "kept", so if you want to write concept, you might consider a reversal of the `S-`:
+Sometimes, you will need to add in an inversion to get the word you want due to a conflict. For example, `KEPT` is occupied by "kept", so if you want to write concept, you might consider a inversion of the `S` and `K`:
 
 * `SKEPT`: concept
 

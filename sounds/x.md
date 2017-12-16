@@ -76,7 +76,7 @@ You might realize at this point that "ks" words like "tacks" are homophones to "
 | PRABGS  | practice    |                                                                                             |
 | TEGT    | text        |                                                                                             |
 | TPHEGT  | next        |                                                                                             |
-| TRAEBGS | extra       | tra-ex, reversal of "ex-tra"                                                                |
+| TRAEBGS | extra       | tra-ex, inversion of "ex-tra"                                                                |
 
 ### Practice
 
