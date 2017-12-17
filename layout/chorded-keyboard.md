@@ -13,15 +13,15 @@ Here is the steno keyboard layout in all its glory:
 You'll probably notice some oddities:
 
 - Missing keys: no "i" key, no "n", no shift, no punctuation.
-- Repeated keys: two Ts, three Ss, two Ps.
+- Repeated keys: two S's, T', P's, and R's.
 
-Everything else that's missing from the keyboard will be made through chords.
+Everything that's missing from the base layout is made with chords made up of keys.
 
-There are multiples of some keys because, at its core, the steno layout make syllables. A syllable, like "tot", can have the same consonant at the beginning and the end. In the same way, the steno keyboard has a "T" near the beginning and the end. The layout actually has an explicit order across all its keys.
+There are multiples of some keys because, at its core, the steno layout makes syllables. A syllable, like "tot", can have the same consonant at the beginning and the end. In the same way, the steno keyboard has a "T" near the beginning and the end. The layout actually has an explicit order across all its keys.
 
 ### Steno Order
 
-Steno keys are always processed in the same order. No matter if you hit "H" then "U" or "U" then "H" on the keyboard, the chord is always processed as "HU".
+Steno keys are always processed in the same order. No matter if you hit "H" then "U" or "U" then "H" on the keyboard, the chord is **always** processed as "HU".
 
 **The full steno order is:**
 
