@@ -2,6 +2,23 @@
 
 Stenography uses a chorded keyboard. **On a chorded keyboard, you hit multiple keys at once**, instead of one at a time. All keys are released simultaneously and the **order that you hit them in doesn't matter**.
 
+----
+
+Here is the steno keyboard layout in all its glory:
+
+{% stenodisplay labels="all" %}
+-
+{% endstenodisplay %}
+
+You'll probably notice some oddities:
+
+- Repeated keys: two Ts, three Ss, two Ps.
+- Missing keys: no "i" key, no "n", no shift, no punctuation.
+
+There are multiples of some keys because the at its core, the layout make syllables. A syllable, like "tot", can have the same consonant twice.
+
+Everything else that's missing from the keyboard will be made through chords.
+
 ### Steno Order
 
 Steno keys are always processed in the same order. No matter if you hit "H" then "U" or "U" then "H" on the keyboard, the chord is always processed as "HU".
@@ -10,7 +27,7 @@ Steno keys are always processed in the same order. No matter if you hit "H" then
 
 > **\#STKPWHRAO\*EUFRPBLGTSDZ**
 
-The** left-hand side gives us the starting sounds** \(onset\), the **center gives us the vowel sounds**, and the **right-hand side gives us the ending sounds** \(coda\).
+The **left-hand side gives us the starting sounds** \(onset\), the **center gives us the vowel sounds**, and the **right-hand side gives us the ending sounds** \(coda\).
 
 Most stenographers will memorize steno order, either in study or as a consequence of reading raw steno notes. For now, you can refer back to this lesson while you are still learning. If you are ever on your machine and want to know steno order, just mash every key then release, and steno order will pop out!
 
