@@ -12,12 +12,12 @@ Here is the steno keyboard layout in all its glory:
 
 You'll probably notice some oddities:
 
-- Repeated keys: two Ts, three Ss, two Ps.
 - Missing keys: no "i" key, no "n", no shift, no punctuation.
-
-There are multiples of some keys because the at its core, the layout make syllables. A syllable, like "tot", can have the same consonant twice.
+- Repeated keys: two Ts, three Ss, two Ps.
 
 Everything else that's missing from the keyboard will be made through chords.
+
+There are multiples of some keys because, at its core, the steno layout make syllables. A syllable, like "tot", can have the same consonant at the beginning and the end. In the same way, the steno keyboard has a "T" near the beginning and the end. The layout actually has an explicit order across all its keys.
 
 ### Steno Order
 
