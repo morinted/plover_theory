@@ -60,6 +60,7 @@ Here are some briefs that follow that pattern.
 | `SPAOERPBS` | experience | |
 | `SPERPLT` | experiment | |
 | `TAEUPLT` | entertainment | |
+| `PARPLT` | apartment | |
 | `TPHOUPBS` | announce | Use `TPHOUPBZ` for "nouns" |
 | `TPHOUPLT` | announcement | |
 | `TKPWRAOE` | agree | |
