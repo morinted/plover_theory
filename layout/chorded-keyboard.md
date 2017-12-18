@@ -12,12 +12,14 @@ Here is the steno keyboard layout in all its glory:
 
 You'll probably notice some oddities:
 
-- Missing keys: no "i" key, no "n", no shift, no punctuation.
-- Repeated keys: two S's, T', P's, and R's.
+- Missing keys: no "i" key, no "n", no shift, little punctuation.
+- Repeated keys: two S's, T's, P's, and R's.
 
-Everything that's missing from the base layout is made with chords made up of keys.
+While strange and foreign, this really low number of keys is just about perfect for our ten fingers, and is part of what makes stenography so fast and ergonomic.
 
-There are multiples of some keys because, at its core, the steno layout makes syllables. A syllable, like "tot", can have the same consonant at the beginning and the end. In the same way, the steno keyboard has a "T" near the beginning and the end. The layout actually has an explicit order across all its keys.
+Everything that's missing from the base layout is made with chords made up of keys. Not only that, but the names of the keys don't represent letters, they represent sounds. If you hit the `W` key, the result is not the letter "w", like on a typing keyboard, it is the full word "with". More on that later!
+
+There are multiples of some keys because, at its core, the **steno layout makes syllables**. A syllable, like "tot", can have the same consonant at the beginning and the end. In the same way, the steno keyboard has a "T" near the beginning and the end. The layout actually has an explicit order across all its keys.
 
 ### Steno Order
 

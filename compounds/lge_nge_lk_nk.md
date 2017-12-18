@@ -68,3 +68,4 @@ For the same reasons that we can't have `-L` and `-PB` and -J at the same time, 
 | `TPRA*PBG`    | Frank       |  |
 | `SHRAO*EPBG`  | slink       | "Sling" and "shrink" occupy the intuitive options for this stroke, so we change the vowel to a tense E sound in order to at least have a way to write it. If you wrote "slink" much more frequently than "shrink" you could swap these definitions. |
 | `KHOL` | alcohol |  |
+| `KHO*LG` | alcoholic | |
