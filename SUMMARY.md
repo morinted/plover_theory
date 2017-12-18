@@ -34,8 +34,9 @@
   * [-nch, -rch](compounds/nch_rch.md)
   * [Inversion](compounds/inversion.md)
   * [con-, com-](compounds/con_com.md)
-  * [W as v](compounds/w-as-v.md)
+  * [W as v](compounds/w_as_v.md)
   * [-rve](compounds/rve.md)
   * [-ment](compounds/ment.md)
+  * [-lge, -nge, -lk, -nk](compounds/lge_nge_lk_nk.md)
 * [Request More Lessons](draft-work/brainstorming.md)
 
