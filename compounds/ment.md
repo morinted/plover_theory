@@ -34,6 +34,7 @@ And finally, here are some examples where we drop consonants in order to get eve
 * `EUPLT`: implement
 * `TKPWOFPLT`: government
 * `STAEUPLT`: statement
+* `PWAEUFPLT` or `PWAEUPLT`: basement
 * `TRAOEPLT`: treatment
 * `KPHEUPLT`: commitment
 * `TPRAPLT`: fragment
