@@ -36,5 +36,6 @@
   * [con-, com-](compounds/con_com.md)
   * [W as v](compounds/w-as-v.md)
   * [-rve](compounds/rve.md)
+  * [-ment](compounds/ment.md)
 * [Request More Lessons](draft-work/brainstorming.md)
 

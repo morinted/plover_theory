@@ -12,8 +12,6 @@ I've been pretty busy with real life, so I've been delaying writing more lessons
 
 1. Thomas
 1. Thomas
-1. Thomas
-1. Thomas
 1. [Justin](https://twitter.com/triple_lei)
 1. Thomas
 
@@ -39,9 +37,9 @@ Complex endings/beginnings:
 * inversion (sd-, sm-, -rt, -rp) ✅
 * con, com ✅
 * W as V- ✅
-* -rve
+* -rve ✅
 * *G for -k (lk, nk)
-* -mnt
+* -mnt ✅
 * SPW- int
 
 #### Lesson Plan for Prefixes
