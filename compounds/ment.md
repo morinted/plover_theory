@@ -77,7 +77,6 @@ Here are some briefs that follow that pattern.
 | `APLT`    | amount |  |
 | `UPLT`  | ultimate |  |
 | `TKOUPLT` | document |  |
-| `TPROPLT` | from moment to moment |  |
 | `SREPLT` | development |  |
 | `SREF` | invest | |
 | `SREFR` | investor | |

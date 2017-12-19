@@ -14,15 +14,16 @@ Because `-L` and `-PB` share keys with the -J sound (`-PBLG`), we need to use a 
 
 * `PWULG`: bulge
 * `TKWULG`: divulge
+
+{% stenodisplay labels="all" %}
+-PBG
+{% endstenodisplay %}
+
 * `KREUPBG`: cringe
 * `TEUPBG`: tinge
 * `HEUPBG`: hinge
 
 You'll have to exercise caution here, as these chords conflict with words ending in "ing", like "bing". If a word has a hard G sound, it will get the chord, and the soft G version will be writable by adding the asterisk:
-
-{% stenodisplay labels="all" %}
--PBG
-{% endstenodisplay %}
 
 * `PWEUPBG`: bing
 * `PW*EUPBG`: binge
@@ -64,6 +65,8 @@ For the same reasons that we can't have `-L` and `-PB` and -J at the same time, 
 
 |   Chord    |  Translation  | Notes |
 | :--------- | :------------ | :---- |
+| `THAPBG` | thank | |
+| `THAPBGS` | thanks | |
 | `TPRAPBG`    | frank       |  |
 | `TPRA*PBG`    | Frank       |  |
 | `SHRAO*EPBG`  | slink       | "Sling" and "shrink" occupy the intuitive options for this stroke, so we change the vowel to a tense E sound in order to at least have a way to write it. If you wrote "slink" much more frequently than "shrink" you could swap these definitions. |
