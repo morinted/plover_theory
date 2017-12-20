@@ -10,7 +10,6 @@ Please include a note on how you'd like to be attributed. On top of the new less
 
 I've been pretty busy with real life, so I've been delaying writing more lessons until I have a better idea of how to order them and have time to do it properly. This is my queue of owed lessons:
 
-1. Thomas
 1. [Justin](https://twitter.com/triple_lei)
 1. Thomas
 1. Thomas
@@ -40,7 +39,7 @@ Complex endings/beginnings:
 * -rve ✅
 * *G for -k (lk, nk) ✅
 * -mnt ✅
-* SPW- int
+* SPW- int ✅
 
 #### Lesson Plan for Prefixes
 

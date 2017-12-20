@@ -38,5 +38,6 @@
   * [-rve](compounds/rve.md)
   * [-ment](compounds/ment.md)
   * [-lge, -nge, -lk, -nk](compounds/lge_nge_lk_nk.md)
+  * [ent-, int-](compounds/end_int.md)
 * [Request More Lessons](draft-work/brainstorming.md)
 
