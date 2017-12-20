@@ -29,6 +29,7 @@ A little more complex:
 
 We can add in sounds on the left hand, too:
 
+* `SPWRUPT`: interupt
 * `SPWRABGS`: interaction
 * `SPWREU`: entry
 * `SPWRAPBS`: entrance
@@ -43,6 +44,7 @@ We can add in sounds on the left hand, too:
 | `SPWELGS` | intelligence | |
 | `SPWOURPBLG` | entourage | |
 | `SPWROUS` | introduce | |
+| `SPWERPT` | interpret | |
 | `PROU` | produce | |
 | `PROUS` | produces | |
 | `PROUR` | producer | |
