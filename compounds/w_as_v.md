@@ -2,7 +2,7 @@
 
 _Special thanks to a generous stranger for funding this lesson._
 
-This lesson teaches a trick to write strokes with where there was a "v" near an unstressed vowel, like in "devour" and "severe".
+This lesson teaches a trick to write words where there is a "v" following an initial consonant, like in "devour" and "severe".
 
 -------
 
