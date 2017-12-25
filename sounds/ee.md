@@ -77,7 +77,7 @@ This is best illustrated through examples:
 | `THEZ`            | these       |                                                                |
 | `PHREZ`, `PHRAES` | please      |                                                                |
 | `R-L`, `HRAOERL`  | really      | `HRAOERL` inverts the syllables, from "real-ly" to "ly-real"  |
-| `R-D`, `TKREA`    | ready       |                                                                |
+| `R-D`, `TKRAE`    | ready       |                                                                |
 | `K-P`             | company     |                                                                |
 
 ### Practice
