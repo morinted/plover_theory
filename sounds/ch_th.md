@@ -81,10 +81,9 @@ Write the English sentence represented by these outlines, including punctuation.
 5. `WE HR TKO TH AUL TOGT TP-PL`
 6. `HR-GT WE H HROTS -F STUF TO TKO TP-PL`
 7. `KHAT W HER TP-PL`
-8. `U PWHREF THA U HROF HER KW-BG U HR PWHR AEU HOUS TOGT TP-PL`
-9. `S T WO*RT T TO HREF HR-R H-F`
-10. `-T SHRO*T HAS AEU HROT -F WRA*T TP-PL`
-11. `U R AULZ HR-BG TP-PL`
+8. `S T WO*RT T TO HREF HR-R H-F`
+9. `-T SHRO*T HAS AEU HROT -F WRA*T TP-PL`
+10. `U R AULZ HR-BG TP-PL`
 
 Remember that if you can't figure out an outline, you can look it up in the theory dictionary.
 
@@ -98,4 +97,3 @@ Find steno outlines that will write these English sentences, including punctuati
 4. Earth is lovely. We will always love it.
 5. Will you catch the ball before it drops?
 6. Check the charts, okay?
-7. He has chapped lips.
