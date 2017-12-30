@@ -33,7 +33,7 @@ AU
 
 * `SAU`: saw
 * `TAUBG`: talk \(`TABG`: tack\)
-* `AUL`: all \(`AL`: Al\)
+* `AUL`: all \(`AL`: al\)
 * `PAUL`: Paul
 
 #### `OU`: the "ow" sound.
