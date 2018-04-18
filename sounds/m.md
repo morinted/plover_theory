@@ -47,7 +47,6 @@ Right side M is made with the combination `-PL`. This _does_ conflict with words
 | PHEU             | my          | Spelling instead of phonetics                                                                                                                              |
 | EPLT             | empty       | Think "em tee"                                                                                                                                              |
 | P-FR             | perfect     |                                                                                                                                                             |
-| PH-BG            | mechanic    |                                                                                                                                                             |
 | HAP              | happen      |                                                                                                                                                             |
 | HEP              | help        | HEPL is "hem"                                                                                                                                               |
 | SKHRAPL or TP-BG | {!}         | The exclamation mark is written with "sklam". Alternatively, TP-BG can be used.                                                                             |
@@ -71,8 +70,7 @@ Write the English sentence represented by these outlines, including punctuation.
 
 Find steno outlines that will write these English sentences, including punctuation.
 
-1. The mechanic is about to help me with my car.
+1. He is about to help me with my car.
 2. Stop the truck!
 3. What did you think would happen, mom?
-4. You're a mechanic, I think you can do it.
-5. Help me out, would you?
+4. Help me out, would you?
