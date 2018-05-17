@@ -1,45 +1,12 @@
 ## **Oh, no, you've reached the end of the book!**
 
-I'm still writing it. **If you want to give me encouragement, a tip of any size to **[**my PayPal**](https://www.paypal.me/morinted)** will guarantee a new page with your name on it!**
-
-Please include a note on how you'd like to be attributed. On top of the new lesson, I'll put a name and link of your choice, or can keep you anonymous.
-
-\(I reserve the right to veto any name or link I find inappropriate -- I want to keep the textbook family-friendly as best as possible. GitHub, Twitter, and personal websites should all be fine\)
-
-#### Pending Lessons
-
-I've been pretty busy with real life, so I've been delaying writing more lessons until I have a better idea of how to order them and have time to do it properly. This is my queue of owed lessons:
-
-1. [Justin](https://twitter.com/triple_lei)
-1. Thomas
-1. Thomas
-
-Thanks for your generosity. I really appreciate it and want to get to this book as soon as possible!
-
----
+I'm still writing more lessons! If you'd like to support the writing of new lessons, you can support me on [my Patreon](https://www.patreon.com/morinted). Thanks so much for learning with me 😬
 
 {% stenodisplay %}
 SKPROUFBLSD
 {% endstenodisplay %}
 
 ### Brainstorming
-
-#### Lesson Plan for Compounds
-
-Complex endings/beginnings:
-
-* unstressed (ble, kt, ng) ✅
-* shun, kshun ✅
-* f as s ✅
-* mp ✅
-* nch, rch ✅
-* inversion (sd-, sm-, -rt, -rp) ✅
-* con, com ✅
-* W as V- ✅
-* -rve ✅
-* *G for -k (lk, nk) ✅
-* -mnt ✅
-* SPW- int ✅
 
 #### Lesson Plan for Prefixes
 
@@ -61,6 +28,11 @@ Categorize by... alphabet? Frequency? Similarity?
 - ^back, ^book, ^ville, ^-based, ^top, ^-looking, ^work, ^hood, ^-year, ^hand, ^ship, ^-free, ^-type, ^room, ^down, ^hold, ^-specific, ^-shaped, ^-proof, ^-wise, ^scape, ^land, ^over, ^men, ^-day, ^time, ^field
 - idio^, para-, ^logical, ^ologic, ^ological, pseudo^, ^ology, ^ette, ^tope, infra^
 
+#### Word Families
+
+- threefers
+- identity, identify, identification, identifier
+- idea, ideal, island, aisle, isle
 
 #### Broad Discussion Topics
 
@@ -104,3 +76,4 @@ In the later lessons I think I'll move more into a format where I have one or tw
 - Capitalization
 - Punctuation
 - Cursor movement
+- Word joining
