@@ -1,3 +1,5 @@
+!REDIRECT "http://www.artofchording.com/sounds/dbl"
+
 # Left side D, B, and L
 
 ### Left side D
