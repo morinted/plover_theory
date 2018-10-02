@@ -1,3 +1,5 @@
+!REDIRECT "http://www.artofchording.com/sounds/ay_oy"
+
 # Vowels ay and oy
 
 This lesson covers how you write the vowel sounds given by the diphthongs "ay" \(shame, claim\) and "oy" \(oil, royal\).
