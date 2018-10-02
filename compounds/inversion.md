@@ -1,3 +1,5 @@
+!REDIRECT "http://www.artofchording.com/compounds/inversion"
+
 # Inversion
 
 In this lesson, you will learn inversion; another shortening principle that will allow you to write some less common letter orders in one stroke.
