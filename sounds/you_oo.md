@@ -1,3 +1,5 @@
+!REDIRECT "http://www.artofchording.com/sounds/you_oo"
+
 # Vowels you and oo
 
 _Special thanks to _[_Luke Silva_](https://github.com/LukeSilva)_ for funding this lesson._

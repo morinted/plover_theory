@@ -1,3 +1,5 @@
+!REDIRECT "http://www.artofchording.com/sounds/y_z"
+
 # Left side Y and Z
 
 _Special thanks to Thomas Pacheco for funding this lesson._
