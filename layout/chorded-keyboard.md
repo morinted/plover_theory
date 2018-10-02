@@ -1,3 +1,5 @@
+!REDIRECT "http://www.artofchording.com/layout/chorded-keyboard.html"
+
 # Chorded Keyboard
 
 Stenography uses a chorded keyboard. **On a chorded keyboard, you hit multiple keys at once**, instead of one at a time. All keys are released simultaneously and the **order that you hit them in doesn't matter**.
