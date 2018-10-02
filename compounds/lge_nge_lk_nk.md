@@ -1,3 +1,5 @@
+!REDIRECT "http://www.artofchording.com/compounds/lge_nge_lk_nk"
+
 # -lge, -nge, -lk, -nk
 
 _Special thanks to Thomas Pacheco for funding this lesson._
