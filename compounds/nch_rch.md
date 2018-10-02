@@ -1,3 +1,5 @@
+!REDIRECT "http://www.artofchording.com/compounds/nch_rch"
+
 # -nch, -rch
 
 _Special thanks to Thomas Pacheco for funding this lesson._
