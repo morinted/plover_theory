@@ -1,3 +1,5 @@
+!REDIRECT "http://www.artofchording.com/compounds/w_as_v"
+
 # W as v-
 
 _Special thanks to a generous stranger for funding this lesson._
