@@ -1,3 +1,5 @@
+!REDIRECT "http://www.artofchording.com/sounds/fingerspelling"
+
 # Fingerspelling
 
 A huge thank you to an anonymous [Plover Blog](http://plover.stenoknight.com/) reader for funding this lesson.
