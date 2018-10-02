@@ -1,3 +1,5 @@
+!REDIRECT "http://www.artofchording.com/compounds/con_com"
+
 # con-, com-
 
 _Special thanks to Thomas Pacheco for funding this lesson._
