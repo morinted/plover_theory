@@ -1,4 +1,4 @@
-!REDIRECT "http://www.artofchording.com/sounds/ee"
+!REDIRECT "http://www.artofchording.com/sounds/ee.html"
 
 # Vowel ee
 

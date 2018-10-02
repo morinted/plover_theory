@@ -1,4 +1,4 @@
-!REDIRECT "http://www.artofchording.com/layout/bottom-row"
+!REDIRECT "http://www.artofchording.com/layout/bottom-row.html"
 
 # Bottom Row
 

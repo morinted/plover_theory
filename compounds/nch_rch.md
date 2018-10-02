@@ -1,4 +1,4 @@
-!REDIRECT "http://www.artofchording.com/compounds/nch_rch"
+!REDIRECT "http://www.artofchording.com/compounds/nch_rch.html"
 
 # -nch, -rch
 

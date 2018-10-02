@@ -1,4 +1,4 @@
-!REDIRECT "http://www.artofchording.com/compounds/lge_nge_lk_nk"
+!REDIRECT "http://www.artofchording.com/compounds/lge_nge_lk_nk.html"
 
 # -lge, -nge, -lk, -nk
 

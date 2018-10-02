@@ -1,4 +1,4 @@
-!REDIRECT "http://www.artofchording.com/draft-work/brainstorming"
+!REDIRECT "http://www.artofchording.com/draft-work/brainstorming.html"
 
 ## **Oh, no, you've reached the end of the book!**
 

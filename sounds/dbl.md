@@ -1,4 +1,4 @@
-!REDIRECT "http://www.artofchording.com/sounds/dbl"
+!REDIRECT "http://www.artofchording.com/sounds/dbl.html"
 
 # Left side D, B, and L
 

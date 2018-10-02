@@ -1,4 +1,4 @@
-!REDIRECT "http://www.artofchording.com/sounds/y_z"
+!REDIRECT "http://www.artofchording.com/sounds/y_z.html"
 
 # Left side Y and Z
 

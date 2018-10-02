@@ -1,4 +1,4 @@
-!REDIRECT "http://www.artofchording.com/sounds/aw_ow_-k"
+!REDIRECT "http://www.artofchording.com/sounds/aw_ow_-k.html"
 
 # Vowels aw and ow; Right side K
 

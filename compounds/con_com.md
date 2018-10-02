@@ -1,4 +1,4 @@
-!REDIRECT "http://www.artofchording.com/compounds/con_com"
+!REDIRECT "http://www.artofchording.com/compounds/con_com.html"
 
 # con-, com-
 

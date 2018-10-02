@@ -1,3 +1,5 @@
+!REDIRECT "http://www.artofchording.com/compound_sounds/"
+
 # Compound Sounds
 
 Now we know all the core sounds in steno theory. This covers all of the letters of the alphabet as well as all the phonemes in English.
