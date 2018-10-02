@@ -1,3 +1,5 @@
+!REDIRECT "http://www.artofchording.com/layout/basic-number-bar"
+
 # Basic Number Bar
 
 The final key on the steno layout is also the biggest one. It lies on top of the whole layout, accessible with any finger from the top row. The number bar is used in steno to produce digits.
