@@ -1,3 +1,5 @@
+!REDIRECT "http://www.artofchording.com/layout/top-row.html"
+
 # Top Row
 
 This lesson introduces about **half the keyboard**: the** top row** of the keyboard and **two vowels**.
