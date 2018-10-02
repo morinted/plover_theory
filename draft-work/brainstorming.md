@@ -1,3 +1,5 @@
+!REDIRECT "http://www.artofchording.com/draft-work/brainstorming"
+
 ## **Oh, no, you've reached the end of the book!**
 
 I'm still writing more lessons! If you'd like to support the writing of new lessons, you can support me on [my Patreon](https://www.patreon.com/morinted). Thanks so much for learning with me 😬
