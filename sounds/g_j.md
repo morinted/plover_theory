@@ -1,3 +1,5 @@
+!REDIRECT "http://www.artofchording.com/sounds/g_j"
+
 # Both sides G and J
 
 _Special thanks to _[_Mirabai Knight_](http://stenoknight.com)_ for funding this lesson._
