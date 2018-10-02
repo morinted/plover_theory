@@ -1,6 +1,6 @@
 {
     "plugins": [
-        "github-buttons", "edit-link", "page-footer-ex", "steno", "autocover"
+        "redirect", "github-buttons", "edit-link", "page-footer-ex", "steno", "autocover"
     ],
     "title": "Plover Theory: Learn Stenography",
     "author": "Ted Morin",
