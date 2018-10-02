@@ -1,3 +1,5 @@
+!REDIRECT "http://www.artofchording.com/sounds/ch_th"
+
 # Both sides CH and TH
 
 _Special thanks to _[_Scott Pierce_](https://ddrscott.github.io)_ for funding this lesson._
