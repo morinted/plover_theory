@@ -1,3 +1,5 @@
+!REDIRECT "http://www.artofchording.com/sounds/v"
+
 # Both sides V
 
 _Special thanks to _[_Joe Wasson_](http://talljoe.com/)_ for funding this lesson._
