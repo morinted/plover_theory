@@ -1,3 +1,5 @@
+!REDIRECT "http://www.artofchording.com/sounds/ee"
+
 # Vowel ee
 
 _Special thanks to Paolo Michela for funding this lesson._
