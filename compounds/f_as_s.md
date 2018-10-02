@@ -1,3 +1,5 @@
+!REDIRECT "http://www.artofchording.com/compounds/f_as_s"
+
 # -F as -s
 
 _Special thanks to Thomas Pacheco for funding this lesson._
