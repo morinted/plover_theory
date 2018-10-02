@@ -1,4 +1,4 @@
-!REDIRECT "http://www.artofchording.com/compounds/rve"
+!REDIRECT "http://www.artofchording.com/compounds/rve.html"
 
 # -rve
 

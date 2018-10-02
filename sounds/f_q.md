@@ -1,4 +1,4 @@
-!REDIRECT "http://www.artofchording.com/sounds/f_q"
+!REDIRECT "http://www.artofchording.com/sounds/f_q.html"
 
 # Left side F and Q
 

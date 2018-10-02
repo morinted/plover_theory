@@ -1,4 +1,4 @@
-!REDIRECT "http://www.artofchording.com/sounds/i"
+!REDIRECT "http://www.artofchording.com/sounds/i.html"
 
 # Vowel i
 

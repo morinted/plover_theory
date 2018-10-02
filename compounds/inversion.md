@@ -1,4 +1,4 @@
-!REDIRECT "http://www.artofchording.com/compounds/inversion"
+!REDIRECT "http://www.artofchording.com/compounds/inversion.html"
 
 # Inversion
 

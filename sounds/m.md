@@ -1,4 +1,4 @@
-!REDIRECT "http://www.artofchording.com/sounds/m"
+!REDIRECT "http://www.artofchording.com/sounds/m.html"
 
 # Both sides M
 

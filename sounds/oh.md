@@ -1,4 +1,4 @@
-!REDIRECT "http://www.artofchording.com/sounds/oh"
+!REDIRECT "http://www.artofchording.com/sounds/oh.html"
 
 # Vowel oh
 

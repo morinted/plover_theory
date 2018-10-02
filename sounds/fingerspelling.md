@@ -1,4 +1,4 @@
-!REDIRECT "http://www.artofchording.com/sounds/fingerspelling"
+!REDIRECT "http://www.artofchording.com/sounds/fingerspelling.html"
 
 # Fingerspelling
 

@@ -1,5 +1,7 @@
 # The Layout
 
+!REDIRECT "http://www.artofchording.com/layout/"
+
 In the first chapter you will learn:
 
 - What makes a chorded keyboard different

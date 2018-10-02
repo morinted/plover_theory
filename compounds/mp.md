@@ -1,4 +1,4 @@
-!REDIRECT "http://www.artofchording.com/compounds/mp"
+!REDIRECT "http://www.artofchording.com/compounds/mp.html"
 
 # -mp
 

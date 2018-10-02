@@ -1,4 +1,4 @@
-!REDIRECT "http://www.artofchording.com/sounds/ay_oy"
+!REDIRECT "http://www.artofchording.com/sounds/ay_oy.html"
 
 # Vowels ay and oy
 

@@ -1,4 +1,4 @@
-!REDIRECT "http://www.artofchording.com/compounds/shun"
+!REDIRECT "http://www.artofchording.com/compounds/shun.html"
 
 # -shun, -kshun
 

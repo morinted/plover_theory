@@ -1,4 +1,4 @@
-!REDIRECT "http://www.artofchording.com/sounds/you_oo"
+!REDIRECT "http://www.artofchording.com/sounds/you_oo.html"
 
 # Vowels you and oo
 

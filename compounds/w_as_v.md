@@ -1,4 +1,4 @@
-!REDIRECT "http://www.artofchording.com/compounds/w_as_v"
+!REDIRECT "http://www.artofchording.com/compounds/w_as_v.html"
 
 # W as v-
 

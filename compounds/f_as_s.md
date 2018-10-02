@@ -1,4 +1,4 @@
-!REDIRECT "http://www.artofchording.com/compounds/f_as_s"
+!REDIRECT "http://www.artofchording.com/compounds/f_as_s.html"
 
 # -F as -s
 

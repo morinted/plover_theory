@@ -1,4 +1,4 @@
-!REDIRECT "http://www.artofchording.com/layout/basic-number-bar"
+!REDIRECT "http://www.artofchording.com/layout/basic-number-bar.html"
 
 # Basic Number Bar
 

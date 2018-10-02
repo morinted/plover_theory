@@ -1,4 +1,4 @@
-!REDIRECT "http://www.artofchording.com/sounds/sh"
+!REDIRECT "http://www.artofchording.com/sounds/sh.html"
 
 # Both sides SH
 

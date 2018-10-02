@@ -1,4 +1,4 @@
-!REDIRECT "http://www.artofchording.com/compounds/ent_int"
+!REDIRECT "http://www.artofchording.com/compounds/ent_int.html"
 
 # ent-, int-
 

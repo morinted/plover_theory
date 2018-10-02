@@ -1,4 +1,4 @@
-!REDIRECT "http://www.artofchording.com/layout/d-and-z"
+!REDIRECT "http://www.artofchording.com/layout/d-and-z.html"
 
 # \*, D, and Z
 

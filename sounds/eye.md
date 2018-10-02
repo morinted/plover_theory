@@ -1,4 +1,4 @@
-!REDIRECT "http://www.artofchording.com/sounds/eye"
+!REDIRECT "http://www.artofchording.com/sounds/eye.html"
 
 
 # Vowel eye
