@@ -1,3 +1,5 @@
+!REDIRECT "http://www.artofchording.com/layout/d-and-z"
+
 # \*, D, and Z
 
 The last couple keys on the main part of the board are off the main layout and will require some lateral \(side-to-side\) movement from your fingers to reach them. It's best not to shift your whole hand, as you don't want all your fingers to get out of place.
