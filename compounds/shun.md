@@ -1,3 +1,5 @@
+!REDIRECT "http://www.artofchording.com/compounds/shun"
+
 # -shun, -kshun
 
 _Special thanks to Thomas Pacheco for funding this lesson._
