@@ -1,3 +1,5 @@
+!REDIRECT "http://www.artofchording.com/sounds/aw_ow_-k"
+
 # Vowels aw and ow; Right side K
 
 Now that we've covered every key in the steno layout, we need to start addressing the missing sounds.
