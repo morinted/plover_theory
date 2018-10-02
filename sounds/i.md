@@ -1,3 +1,5 @@
+!REDIRECT "http://www.artofchording.com/sounds/i"
+
 # Vowel i
 
 This lesson covers how you write the vowel sound in "ill" and "his".
