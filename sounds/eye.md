@@ -1,3 +1,6 @@
+!REDIRECT "http://www.artofchording.com/sounds/eye"
+
+
 # Vowel eye
 
 This lesson covers how you write the "eye" vowel sound in "buy" and "file".
