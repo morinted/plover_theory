@@ -1,3 +1,5 @@
+!REDIRECT "http://www.artofchording.com/sounds/oh"
+
 # Vowel oh
 
 _Special thanks to Thomas Pacheco for funding this lesson._

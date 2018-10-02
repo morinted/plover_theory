@@ -1,3 +1,5 @@
+!REDIRECT "http://www.artofchording.com/sounds/n"
+
 # Both sides N
 
 _Special thanks to Wilfried for funding this lesson._
