@@ -1,3 +1,5 @@
+!REDIRECT "http://www.artofchording.com/compounds/ent_int"
+
 # ent-, int-
 
 _Special thanks to Thomas Pacheco for funding this lesson._
