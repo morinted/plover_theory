@@ -1,3 +1,5 @@
+!REDIRECT "http://www.artofchording.com/layout/bottom-row"
+
 # Bottom Row
 
 This lesson introduces about most of the remainder of the keyboard: the** bottom row** of the keyboard and the **two other vowels**.
