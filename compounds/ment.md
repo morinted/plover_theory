@@ -1,3 +1,5 @@
+!REDIRECT "http://www.artofchording.com/compounds/ment"
+
 # -ment
 
 _Special thanks to Thomas Pacheco for funding this lesson._
