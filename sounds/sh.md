@@ -1,3 +1,5 @@
+!REDIRECT "http://www.artofchording.com/sounds/sh"
+
 # Both sides SH
 
 _Special thanks to Fabio Angeloni for funding this lesson._
