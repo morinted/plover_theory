@@ -1,3 +1,5 @@
+!REDIRECT "http://www.artofchording.com/sounds/x"
+
 # Both sides X
 
 _Special thanks to a Plover community member for funding this lesson._
