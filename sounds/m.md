@@ -1,3 +1,5 @@
+!REDIRECT "http://www.artofchording.com/sounds/m"
+
 # Both sides M
 
 This lesson covers how you write the initial and final M sound on the steno layout.

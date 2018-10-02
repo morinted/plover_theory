@@ -1,3 +1,5 @@
+!REDIRECT "http://www.artofchording.com/sounds/f_q"
+
 # Left side F and Q
 
 This lesson covers how you write words beginning with F and Q sounds.
